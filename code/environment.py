@@ -70,7 +70,15 @@ class Episode(object):
             self.state['next_relations'] = next_actions[:, :, 1]
             self.state['next_entities'] = next_actions[:, :, 0]
             self.state['current_entities'] = self.current_entities
-            print(self.state)
+
+            # TODO
+            vertices = []
+            adjs = []
+            self.state['vertices'] = vertices
+            self.state['adjs'] = adjs
+            # end
+
+            #print(self.state)
             return self.state
 
 class Env(object):
@@ -111,6 +119,5 @@ class Env(object):
                     if data == None:
                         return
                     yield Episode(self.grapher, data, params)
-
 
 

@@ -53,7 +53,7 @@ class RelationEntityGrapher:
             if current_entities[i] == start_entities[i]:
                 relations = ret[i, :, 1]
                 entities = ret[i, :, 0]
-                mask = np.logical_and(relations == query_relations[i] , entities == answers[i])
+                mask = np.logical_and(relations == query_relations[i], entities == answers[i])
                 ret[i, :, 0][mask] = self.ePAD
                 ret[i, :, 1][mask] = self.rPAD
             if last_step:
