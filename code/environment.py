@@ -72,8 +72,20 @@ class Episode(object):
             self.state['current_entities'] = self.current_entities
 
             # TODO
+            k_degree = 3
             vertices = []
             adjs = []
+
+            vertices.append(self.state['next_entities'])
+            adjs.append(self.start_entities['next_relations'])
+
+            ret = self.array_store[self.current_entities, :, :].copy()
+            for i in range(self.current_entities.shape[0]):
+                relations = ret[i, :, 1]
+                entities = ret[i, :, 0]
+                vertices.append(entities)
+                adjs.append(relations)
+
             self.state['vertices'] = vertices
             self.state['adjs'] = adjs
             # end
