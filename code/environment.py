@@ -77,7 +77,7 @@ class Episode(object):
                 neighbor_relation = []
                 for r, e2 in store[current_entity]:
                     neighbor_entity.append(e2)
-                    neighbor_relation.append([current_entity, r, e2])
+                    neighbor_relation.append([current_entity, e2])
                 return neighbor_entity, neighbor_relation
 
             k_degree = 3
@@ -96,8 +96,8 @@ class Episode(object):
                     k_adjs.extend(neighbor_relation)
                 # print(k_vertices)
                 current_entity_list = k_vertices
-                vertices.append(k_vertices)
-                adjs.append(k_adjs)
+                vertices.extend(k_vertices)
+                adjs.extend(k_adjs)
 
             self.state['vertices'] = vertices
             self.state['adjs'] = adjs
