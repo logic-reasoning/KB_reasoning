@@ -71,20 +71,33 @@ class Episode(object):
             self.state['next_entities'] = next_actions[:, :, 0]
             self.state['current_entities'] = self.current_entities
 
-            # TODO
+            # TODO:
+            def fine_one_node_neighbor(current_entity, store):
+                neighbor_entity = []
+                neighbor_relation = []
+                for r, e2 in store[current_entity]:
+                    neighbor_entity.append(e2)
+                    neighbor_relation.append([current_entity, r, e2])
+                return neighbor_entity, neighbor_relation
+
             k_degree = 3
             vertices = []
             adjs = []
 
-            vertices.append(self.state['next_entities'])
-            adjs.append(self.start_entities['next_relations'])
+            current_entity_list = self.current_entities
 
-            ret = self.array_store[self.current_entities, :, :].copy()
-            for i in range(self.current_entities.shape[0]):
-                relations = ret[i, :, 1]
-                entities = ret[i, :, 0]
-                vertices.append(entities)
-                adjs.append(relations)
+            for k in range(k_degree):
+                # print(k)
+                k_vertices = []
+                k_adjs = []
+                for current_entity in current_entity_list:
+                    neighbor_entity, neighbor_relation = fine_one_node_neighbor(current_entity, self.store)
+                    k_vertices.extend(neighbor_entity)
+                    k_adjs.extend(neighbor_relation)
+                # print(k_vertices)
+                current_entity_list = k_vertices
+                vertices.append(k_vertices)
+                adjs.append(k_adjs)
 
             self.state['vertices'] = vertices
             self.state['adjs'] = adjs
