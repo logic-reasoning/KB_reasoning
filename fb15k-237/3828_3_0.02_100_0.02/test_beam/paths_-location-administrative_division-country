@@ -1,0 +1,1509 @@
+/m/01_c4	/m/07ssc
+Reward:1
+/m/01_c4	/m/036wy	/m/0nlc7	/m/07ssc
+_/location/location/contains	_/base/aareas/schema/administrative_area/administrative_parent	/location/administrative_division/country
+1
+-2.12967637181
+___
+/m/01_c4	/m/036wy	/m/0nlg4	/m/07ssc
+_/location/location/contains	_/base/aareas/schema/administrative_area/administrative_parent	/location/administrative_division/country
+1
+-2.17850935459
+___
+/m/01_c4	/m/036wy	/m/0n96z	/m/07ssc
+_/location/location/contains	_/base/aareas/schema/administrative_area/administrative_parent	/location/administrative_division/country
+1
+-2.17850953341
+___
+/m/01_c4	/m/036wy	/m/0n9dn	/m/07ssc
+_/location/location/contains	_/base/aareas/schema/administrative_area/administrative_parent	/location/administrative_division/country
+1
+-2.22506818175
+___
+/m/01_c4	/m/036wy	/m/01_c4	/m/036wy
+_/location/location/contains	_/base/aareas/schema/administrative_area/administrative_parent	/base/aareas/schema/administrative_area/administrative_parent
+-1
+-2.59716263413
+___
+/m/01_c4	/m/036wy	/m/01_c4	/m/036wy
+_/location/location/contains	_/base/aareas/schema/administrative_area/administrative_parent	_/location/location/contains
+-1
+-2.71203842759
+___
+/m/01_c4	/m/036wy	/m/0nccd	/m/036wy
+_/location/location/contains	_/base/aareas/schema/administrative_area/administrative_parent	/base/aareas/schema/administrative_area/administrative_parent
+-1
+-3.261202842
+___
+/m/01_c4	/m/036wy	/m/0nccd	/m/036wy
+_/location/location/contains	_/base/aareas/schema/administrative_area/administrative_parent	_/location/location/contains
+-1
+-3.37607863545
+___
+/m/01_c4	/m/036wy	/m/0nccd	/m/02jx1
+_/location/location/contains	_/base/aareas/schema/administrative_area/administrative_parent	_/location/location/contains
+-1
+-3.37607863545
+___
+/m/01_c4	/m/036wy	/m/0nccd	/m/07ssc
+_/location/location/contains	_/base/aareas/schema/administrative_area/administrative_parent	_/location/location/contains
+1
+-3.37607863545
+___
+/m/01_c4	/m/036wy	/m/0nlc7	/m/07ssc
+/base/aareas/schema/administrative_area/administrative_parent	_/base/aareas/schema/administrative_area/administrative_parent	/location/administrative_division/country
+1
+-3.84044879675
+___
+/m/01_c4	/m/036wy	/m/0nlg4	/m/07ssc
+/base/aareas/schema/administrative_area/administrative_parent	_/base/aareas/schema/administrative_area/administrative_parent	/location/administrative_division/country
+1
+-3.86094841361
+___
+/m/01_c4	/m/036wy	/m/0n96z	/m/07ssc
+/base/aareas/schema/administrative_area/administrative_parent	_/base/aareas/schema/administrative_area/administrative_parent	/location/administrative_division/country
+1
+-3.86094938219
+___
+/m/01_c4	/m/036wy	/m/0n9dn	/m/07ssc
+/base/aareas/schema/administrative_area/administrative_parent	_/base/aareas/schema/administrative_area/administrative_parent	/location/administrative_division/country
+1
+-3.88103622198
+___
+/m/01_c4	/m/036wy	/m/01_c4	/m/036wy
+/base/aareas/schema/administrative_area/administrative_parent	_/base/aareas/schema/administrative_area/administrative_parent	/base/aareas/schema/administrative_area/administrative_parent
+-1
+-4.27432394028
+___
+/m/01_c4	/m/036wy	/m/01_c4	/m/036wy
+/base/aareas/schema/administrative_area/administrative_parent	_/base/aareas/schema/administrative_area/administrative_parent	_/location/location/contains
+-1
+-4.6837143898
+___
+/m/01_c4	/m/036wy	/m/0nlc7	/m/036wy
+_/location/location/contains	_/base/aareas/schema/administrative_area/administrative_parent	/base/aareas/schema/administrative_area/administrative_parent
+-1
+-4.83976331353
+___
+/m/01_c4	/m/036wy	/m/0nccd	/m/036wy
+/base/aareas/schema/administrative_area/administrative_parent	_/base/aareas/schema/administrative_area/administrative_parent	/base/aareas/schema/administrative_area/administrative_parent
+-1
+-4.86106359959
+___
+/m/01_c4	/m/036wy	/m/0nlg4	/m/036wy
+_/location/location/contains	_/base/aareas/schema/administrative_area/administrative_parent	/base/aareas/schema/administrative_area/administrative_parent
+-1
+-4.8885962069
+___
+/m/01_c4	/m/036wy	/m/0n96z	/m/036wy
+_/location/location/contains	_/base/aareas/schema/administrative_area/administrative_parent	/base/aareas/schema/administrative_area/administrative_parent
+-1
+-4.88859644532
+___
+/m/01_c4	/m/036wy	/m/0n9dn	/m/036wy
+_/location/location/contains	_/base/aareas/schema/administrative_area/administrative_parent	/base/aareas/schema/administrative_area/administrative_parent
+-1
+-4.93515506387
+___
+/m/01_c4	/m/036wy	/m/0nlc7	/m/07ssc
+_/location/location/contains	_/base/aareas/schema/administrative_area/administrative_parent	_/location/location/contains
+1
+-4.95463910699
+___
+/m/01_c4	/m/036wy	/m/0nlc7	/m/02jx1
+_/location/location/contains	_/base/aareas/schema/administrative_area/administrative_parent	_/location/location/contains
+-1
+-4.95463910699
+___
+/m/01_c4	/m/036wy	/m/0nlg4	/m/036wy
+_/location/location/contains	_/base/aareas/schema/administrative_area/administrative_parent	_/location/location/contains
+-1
+-5.00347200036
+___
+/m/01_c4	/m/036wy	/m/0nlg4	/m/07ssc
+_/location/location/contains	_/base/aareas/schema/administrative_area/administrative_parent	_/location/location/contains
+1
+-5.00347200036
+___
+/m/01_c4	/m/036wy	/m/0nlg4	/m/02jx1
+_/location/location/contains	_/base/aareas/schema/administrative_area/administrative_parent	_/location/location/contains
+-1
+-5.00347200036
+___
+/m/01_c4	/m/036wy	/m/0n96z	/m/036wy
+_/location/location/contains	_/base/aareas/schema/administrative_area/administrative_parent	_/location/location/contains
+-1
+-5.00347223878
+___
+/m/01_c4	/m/036wy	/m/0n96z	/m/04jpl
+_/location/location/contains	_/base/aareas/schema/administrative_area/administrative_parent	_/location/location/contains
+-1
+-5.00347223878
+___
+/m/01_c4	/m/036wy	/m/0n96z	/m/07ssc
+_/location/location/contains	_/base/aareas/schema/administrative_area/administrative_parent	_/location/location/contains
+1
+-5.00347223878
+___
+/m/01_c4	/m/036wy	/m/0n9dn	/m/04jpl
+_/location/location/contains	_/base/aareas/schema/administrative_area/administrative_parent	_/location/location/contains
+-1
+-5.05003085732
+___
+/m/01_c4	/m/036wy	/m/0n9dn	/m/02jx1
+_/location/location/contains	_/base/aareas/schema/administrative_area/administrative_parent	_/location/location/contains
+-1
+-5.05003085732
+___
+/m/01_c4	/m/036wy	/m/0n9dn	/m/036wy
+_/location/location/contains	_/base/aareas/schema/administrative_area/administrative_parent	_/location/location/contains
+-1
+-5.05003085732
+___
+/m/01_c4	/m/036wy	/m/0n9dn	/m/07ssc
+_/location/location/contains	_/base/aareas/schema/administrative_area/administrative_parent	_/location/location/contains
+1
+-5.05003085732
+___
+/m/01_c4	/m/036wy	/m/0nccd	/m/07ssc
+/base/aareas/schema/administrative_area/administrative_parent	_/base/aareas/schema/administrative_area/administrative_parent	_/location/location/contains
+1
+-5.27045404911
+___
+/m/01_c4	/m/036wy	/m/0nccd	/m/036wy
+/base/aareas/schema/administrative_area/administrative_parent	_/base/aareas/schema/administrative_area/administrative_parent	_/location/location/contains
+-1
+-5.27045404911
+___
+/m/01_c4	/m/036wy	/m/0nccd	/m/02jx1
+/base/aareas/schema/administrative_area/administrative_parent	_/base/aareas/schema/administrative_area/administrative_parent	_/location/location/contains
+-1
+-5.27045404911
+___
+/m/01_c4	/m/036wy	/m/01g4yw	/m/02jx1
+_/location/location/contains	_/organization/organization/headquarters./location/mailing_address/state_province_region	_/location/location/contains
+-1
+-6.15104719996
+___
+/m/01_c4	/m/036wy	/m/01g4yw	/m/036wy
+_/location/location/contains	_/organization/organization/headquarters./location/mailing_address/state_province_region	/organization/organization/headquarters./location/mailing_address/state_province_region
+-1
+-6.30921313167
+___
+/m/01_c4	/m/036wy	/m/0nlc7	/m/036wy
+/base/aareas/schema/administrative_area/administrative_parent	_/base/aareas/schema/administrative_area/administrative_parent	/base/aareas/schema/administrative_area/administrative_parent
+-1
+-7.23275899887
+___
+/m/01_c4	/m/036wy	/m/0nlg4	/m/036wy
+/base/aareas/schema/administrative_area/administrative_parent	_/base/aareas/schema/administrative_area/administrative_parent	/base/aareas/schema/administrative_area/administrative_parent
+-1
+-7.25325846672
+___
+/m/01_c4	/m/036wy	/m/0n96z	/m/036wy
+/base/aareas/schema/administrative_area/administrative_parent	_/base/aareas/schema/administrative_area/administrative_parent	/base/aareas/schema/administrative_area/administrative_parent
+-1
+-7.25325942039
+___
+/m/01_c4	/m/036wy	/m/0n9dn	/m/036wy
+/base/aareas/schema/administrative_area/administrative_parent	_/base/aareas/schema/administrative_area/administrative_parent	/base/aareas/schema/administrative_area/administrative_parent
+-1
+-7.2733464241
+___
+/m/01_c4	/m/036wy	/m/0nlc7	/m/02jx1
+/base/aareas/schema/administrative_area/administrative_parent	_/base/aareas/schema/administrative_area/administrative_parent	_/location/location/contains
+-1
+-7.64214944839
+___
+/m/01_c4	/m/036wy	/m/0nlc7	/m/07ssc
+/base/aareas/schema/administrative_area/administrative_parent	_/base/aareas/schema/administrative_area/administrative_parent	_/location/location/contains
+1
+-7.64214944839
+___
+/m/01_c4	/m/036wy	/m/0nlg4	/m/07ssc
+/base/aareas/schema/administrative_area/administrative_parent	_/base/aareas/schema/administrative_area/administrative_parent	_/location/location/contains
+1
+-7.66264891624
+___
+/m/01_c4	/m/036wy	/m/0nlg4	/m/02jx1
+/base/aareas/schema/administrative_area/administrative_parent	_/base/aareas/schema/administrative_area/administrative_parent	_/location/location/contains
+-1
+-7.66264891624
+___
+/m/01_c4	/m/036wy	/m/0nlg4	/m/036wy
+/base/aareas/schema/administrative_area/administrative_parent	_/base/aareas/schema/administrative_area/administrative_parent	_/location/location/contains
+-1
+-7.66264891624
+___
+/m/01_c4	/m/036wy	/m/0n96z	/m/036wy
+/base/aareas/schema/administrative_area/administrative_parent	_/base/aareas/schema/administrative_area/administrative_parent	_/location/location/contains
+-1
+-7.66264986992
+___
+/m/01_c4	/m/036wy	/m/0n96z	/m/07ssc
+/base/aareas/schema/administrative_area/administrative_parent	_/base/aareas/schema/administrative_area/administrative_parent	_/location/location/contains
+1
+-7.66264986992
+___
+/m/01_c4	/m/036wy	/m/0n96z	/m/04jpl
+/base/aareas/schema/administrative_area/administrative_parent	_/base/aareas/schema/administrative_area/administrative_parent	_/location/location/contains
+-1
+-7.66264986992
+___
+/m/01_c4	/m/036wy	/m/0n9dn	/m/07ssc
+/base/aareas/schema/administrative_area/administrative_parent	_/base/aareas/schema/administrative_area/administrative_parent	_/location/location/contains
+1
+-7.68273687363
+___
+/m/01_c4	/m/036wy	/m/0n9dn	/m/036wy
+/base/aareas/schema/administrative_area/administrative_parent	_/base/aareas/schema/administrative_area/administrative_parent	_/location/location/contains
+-1
+-7.68273687363
+___
+/m/01_c4	/m/036wy	/m/0n9dn	/m/04jpl
+/base/aareas/schema/administrative_area/administrative_parent	_/base/aareas/schema/administrative_area/administrative_parent	_/location/location/contains
+-1
+-7.68273687363
+___
+/m/01_c4	/m/036wy	/m/0n9dn	/m/02jx1
+/base/aareas/schema/administrative_area/administrative_parent	_/base/aareas/schema/administrative_area/administrative_parent	_/location/location/contains
+-1
+-7.68273687363
+___
+/m/01_c4	/m/036wy	/m/02jx1	/m/0djywgn
+/base/aareas/schema/administrative_area/administrative_parent	/location/administrative_division/country	_/people/person/nationality
+-1
+-9.16013741493
+___
+/m/01_c4	/m/036wy	/m/02jx1	/m/04rsd2
+/base/aareas/schema/administrative_area/administrative_parent	/location/administrative_division/country	_/people/person/nationality
+-1
+-9.16013741493
+___
+/m/01_c4	/m/036wy	/m/02jx1	/m/0135xb
+/base/aareas/schema/administrative_area/administrative_parent	/location/administrative_division/country	_/people/person/nationality
+-1
+-9.16013741493
+___
+/m/01_c4	/m/036wy	/m/02jx1	/m/07g2b
+/base/aareas/schema/administrative_area/administrative_parent	/location/administrative_division/country	_/people/person/nationality
+-1
+-9.16013741493
+___
+/m/01_c4	/m/036wy	/m/02jx1	/m/03ctv8m
+/base/aareas/schema/administrative_area/administrative_parent	/location/administrative_division/country	_/people/person/nationality
+-1
+-9.16013741493
+___
+/m/01_c4	/m/036wy	/m/02jx1	/m/09gnn
+/base/aareas/schema/administrative_area/administrative_parent	/location/administrative_division/country	_/people/person/nationality
+-1
+-9.16013741493
+___
+/m/01_c4	/m/036wy	/m/02jx1	/m/02vkvcz
+/base/aareas/schema/administrative_area/administrative_parent	/location/administrative_division/country	_/people/person/nationality
+-1
+-9.16013741493
+___
+/m/01_c4	/m/036wy	/m/02jx1	/m/02fx3c
+/base/aareas/schema/administrative_area/administrative_parent	/location/administrative_division/country	_/people/person/nationality
+-1
+-9.16013741493
+___
+/m/01_c4	/m/036wy	/m/02jx1	/m/03j24kf
+/base/aareas/schema/administrative_area/administrative_parent	/location/administrative_division/country	_/people/person/nationality
+-1
+-9.16013741493
+___
+/m/01_c4	/m/036wy	/m/02jx1	/m/01v42g
+/base/aareas/schema/administrative_area/administrative_parent	/location/administrative_division/country	_/people/person/nationality
+-1
+-9.16013741493
+___
+/m/01_c4	/m/036wy	/m/02jx1	/m/01pnn3
+/base/aareas/schema/administrative_area/administrative_parent	/location/administrative_division/country	_/people/person/nationality
+-1
+-9.16013741493
+___
+/m/01_c4	/m/036wy	/m/02jx1	/m/02rsz0
+/base/aareas/schema/administrative_area/administrative_parent	/location/administrative_division/country	_/people/person/nationality
+-1
+-9.16013741493
+___
+/m/01_c4	/m/036wy	/m/02jx1	/m/09y20
+/base/aareas/schema/administrative_area/administrative_parent	/location/administrative_division/country	_/people/person/nationality
+-1
+-9.16013741493
+___
+/m/01_c4	/m/036wy	/m/02jx1	/m/013zs9
+/base/aareas/schema/administrative_area/administrative_parent	/location/administrative_division/country	_/people/person/nationality
+-1
+-9.16013741493
+___
+/m/01_c4	/m/036wy	/m/02jx1	/m/02f93t
+/base/aareas/schema/administrative_area/administrative_parent	/location/administrative_division/country	_/people/person/nationality
+-1
+-9.16013741493
+___
+/m/01_c4	/m/036wy	/m/02jx1	/m/02pq9yv
+/base/aareas/schema/administrative_area/administrative_parent	/location/administrative_division/country	_/people/person/nationality
+-1
+-9.16013741493
+___
+/m/01_c4	/m/036wy	/m/02jx1	/m/0fx02
+/base/aareas/schema/administrative_area/administrative_parent	/location/administrative_division/country	_/people/person/nationality
+-1
+-9.16013741493
+___
+/m/01_c4	/m/036wy	/m/02jx1	/m/03crcpt
+/base/aareas/schema/administrative_area/administrative_parent	/location/administrative_division/country	_/people/person/nationality
+-1
+-9.16013741493
+___
+/m/01_c4	/m/036wy	/m/02jx1	/m/01kx_81
+/base/aareas/schema/administrative_area/administrative_parent	/location/administrative_division/country	_/people/person/nationality
+-1
+-9.16013741493
+___
+/m/01_c4	/m/036wy	/m/02jx1	/m/07mb57
+/base/aareas/schema/administrative_area/administrative_parent	/location/administrative_division/country	_/people/person/nationality
+-1
+-9.16013741493
+___
+/m/01_c4	/m/036wy	/m/02jx1	/m/01r6jt2
+/base/aareas/schema/administrative_area/administrative_parent	/location/administrative_division/country	_/people/person/nationality
+-1
+-9.16013741493
+___
+/m/01_c4	/m/036wy	/m/02jx1	/m/01vswx5
+/base/aareas/schema/administrative_area/administrative_parent	/location/administrative_division/country	_/people/person/nationality
+-1
+-9.16013741493
+___
+/m/01_c4	/m/036wy	/m/02jx1	/m/01pfkw
+/base/aareas/schema/administrative_area/administrative_parent	/location/administrative_division/country	_/people/person/nationality
+-1
+-9.16013741493
+___
+/m/01_c4	/m/036wy	/m/02jx1	/m/01vs4ff
+/base/aareas/schema/administrative_area/administrative_parent	/location/administrative_division/country	_/people/person/nationality
+-1
+-9.16013741493
+___
+/m/01_c4	/m/036wy	/m/02jx1	/m/023322
+/base/aareas/schema/administrative_area/administrative_parent	/location/administrative_division/country	_/people/person/nationality
+-1
+-9.16013741493
+___
+/m/01_c4	/m/036wy	/m/02jx1	/m/030dr
+/base/aareas/schema/administrative_area/administrative_parent	/location/administrative_division/country	_/people/person/nationality
+-1
+-9.16013741493
+___
+/m/01_c4	/m/036wy	/m/02jx1	/m/01hkhq
+/base/aareas/schema/administrative_area/administrative_parent	/location/administrative_division/country	_/people/person/nationality
+-1
+-9.16013741493
+___
+/m/01_c4	/m/036wy	/m/02jx1	/m/0yxl
+/base/aareas/schema/administrative_area/administrative_parent	/location/administrative_division/country	_/people/person/nationality
+-1
+-9.16013741493
+___
+/m/01_c4	/m/036wy	/m/02jx1	/m/04kj2v
+/base/aareas/schema/administrative_area/administrative_parent	/location/administrative_division/country	_/people/person/nationality
+-1
+-9.16013741493
+___
+/m/01_c4	/m/036wy	/m/02jx1	/m/0d1swh
+/base/aareas/schema/administrative_area/administrative_parent	/location/administrative_division/country	_/people/person/nationality
+-1
+-9.16013741493
+___
+/m/01_c4	/m/036wy	/m/02jx1	/m/015pxr
+/base/aareas/schema/administrative_area/administrative_parent	/location/administrative_division/country	_/people/person/nationality
+-1
+-9.16013741493
+___
+/m/01_c4	/m/036wy	/m/02jx1	/m/01w8sf
+/base/aareas/schema/administrative_area/administrative_parent	/location/administrative_division/country	_/people/person/nationality
+-1
+-9.16013741493
+___
+/m/01_c4	/m/036wy	/m/02jx1	/m/054bt3
+/base/aareas/schema/administrative_area/administrative_parent	/location/administrative_division/country	_/people/person/nationality
+-1
+-9.16013741493
+___
+/m/01_c4	/m/036wy	/m/02jx1	/m/03j1p2n
+/base/aareas/schema/administrative_area/administrative_parent	/location/administrative_division/country	_/people/person/nationality
+-1
+-9.16013741493
+___
+/m/01_c4	/m/036wy	/m/02jx1	/m/01vyp_
+/base/aareas/schema/administrative_area/administrative_parent	/location/administrative_division/country	_/people/person/nationality
+-1
+-9.16013741493
+___
+/m/01_c4	/m/036wy	/m/02jx1	/m/08w7vj
+/base/aareas/schema/administrative_area/administrative_parent	/location/administrative_division/country	_/people/person/nationality
+-1
+-9.16013741493
+___
+/m/01_c4	/m/036wy	/m/02jx1	/m/03k545
+/base/aareas/schema/administrative_area/administrative_parent	/location/administrative_division/country	_/people/person/nationality
+-1
+-9.16013741493
+___
+/m/01_c4	/m/036wy	/m/02jx1	/m/02gvwz
+/base/aareas/schema/administrative_area/administrative_parent	/location/administrative_division/country	_/people/person/nationality
+-1
+-9.16013741493
+___
+/m/01_c4	/m/036wy	/m/02jx1	/m/0kftt
+/base/aareas/schema/administrative_area/administrative_parent	/location/administrative_division/country	_/people/person/nationality
+-1
+-9.16013741493
+___
+/m/01_c4	/m/036wy	/m/02jx1	/m/0184jc
+/base/aareas/schema/administrative_area/administrative_parent	/location/administrative_division/country	_/people/person/nationality
+-1
+-9.16013741493
+___
+/m/01_c4	/m/036wy	/m/02jx1	/m/01p95y0
+/base/aareas/schema/administrative_area/administrative_parent	/location/administrative_division/country	_/people/person/nationality
+-1
+-9.16013741493
+___
+/m/01_c4	/m/036wy	/m/02jx1	/m/0131kb
+/base/aareas/schema/administrative_area/administrative_parent	/location/administrative_division/country	_/people/person/nationality
+-1
+-9.16013741493
+___
+/m/01_c4	/m/036wy	/m/02jx1	/m/01pq5j7
+/base/aareas/schema/administrative_area/administrative_parent	/location/administrative_division/country	_/people/person/nationality
+-1
+-9.16013741493
+___
+/m/01_c4	/m/036wy	/m/02jx1	/m/015vq_
+/base/aareas/schema/administrative_area/administrative_parent	/location/administrative_division/country	_/people/person/nationality
+-1
+-9.16013741493
+___
+/m/01_c4	/m/036wy	/m/02jx1	/m/017g21
+/base/aareas/schema/administrative_area/administrative_parent	/location/administrative_division/country	_/people/person/nationality
+-1
+-9.16013741493
+___
+/m/01_c4	/m/036wy	/m/02jx1	/m/0137hn
+/base/aareas/schema/administrative_area/administrative_parent	/location/administrative_division/country	_/people/person/nationality
+-1
+-9.16013741493
+___
+#####################
+/m/02wmy	/m/02wmy
+Reward:0
+/m/02wmy	/m/0j3b	/m/017jq	/m/0j3b
+_/location/location/contains	/location/location/contains	_/location/location/contains
+-1
+-2.4849678278
+___
+/m/02wmy	/m/0j3b	/m/0165b	/m/07c5l
+_/location/location/contains	/location/location/contains	_/location/location/contains
+-1
+-3.17811465263
+___
+/m/02wmy	/m/0j3b	/m/0165b	/m/0j3b
+_/location/location/contains	/location/location/contains	_/location/location/contains
+-1
+-3.17811465263
+___
+/m/02wmy	/m/0j3b	/m/02wmy	/m/07c5l
+_/location/location/contains	/location/location/contains	_/location/location/contains
+-1
+-3.58357846737
+___
+/m/02wmy	/m/0j3b	/m/0n3g	/m/0j3b
+_/location/location/contains	/location/location/contains	_/location/location/contains
+-1
+-3.58357846737
+___
+/m/02wmy	/m/0j3b	/m/02wmy	/m/0j3b
+_/location/location/contains	/location/location/contains	_/location/location/contains
+-1
+-3.58357846737
+___
+/m/02wmy	/m/0j3b	/m/0n3g	/m/0261m
+_/location/location/contains	/location/location/contains	_/location/location/contains
+-1
+-3.58357846737
+___
+/m/02wmy	/m/0j3b	/m/02wmy	/m/06n3y
+_/location/location/contains	/location/location/contains	_/location/location/contains
+-1
+-3.58357846737
+___
+/m/02wmy	/m/0j3b	/m/0n3g	/m/07c5l
+_/location/location/contains	/location/location/contains	_/location/location/contains
+-1
+-3.58357846737
+___
+/m/02wmy	/m/06n3y	/m/01ly5m	/m/0jgd
+_/location/location/contains	/location/location/contains	/base/biblioness/bibs_location/country
+-1
+-3.84968706965
+___
+/m/02wmy	/m/06n3y	/m/015fr	/m/02j71
+_/location/location/contains	/location/location/contains	/base/aareas/schema/administrative_area/administrative_parent
+-1
+-3.86860388517
+___
+/m/02wmy	/m/06n3y	/m/034m8	/m/06n3y
+_/location/location/contains	/location/location/contains	_/location/location/contains
+-1
+-3.89255318046
+___
+/m/02wmy	/m/06n3y	/m/01p1v	/m/06n3y
+_/location/location/contains	/location/location/contains	_/location/location/contains
+-1
+-4.29428112507
+___
+/m/02wmy	/m/06n3y	/m/06nnj	/m/07c5l
+_/location/location/contains	/location/location/contains	_/location/location/contains
+-1
+-4.32308012247
+___
+/m/02wmy	/m/06n3y	/m/06nnj	/m/06n3y
+_/location/location/contains	/location/location/contains	_/location/location/contains
+-1
+-4.32308012247
+___
+/m/02wmy	/m/06n3y	/m/01p1v	/m/02j71
+_/location/location/contains	/location/location/contains	/base/aareas/schema/administrative_area/administrative_parent
+-1
+-4.4586430788
+___
+/m/02wmy	/m/06n3y	/m/07twz	/m/06n3y
+_/location/location/contains	/location/location/contains	_/location/location/contains
+-1
+-4.66205763817
+___
+/m/02wmy	/m/06n3y	/m/07twz	/m/07c5l
+_/location/location/contains	/location/location/contains	_/location/location/contains
+-1
+-4.66205763817
+___
+/m/02wmy	/m/06n3y	/m/02wmy	/m/06n3y
+_/location/location/contains	/location/location/contains	_/location/location/contains
+-1
+-4.68337726593
+___
+/m/02wmy	/m/06n3y	/m/02wmy	/m/07c5l
+_/location/location/contains	/location/location/contains	_/location/location/contains
+-1
+-4.68337726593
+___
+/m/02wmy	/m/06n3y	/m/02wmy	/m/0j3b
+_/location/location/contains	/location/location/contains	_/location/location/contains
+-1
+-4.68337726593
+___
+/m/02wmy	/m/06n3y	/m/01ls2	/m/06n3y
+_/location/location/contains	/location/location/contains	_/location/location/contains
+-1
+-4.75021982193
+___
+/m/02wmy	/m/06n3y	/m/01ls2	/m/07c5l
+_/location/location/contains	/location/location/contains	_/location/location/contains
+-1
+-4.75021982193
+___
+/m/02wmy	/m/07c5l	/m/07fr_	/m/07c5l
+_/location/location/contains	/location/location/contains	_/location/location/contains
+-1
+-4.76217722893
+___
+/m/02wmy	/m/07c5l	/m/01nty	/m/07c5l
+_/location/location/contains	/location/location/contains	_/location/location/contains
+-1
+-4.76218247412
+___
+/m/02wmy	/m/07c5l	/m/04pnx	/m/07c5l
+_/location/location/contains	/location/location/contains	_/location/location/contains
+-1
+-4.76218700404
+___
+/m/02wmy	/m/07c5l	/m/06n3y	/m/07c5l
+_/location/location/contains	/location/location/contains	_/location/location/contains
+-1
+-4.76218712325
+___
+/m/02wmy	/m/07c5l	/m/059g4	/m/07c5l
+_/location/location/contains	/location/location/contains	_/location/location/contains
+-1
+-4.76552022388
+___
+/m/02wmy	/m/07c5l	/m/07ww5	/m/09c7w0
+_/location/location/contains	/location/location/contains	/base/biblioness/bibs_location/country
+-1
+-4.77376433462
+___
+/m/02wmy	/m/07c5l	/m/04vg8	/m/0f8l9c
+_/location/location/contains	/location/location/contains	/location/administrative_division/first_level_division_of
+-1
+-4.77773963194
+___
+/m/02wmy	/m/07c5l	/m/0j11	/m/049nq
+_/location/location/contains	/location/location/contains	/location/administrative_division/first_level_division_of
+-1
+-4.7782215476
+___
+/m/02wmy	/m/07c5l	/m/05r7t	/m/09c7w0
+_/location/location/contains	/location/location/contains	/base/biblioness/bibs_location/country
+-1
+-4.80166780949
+___
+/m/02wmy	/m/06n3y	/m/07twz	/m/02j71
+_/location/location/contains	/location/location/contains	/base/aareas/schema/administrative_area/administrative_parent
+-1
+-4.8264195919
+___
+/m/02wmy	/m/07c5l	/m/035v3	/m/0k6nt
+_/location/location/contains	/location/location/contains	/location/administrative_division/country
+-1
+-4.87914061546
+___
+/m/02wmy	/m/06n3y	/m/01ls2	/m/02j71
+_/location/location/contains	/location/location/contains	/base/aareas/schema/administrative_area/administrative_parent
+-1
+-4.91458177567
+___
+/m/02wmy	/m/06n3y	/m/0165v	/m/04pnx
+_/location/location/contains	/location/location/contains	_/location/location/contains
+-1
+-4.95510923862
+___
+/m/02wmy	/m/06n3y	/m/0165v	/m/07c5l
+_/location/location/contains	/location/location/contains	_/location/location/contains
+-1
+-4.95510923862
+___
+/m/02wmy	/m/06n3y	/m/0165v	/m/06n3y
+_/location/location/contains	/location/location/contains	_/location/location/contains
+-1
+-4.95510923862
+___
+/m/02wmy	/m/06n3y	/m/05v10	/m/07c5l
+_/location/location/contains	/location/location/contains	_/location/location/contains
+-1
+-4.95615887642
+___
+/m/02wmy	/m/06n3y	/m/05v10	/m/06n3y
+_/location/location/contains	/location/location/contains	_/location/location/contains
+-1
+-4.95615887642
+___
+/m/02wmy	/m/06n3y	/m/05v10	/m/04pnx
+_/location/location/contains	/location/location/contains	_/location/location/contains
+-1
+-4.95615887642
+___
+/m/02wmy	/m/06n3y	/m/016wzw	/m/07c5l
+_/location/location/contains	/location/location/contains	_/location/location/contains
+-1
+-4.95655167103
+___
+/m/02wmy	/m/06n3y	/m/016wzw	/m/04pnx
+_/location/location/contains	/location/location/contains	_/location/location/contains
+-1
+-4.95655167103
+___
+/m/02wmy	/m/06n3y	/m/016wzw	/m/06n3y
+_/location/location/contains	/location/location/contains	_/location/location/contains
+-1
+-4.95655167103
+___
+/m/02wmy	/m/06n3y	/m/0jgd	/m/02bgmr
+_/location/location/contains	/location/location/contains	_/people/person/nationality
+-1
+-5.00532829762
+___
+/m/02wmy	/m/06n3y	/m/0jgd	/m/01dhpj
+_/location/location/contains	/location/location/contains	_/people/person/nationality
+-1
+-5.00532829762
+___
+/m/02wmy	/m/06n3y	/m/0jgd	/m/0cc5tgk
+_/location/location/contains	/location/location/contains	_/people/person/nationality
+-1
+-5.00532829762
+___
+/m/02wmy	/m/06n3y	/m/0jgd	/m/06qjgc
+_/location/location/contains	/location/location/contains	_/people/person/nationality
+-1
+-5.00532829762
+___
+/m/02wmy	/m/06n3y	/m/01ly5m	/m/0jgd
+_/location/location/contains	/location/location/contains	/location/administrative_division/country
+-1
+-5.11629629135
+___
+/m/02wmy	/m/06n3y	/m/0165v	/m/02j71
+_/location/location/contains	/location/location/contains	/base/aareas/schema/administrative_area/administrative_parent
+-1
+-5.11947119236
+___
+/m/02wmy	/m/06n3y	/m/05v10	/m/02j71
+_/location/location/contains	/location/location/contains	/base/aareas/schema/administrative_area/administrative_parent
+-1
+-5.12052083015
+___
+/m/02wmy	/m/06n3y	/m/016wzw	/m/02j71
+_/location/location/contains	/location/location/contains	/base/aareas/schema/administrative_area/administrative_parent
+-1
+-5.12091362476
+___
+/m/02wmy	/m/07c5l	/m/0b90_r	/m/07c5l
+_/location/location/contains	/location/location/contains	_/location/location/contains
+-1
+-5.20521649718
+___
+/m/02wmy	/m/07c5l	/m/027rn	/m/07c5l
+_/location/location/contains	/location/location/contains	_/location/location/contains
+-1
+-5.37958574295
+___
+/m/02wmy	/m/07c5l	/m/0168t	/m/07c5l
+_/location/location/contains	/location/location/contains	_/location/location/contains
+-1
+-5.45532572269
+___
+/m/02wmy	/m/07c5l	/m/0165b	/m/0j3b
+_/location/location/contains	/location/location/contains	_/location/location/contains
+-1
+-5.45532572269
+___
+/m/02wmy	/m/07c5l	/m/0168t	/m/0261m
+_/location/location/contains	/location/location/contains	_/location/location/contains
+-1
+-5.45532572269
+___
+/m/02wmy	/m/07c5l	/m/0165b	/m/07c5l
+_/location/location/contains	/location/location/contains	_/location/location/contains
+-1
+-5.45532572269
+___
+/m/02wmy	/m/07c5l	/m/0l3h	/m/07c5l
+_/location/location/contains	/location/location/contains	_/location/location/contains
+-1
+-5.47072350979
+___
+/m/02wmy	/m/07c5l	/m/03gyl	/m/07c5l
+_/location/location/contains	/location/location/contains	_/location/location/contains
+-1
+-5.47148567438
+___
+/m/02wmy	/m/07c5l	/m/027nb	/m/0157g9
+_/location/location/contains	/location/location/contains	_/location/location/contains
+-1
+-5.49851489067
+___
+/m/02wmy	/m/07c5l	/m/027nb	/m/07c5l
+_/location/location/contains	/location/location/contains	_/location/location/contains
+-1
+-5.49851489067
+___
+/m/02wmy	/m/07c5l	/m/06ryl	/m/0261m
+_/location/location/contains	/location/location/contains	_/location/location/contains
+-1
+-5.50048947334
+___
+/m/02wmy	/m/07c5l	/m/06ryl	/m/07c5l
+_/location/location/contains	/location/location/contains	_/location/location/contains
+-1
+-5.50048947334
+___
+/m/02wmy	/m/07c5l	/m/06nnj	/m/07c5l
+_/location/location/contains	/location/location/contains	_/location/location/contains
+-1
+-5.50049239397
+___
+/m/02wmy	/m/07c5l	/m/06nnj	/m/06n3y
+_/location/location/contains	/location/location/contains	_/location/location/contains
+-1
+-5.50049239397
+___
+/m/02wmy	/m/07c5l	/m/035yg	/m/07c5l
+_/location/location/contains	/location/location/contains	_/location/location/contains
+-1
+-5.51417338848
+___
+/m/02wmy	/m/07c5l	/m/02k1b	/m/07c5l
+_/location/location/contains	/location/location/contains	_/location/location/contains
+-1
+-5.51417630911
+___
+/m/02wmy	/m/07c5l	/m/027rn	/m/02j71
+_/location/location/contains	/location/location/contains	/base/aareas/schema/administrative_area/administrative_parent
+-1
+-5.54394769669
+___
+/m/02wmy	/m/07c5l	/m/0l3h	/m/02j71
+_/location/location/contains	/location/location/contains	/base/aareas/schema/administrative_area/administrative_parent
+-1
+-5.63508546352
+___
+/m/02wmy	/m/07c5l	/m/03_r3	/m/07c5l
+_/location/location/contains	/location/location/contains	_/location/location/contains
+-1
+-5.63569146395
+___
+/m/02wmy	/m/07c5l	/m/03gyl	/m/02j71
+_/location/location/contains	/location/location/contains	/base/aareas/schema/administrative_area/administrative_parent
+-1
+-5.63584762812
+___
+/m/02wmy	/m/07c5l	/m/035yg	/m/02j71
+_/location/location/contains	/location/location/contains	/base/aareas/schema/administrative_area/administrative_parent
+-1
+-5.67853534222
+___
+/m/02wmy	/m/07c5l	/m/02k1b	/m/02j71
+_/location/location/contains	/location/location/contains	/base/aareas/schema/administrative_area/administrative_parent
+-1
+-5.67853826284
+___
+/m/02wmy	/m/07c5l	/m/03_r3	/m/02j71
+_/location/location/contains	/location/location/contains	/base/aareas/schema/administrative_area/administrative_parent
+-1
+-5.80005335808
+___
+/m/02wmy	/m/07c5l	/m/06s6l	/m/07c5l
+_/location/location/contains	/location/location/contains	_/location/location/contains
+-1
+-5.80894887447
+___
+/m/02wmy	/m/07c5l	/m/06s6l	/m/0157g9
+_/location/location/contains	/location/location/contains	_/location/location/contains
+-1
+-5.80894887447
+___
+/m/02wmy	/m/07c5l	/m/07twz	/m/06n3y
+_/location/location/contains	/location/location/contains	_/location/location/contains
+-1
+-5.83946990967
+___
+/m/02wmy	/m/07c5l	/m/07twz	/m/07c5l
+_/location/location/contains	/location/location/contains	_/location/location/contains
+-1
+-5.83946990967
+___
+/m/02wmy	/m/07c5l	/m/07ylj	/m/04pnx
+_/location/location/contains	/location/location/contains	_/location/location/contains
+-1
+-5.83947038651
+___
+/m/02wmy	/m/07c5l	/m/07ylj	/m/07c5l
+_/location/location/contains	/location/location/contains	_/location/location/contains
+-1
+-5.83947038651
+___
+/m/02wmy	/m/07c5l	/m/06s0l	/m/0157g9
+_/location/location/contains	/location/location/contains	_/location/location/contains
+-1
+-5.84087109566
+___
+/m/02wmy	/m/07c5l	/m/06s0l	/m/07c5l
+_/location/location/contains	/location/location/contains	_/location/location/contains
+-1
+-5.84087109566
+___
+/m/02wmy	/m/07c5l	/m/0n3g	/m/0j3b
+_/location/location/contains	/location/location/contains	_/location/location/contains
+-1
+-5.86078953743
+___
+/m/02wmy	/m/07c5l	/m/0n3g	/m/0261m
+_/location/location/contains	/location/location/contains	_/location/location/contains
+-1
+-5.86078953743
+___
+/m/02wmy	/m/07c5l	/m/0n3g	/m/07c5l
+_/location/location/contains	/location/location/contains	_/location/location/contains
+-1
+-5.86078953743
+___
+/m/02wmy	/m/07c5l	/m/02wmy	/m/0j3b
+_/location/location/contains	/location/location/contains	_/location/location/contains
+-1
+-5.86078953743
+___
+/m/02wmy	/m/07c5l	/m/02wmy	/m/07c5l
+_/location/location/contains	/location/location/contains	_/location/location/contains
+-1
+-5.86078953743
+___
+/m/02wmy	/m/07c5l	/m/02wmy	/m/06n3y
+_/location/location/contains	/location/location/contains	_/location/location/contains
+-1
+-5.86078953743
+___
+/m/02wmy	/m/07c5l	/m/01p8s	/m/07c5l
+_/location/location/contains	/location/location/contains	_/location/location/contains
+-1
+-5.87108051777
+___
+/m/02wmy	/m/07c5l	/m/01p8s	/m/059g4
+_/location/location/contains	/location/location/contains	_/location/location/contains
+-1
+-5.87108051777
+___
+/m/02wmy	/m/07c5l	/m/01ls2	/m/06n3y
+_/location/location/contains	/location/location/contains	_/location/location/contains
+-1
+-5.92763209343
+___
+/m/02wmy	/m/07c5l	/m/01ls2	/m/07c5l
+_/location/location/contains	/location/location/contains	_/location/location/contains
+-1
+-5.92763209343
+___
+/m/02wmy	/m/07c5l	/m/06s6l	/m/02j71
+_/location/location/contains	/location/location/contains	/base/aareas/schema/administrative_area/administrative_parent
+-1
+-5.97331082821
+___
+/m/02wmy	/m/07c5l	/m/07twz	/m/02j71
+_/location/location/contains	/location/location/contains	/base/aareas/schema/administrative_area/administrative_parent
+-1
+-6.0038318634
+___
+/m/02wmy	/m/07c5l	/m/07ylj	/m/02j71
+_/location/location/contains	/location/location/contains	/base/aareas/schema/administrative_area/administrative_parent
+-1
+-6.00383234024
+___
+/m/02wmy	/m/07c5l	/m/06s0l	/m/02j71
+_/location/location/contains	/location/location/contains	/base/aareas/schema/administrative_area/administrative_parent
+-1
+-6.00523304939
+___
+/m/02wmy	/m/07c5l	/m/01p8s	/m/02j71
+_/location/location/contains	/location/location/contains	/base/aareas/schema/administrative_area/administrative_parent
+-1
+-6.0354424715
+___
+/m/02wmy	/m/07c5l	/m/0d04z6	/m/07c5l
+_/location/location/contains	/location/location/contains	_/location/location/contains
+-1
+-6.0635008812
+___
+/m/02wmy	/m/07c5l	/m/0d04z6	/m/04pnx
+_/location/location/contains	/location/location/contains	_/location/location/contains
+-1
+-6.0635008812
+___
+#####################
+/m/01rwf_	/m/07ssc
+Reward:1
+/m/01rwf_	/m/022_6	/m/025569	/m/07ssc
+_/location/location/contains	_/base/aareas/schema/administrative_area/administrative_parent	/location/administrative_division/country
+1
+-0.988412111998
+___
+/m/01rwf_	/m/02jx1	/m/0hc8h	/m/02jx1
+_/location/location/contains	_/base/biblioness/bibs_location/country	/base/biblioness/bibs_location/country
+-1
+-3.005402565
+___
+/m/01rwf_	/m/02jx1	/m/0hx5f	/m/02jx1
+_/location/location/contains	_/base/biblioness/bibs_location/country	/base/biblioness/bibs_location/country
+-1
+-3.02166658454
+___
+/m/01rwf_	/m/02jx1	/m/0dzz_	/m/02jx1
+_/location/location/contains	_/base/biblioness/bibs_location/country	/base/biblioness/bibs_location/country
+-1
+-3.02170118317
+___
+/m/01rwf_	/m/02jx1	/m/01q1j	/m/02jx1
+_/location/location/contains	_/base/biblioness/bibs_location/country	/base/biblioness/bibs_location/country
+-1
+-3.26876297593
+___
+/m/01rwf_	/m/02jx1	/m/017cjb	/m/02jx1
+_/location/location/contains	_/base/biblioness/bibs_location/country	/base/biblioness/bibs_location/country
+-1
+-3.26892888546
+___
+/m/01rwf_	/m/02jx1	/m/0jt5zcn	/m/02jx1
+_/location/location/contains	_/base/biblioness/bibs_location/country	/base/biblioness/bibs_location/country
+-1
+-3.27056330442
+___
+/m/01rwf_	/m/02jx1	/m/02ly_	/m/02jx1
+_/location/location/contains	_/base/biblioness/bibs_location/country	/base/biblioness/bibs_location/country
+-1
+-3.27233216166
+___
+/m/01rwf_	/m/02jx1	/m/022_6	/m/02jx1
+_/location/location/contains	_/base/biblioness/bibs_location/country	/base/biblioness/bibs_location/country
+-1
+-3.28131198883
+___
+/m/01rwf_	/m/02jx1	/m/0j7ng	/m/02jx1
+_/location/location/contains	_/base/biblioness/bibs_location/country	/base/biblioness/bibs_location/country
+-1
+-3.2936514318
+___
+/m/01rwf_	/m/02jx1	/m/0ht8h	/m/02jx1
+_/location/location/contains	_/base/biblioness/bibs_location/country	/base/biblioness/bibs_location/country
+-1
+-3.29540663958
+___
+/m/01rwf_	/m/022_6	/m/025569	/m/022_6
+_/location/location/contains	_/base/aareas/schema/administrative_area/administrative_parent	/base/aareas/schema/administrative_area/administrative_parent
+-1
+-3.6984988749
+___
+/m/01rwf_	/m/022_6	/m/025569	/m/07ssc
+_/location/location/contains	_/base/aareas/schema/administrative_area/administrative_parent	_/location/location/contains
+1
+-3.81337466836
+___
+/m/01rwf_	/m/022_6	/m/025569	/m/02jx1
+_/location/location/contains	_/base/aareas/schema/administrative_area/administrative_parent	_/location/location/contains
+-1
+-3.81337466836
+___
+/m/01rwf_	/m/022_6	/m/025569	/m/022_6
+_/location/location/contains	_/base/aareas/schema/administrative_area/administrative_parent	_/location/location/contains
+-1
+-3.81337466836
+___
+/m/01rwf_	/m/022_6	/m/01423b	/m/02jx1
+_/location/location/contains	_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	_/location/location/contains
+-1
+-3.90016905684
+___
+/m/01rwf_	/m/02jx1	/m/01q1j	/m/07ssc
+_/location/location/contains	_/base/biblioness/bibs_location/country	/location/administrative_division/country
+1
+-4.52438390255
+___
+/m/01rwf_	/m/02jx1	/m/017cjb	/m/07ssc
+_/location/location/contains	_/base/biblioness/bibs_location/country	/location/administrative_division/country
+1
+-4.52454984188
+___
+/m/01rwf_	/m/02jx1	/m/0jt5zcn	/m/07ssc
+_/location/location/contains	_/base/biblioness/bibs_location/country	/location/administrative_division/country
+1
+-4.52618432045
+___
+/m/01rwf_	/m/02jx1	/m/02ly_	/m/07ssc
+_/location/location/contains	_/base/biblioness/bibs_location/country	/location/administrative_division/country
+1
+-4.52795314789
+___
+/m/01rwf_	/m/02jx1	/m/022_6	/m/07ssc
+_/location/location/contains	_/base/biblioness/bibs_location/country	/location/administrative_division/country
+1
+-4.53693294525
+___
+/m/01rwf_	/m/02jx1	/m/0j7ng	/m/07ssc
+_/location/location/contains	_/base/biblioness/bibs_location/country	/location/administrative_division/country
+1
+-4.54927241802
+___
+/m/01rwf_	/m/02jx1	/m/0ht8h	/m/07ssc
+_/location/location/contains	_/base/biblioness/bibs_location/country	/location/administrative_division/country
+1
+-4.55102753639
+___
+/m/01rwf_	/m/022_6	/m/03gt0c5	/m/02jx1
+_/location/location/contains	_/people/person/place_of_birth	/people/person/nationality
+-1
+-5.29617679119
+___
+/m/01rwf_	/m/022_6	/m/03gt0c5	/m/07ssc
+_/location/location/contains	_/people/person/place_of_birth	/people/person/nationality
+1
+-5.29617679119
+___
+/m/01rwf_	/m/022_6	/m/01423b	/m/02jx1
+_/location/location/contains	/base/aareas/schema/administrative_area/capital	_/location/location/contains
+-1
+-5.63312150724
+___
+/m/01rwf_	/m/02jx1	/m/0hx5f	/m/02jx1
+_/location/location/contains	_/base/biblioness/bibs_location/country	_/location/location/contains
+-1
+-7.13234043121
+___
+/m/01rwf_	/m/02jx1	/m/0dzz_	/m/07ssc
+_/location/location/contains	_/base/biblioness/bibs_location/country	_/location/location/contains
+1
+-7.13237524033
+___
+/m/01rwf_	/m/02jx1	/m/01q1j	/m/07ssc
+_/location/location/contains	_/base/biblioness/bibs_location/country	_/location/location/contains
+1
+-7.37943696976
+___
+/m/01rwf_	/m/02jx1	/m/017cjb	/m/0g14f
+_/location/location/contains	_/base/biblioness/bibs_location/country	_/location/location/contains
+-1
+-7.37960290909
+___
+/m/01rwf_	/m/02jx1	/m/0jt5zcn	/m/07ssc
+_/location/location/contains	_/base/biblioness/bibs_location/country	_/location/location/contains
+1
+-7.38123703003
+___
+/m/01rwf_	/m/02jx1	/m/02ly_	/m/02jx1
+_/location/location/contains	_/base/biblioness/bibs_location/country	_/location/location/contains
+-1
+-7.38300609589
+___
+/m/01rwf_	/m/02jx1	/m/022_6	/m/02jx1
+_/location/location/contains	_/base/biblioness/bibs_location/country	_/location/location/contains
+-1
+-7.39198589325
+___
+/m/01rwf_	/m/02jx1	/m/022_6	/m/07ssc
+_/location/location/contains	_/base/biblioness/bibs_location/country	_/location/location/contains
+1
+-7.39198589325
+___
+/m/01rwf_	/m/02jx1	/m/0j7ng	/m/0127c4
+_/location/location/contains	_/base/biblioness/bibs_location/country	_/location/location/contains
+-1
+-7.40432548523
+___
+/m/01rwf_	/m/02jx1	/m/0j7ng	/m/02jx1
+_/location/location/contains	_/base/biblioness/bibs_location/country	_/location/location/contains
+-1
+-7.40432548523
+___
+/m/01rwf_	/m/02jx1	/m/0j7ng	/m/07ssc
+_/location/location/contains	_/base/biblioness/bibs_location/country	_/location/location/contains
+1
+-7.40432548523
+___
+/m/01rwf_	/m/02jx1	/m/0ht8h	/m/07ssc
+_/location/location/contains	_/base/biblioness/bibs_location/country	_/location/location/contains
+1
+-7.40608072281
+___
+/m/01rwf_	/m/02jx1	/m/0ht8h	/m/0d6br
+_/location/location/contains	_/base/biblioness/bibs_location/country	_/location/location/contains
+-1
+-7.40608072281
+___
+/m/01rwf_	/m/02jx1	/m/0ht8h	/m/02jx1
+_/location/location/contains	_/base/biblioness/bibs_location/country	_/location/location/contains
+-1
+-7.40608072281
+___
+/m/01rwf_	/m/02jx1	/m/02g40r	/m/07ssc
+_/location/location/contains	_/people/person/place_of_birth	/people/person/nationality
+1
+-8.36675451649
+___
+/m/01rwf_	/m/02jx1	/m/0jt5zcn	/m/05l5n
+_/location/location/contains	_/base/biblioness/bibs_location/country	_/base/biblioness/bibs_location/state
+-1
+-9.34173202515
+___
+/m/01rwf_	/m/02jx1	/m/02ly_	/m/01z26v
+_/location/location/contains	_/base/biblioness/bibs_location/country	_/base/biblioness/bibs_location/state
+-1
+-9.343501091
+___
+/m/01rwf_	/m/02jx1	/m/02ly_	/m/01d8wq
+_/location/location/contains	_/base/biblioness/bibs_location/country	_/base/biblioness/bibs_location/state
+-1
+-9.343501091
+___
+/m/01rwf_	/m/02jx1	/m/0ht8h	/m/0174qm
+_/location/location/contains	_/base/biblioness/bibs_location/country	_/base/biblioness/bibs_location/state
+-1
+-9.36657571793
+___
+/m/01rwf_	/m/022_6	/m/01423b	/m/022_6
+_/location/location/contains	_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	_/base/aareas/schema/administrative_area/capital
+-1
+-9.37847685814
+___
+/m/01rwf_	/m/022_6	/m/07ssc	/m/01xsbh
+_/location/location/contains	/location/administrative_division/country	_/people/person/nationality
+-1
+-9.65499997139
+___
+/m/01rwf_	/m/022_6	/m/07ssc	/m/01bpn
+_/location/location/contains	/location/administrative_division/country	_/people/person/nationality
+-1
+-9.65499997139
+___
+/m/01rwf_	/m/022_6	/m/07ssc	/m/01ztgm
+_/location/location/contains	/location/administrative_division/country	_/people/person/nationality
+-1
+-9.65499997139
+___
+/m/01rwf_	/m/022_6	/m/07ssc	/m/02lq10
+_/location/location/contains	/location/administrative_division/country	_/people/person/nationality
+-1
+-9.65499997139
+___
+/m/01rwf_	/m/022_6	/m/07ssc	/m/0klw
+_/location/location/contains	/location/administrative_division/country	_/people/person/nationality
+-1
+-9.65499997139
+___
+/m/01rwf_	/m/022_6	/m/07ssc	/m/01pcrw
+_/location/location/contains	/location/administrative_division/country	_/people/person/nationality
+-1
+-9.65499997139
+___
+/m/01rwf_	/m/022_6	/m/07ssc	/m/080dyk
+_/location/location/contains	/location/administrative_division/country	_/people/person/nationality
+-1
+-9.65499997139
+___
+/m/01rwf_	/m/022_6	/m/07ssc	/m/0g_92
+_/location/location/contains	/location/administrative_division/country	_/people/person/nationality
+-1
+-9.65499997139
+___
+/m/01rwf_	/m/022_6	/m/07ssc	/m/058nh2
+_/location/location/contains	/location/administrative_division/country	_/people/person/nationality
+-1
+-9.65499997139
+___
+/m/01rwf_	/m/022_6	/m/07ssc	/m/0cm03
+_/location/location/contains	/location/administrative_division/country	_/people/person/nationality
+-1
+-9.65499997139
+___
+/m/01rwf_	/m/022_6	/m/07ssc	/m/0lfbm
+_/location/location/contains	/location/administrative_division/country	_/people/person/nationality
+-1
+-9.65499997139
+___
+/m/01rwf_	/m/022_6	/m/07ssc	/m/01wd02c
+_/location/location/contains	/location/administrative_division/country	_/people/person/nationality
+-1
+-9.65499997139
+___
+/m/01rwf_	/m/022_6	/m/07ssc	/m/02z2xdf
+_/location/location/contains	/location/administrative_division/country	_/people/person/nationality
+-1
+-9.65499997139
+___
+/m/01rwf_	/m/022_6	/m/07ssc	/m/01kb2j
+_/location/location/contains	/location/administrative_division/country	_/people/person/nationality
+-1
+-9.65499997139
+___
+/m/01rwf_	/m/022_6	/m/07ssc	/m/041c4
+_/location/location/contains	/location/administrative_division/country	_/people/person/nationality
+-1
+-9.65499997139
+___
+/m/01rwf_	/m/022_6	/m/07ssc	/m/0l8v5
+_/location/location/contains	/location/administrative_division/country	_/people/person/nationality
+-1
+-9.65499997139
+___
+/m/01rwf_	/m/022_6	/m/07ssc	/m/04vmqg
+_/location/location/contains	/location/administrative_division/country	_/people/person/nationality
+-1
+-9.65499997139
+___
+/m/01rwf_	/m/022_6	/m/07ssc	/m/017vkx
+_/location/location/contains	/location/administrative_division/country	_/people/person/nationality
+-1
+-9.65499997139
+___
+/m/01rwf_	/m/022_6	/m/07ssc	/m/04vt98
+_/location/location/contains	/location/administrative_division/country	_/people/person/nationality
+-1
+-9.65499997139
+___
+/m/01rwf_	/m/022_6	/m/07ssc	/m/0f0kz
+_/location/location/contains	/location/administrative_division/country	_/people/person/nationality
+-1
+-9.65499997139
+___
+/m/01rwf_	/m/022_6	/m/07ssc	/m/03dq9
+_/location/location/contains	/location/administrative_division/country	_/people/person/nationality
+-1
+-9.65499997139
+___
+/m/01rwf_	/m/022_6	/m/07ssc	/m/01vsy7t
+_/location/location/contains	/location/administrative_division/country	_/people/person/nationality
+-1
+-9.65499997139
+___
+/m/01rwf_	/m/022_6	/m/07ssc	/m/0f0qfz
+_/location/location/contains	/location/administrative_division/country	_/people/person/nationality
+-1
+-9.65499997139
+___
+/m/01rwf_	/m/022_6	/m/07ssc	/m/07g2b
+_/location/location/contains	/location/administrative_division/country	_/people/person/nationality
+-1
+-9.65499997139
+___
+/m/01rwf_	/m/022_6	/m/07ssc	/m/059xvg
+_/location/location/contains	/location/administrative_division/country	_/people/person/nationality
+-1
+-9.65499997139
+___
+/m/01rwf_	/m/022_6	/m/07ssc	/m/03y1mlp
+_/location/location/contains	/location/administrative_division/country	_/people/person/nationality
+-1
+-9.65499997139
+___
+/m/01rwf_	/m/022_6	/m/07ssc	/m/04r7jc
+_/location/location/contains	/location/administrative_division/country	_/people/person/nationality
+-1
+-9.65499997139
+___
+/m/01rwf_	/m/022_6	/m/07ssc	/m/01l_vgt
+_/location/location/contains	/location/administrative_division/country	_/people/person/nationality
+-1
+-9.65499997139
+___
+/m/01rwf_	/m/022_6	/m/07ssc	/m/01wsl7c
+_/location/location/contains	/location/administrative_division/country	_/people/person/nationality
+-1
+-9.65499997139
+___
+/m/01rwf_	/m/022_6	/m/07ssc	/m/082xp
+_/location/location/contains	/location/administrative_division/country	_/people/person/nationality
+-1
+-9.65499997139
+___
+/m/01rwf_	/m/022_6	/m/07ssc	/m/030tj5
+_/location/location/contains	/location/administrative_division/country	_/people/person/nationality
+-1
+-9.65499997139
+___
+/m/01rwf_	/m/022_6	/m/07ssc	/m/016nvh
+_/location/location/contains	/location/administrative_division/country	_/people/person/nationality
+-1
+-9.65499997139
+___
+/m/01rwf_	/m/022_6	/m/07ssc	/m/01v_pj6
+_/location/location/contains	/location/administrative_division/country	_/people/person/nationality
+-1
+-9.65499997139
+___
+/m/01rwf_	/m/022_6	/m/07ssc	/m/02c0mv
+_/location/location/contains	/location/administrative_division/country	_/people/person/nationality
+-1
+-9.65499997139
+___
+/m/01rwf_	/m/02jx1	/m/04rsd2	/m/02jx1
+_/location/location/contains	_/people/person/nationality	/people/person/nationality
+-1
+-10.0169034004
+___
+/m/01rwf_	/m/02jx1	/m/013zs9	/m/02jx1
+_/location/location/contains	_/people/person/nationality	/people/person/nationality
+-1
+-10.0169064999
+___
+/m/01rwf_	/m/02jx1	/m/0fv6dr	/m/02jx1
+_/location/location/contains	_/people/person/nationality	/people/person/nationality
+-1
+-10.0169137716
+___
+/m/01rwf_	/m/02jx1	/m/0djywgn	/m/02jx1
+_/location/location/contains	_/people/person/nationality	/people/person/nationality
+-1
+-10.0169179438
+___
+/m/01rwf_	/m/02jx1	/m/04jlgp	/m/02jx1
+_/location/location/contains	_/people/person/nationality	/people/person/nationality
+-1
+-10.0169216392
+___
+/m/01rwf_	/m/02jx1	/m/06rrzn	/m/02jx1
+_/location/location/contains	_/people/person/nationality	/people/person/nationality
+-1
+-10.0169225929
+___
+/m/01rwf_	/m/02jx1	/m/021yzs	/m/02jx1
+_/location/location/contains	_/people/person/nationality	/people/person/nationality
+-1
+-10.0169287916
+___
+/m/01rwf_	/m/02jx1	/m/03f0vvr	/m/02jx1
+_/location/location/contains	_/people/person/nationality	/people/person/nationality
+-1
+-10.0169308181
+___
+/m/01rwf_	/m/02jx1	/m/023322	/m/02jx1
+_/location/location/contains	_/people/person/nationality	/people/person/nationality
+-1
+-10.0169320102
+___
+/m/01rwf_	/m/02jx1	/m/01vswx5	/m/02jx1
+_/location/location/contains	_/people/person/nationality	/people/person/nationality
+-1
+-10.0169352287
+___
+/m/01rwf_	/m/02jx1	/m/014q2g	/m/02jx1
+_/location/location/contains	_/people/person/nationality	/people/person/nationality
+-1
+-10.0169523942
+___
+/m/01rwf_	/m/02jx1	/m/018y81	/m/02jx1
+_/location/location/contains	_/people/person/nationality	/people/person/nationality
+-1
+-10.0169739697
+___
+/m/01rwf_	/m/02jx1	/m/017g21	/m/02jx1
+_/location/location/contains	_/people/person/nationality	/people/person/nationality
+-1
+-10.0169844593
+___
+/m/01rwf_	/m/02jx1	/m/0ft7sr	/m/02jx1
+_/location/location/contains	_/people/person/nationality	/people/person/nationality
+-1
+-10.0169960216
+___
+/m/01rwf_	/m/02jx1	/m/0135xb	/m/02jx1
+_/location/location/contains	_/people/person/nationality	/people/person/nationality
+-1
+-10.0170021007
+___
+/m/01rwf_	/m/02jx1	/m/022g44	/m/02jx1
+_/location/location/contains	_/people/person/nationality	/people/person/nationality
+-1
+-10.0170136628
+___
+/m/01rwf_	/m/02jx1	/m/01xsc9	/m/02jx1
+_/location/location/contains	_/people/person/nationality	/people/person/nationality
+-1
+-10.0170153315
+___
+/m/01rwf_	/m/02jx1	/m/050z2	/m/02jx1
+_/location/location/contains	_/people/person/nationality	/people/person/nationality
+-1
+-10.0170273702
+___
+/m/01rwf_	/m/02jx1	/m/01wk7ql	/m/02jx1
+_/location/location/contains	_/people/person/nationality	/people/person/nationality
+-1
+-10.0170276086
+___
+/m/01rwf_	/m/02jx1	/m/01v42g	/m/02jx1
+_/location/location/contains	_/people/person/nationality	/people/person/nationality
+-1
+-10.0170296349
+___
+#####################

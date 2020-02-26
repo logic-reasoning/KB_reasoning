@@ -1,0 +1,4527 @@
+/m/09jrf	/m/0bq0p9
+Reward:0
+/m/09jrf	/m/0k2h6	/m/01w0v	/m/0978r
+_/education/educational_institution/students_graduates./education/education/student	/organization/organization/headquarters./location/mailing_address/state_province_region	_/base/biblioness/bibs_location/state
+-1
+-2.63572406769
+___
+/m/09jrf	/m/0dzbl	/m/01zst8	/m/0dzbl
+_/education/educational_institution/students_graduates./education/education/student	_/location/location/contains	_/organization/organization/headquarters./location/mailing_address/citytown
+-1
+-2.88604764268
+___
+/m/09jrf	/m/0k2h6	/m/01w0v	/m/07ssc
+_/education/educational_institution/students_graduates./education/education/student	/organization/organization/headquarters./location/mailing_address/state_province_region	/base/biblioness/bibs_location/country
+-1
+-2.9849615097
+___
+/m/09jrf	/m/0k2h6	/m/01w0v	/m/07ssc
+_/education/educational_institution/students_graduates./education/education/student	/organization/organization/headquarters./location/mailing_address/state_province_region	/location/administrative_division/country
+-1
+-3.53952312469
+___
+/m/09jrf	/m/0k2h6	/m/0978r	/m/07ssc
+_/education/educational_institution/students_graduates./education/education/student	/organization/organization/headquarters./location/mailing_address/citytown	/base/biblioness/bibs_location/country
+-1
+-3.55115392804
+___
+/m/09jrf	/m/0dzbl	/m/01zst8	/m/0h924
+_/education/educational_institution/students_graduates./education/education/student	/organization/organization/headquarters./location/mailing_address/citytown	_/location/location/contains
+-1
+-3.55182957649
+___
+/m/09jrf	/m/0dzbl	/m/01zst8	/m/07ssc
+_/education/educational_institution/students_graduates./education/education/student	/organization/organization/headquarters./location/mailing_address/citytown	_/location/location/contains
+-1
+-3.55182957649
+___
+/m/09jrf	/m/0dzbl	/m/01zst8	/m/0dzbl
+_/education/educational_institution/students_graduates./education/education/student	/organization/organization/headquarters./location/mailing_address/citytown	_/organization/organization/headquarters./location/mailing_address/citytown
+-1
+-4.01476049423
+___
+/m/09jrf	/m/0k2h6	/m/0k2h6	/m/01w0v
+_/education/educational_institution/students_graduates./education/education/student	_/education/educational_institution/campuses	/organization/organization/headquarters./location/mailing_address/state_province_region
+-1
+-4.0579701066
+___
+/m/09jrf	/m/0k2h6	/m/0978r	/m/07ssc
+_/education/educational_institution/students_graduates./education/education/student	_/location/location/contains	/base/biblioness/bibs_location/country
+-1
+-4.26258039474
+___
+/m/09jrf	/m/0dzbl	/m/0dzbl	/m/02jx1
+_/education/educational_institution/students_graduates./education/education/student	_/education/educational_institution/campuses	_/location/location/contains
+-1
+-4.27482283115
+___
+/m/09jrf	/m/0dzbl	/m/0dzbl	/m/01zst8
+_/education/educational_institution/students_graduates./education/education/student	_/education/educational_institution/campuses	_/location/location/contains
+-1
+-4.27482283115
+___
+/m/09jrf	/m/0k2h6	/m/01w0v	/m/02jx1
+_/education/educational_institution/students_graduates./education/education/student	/organization/organization/headquarters./location/mailing_address/state_province_region	/base/aareas/schema/administrative_area/administrative_parent
+-1
+-4.51691758633
+___
+/m/09jrf	/m/0dzbl	/m/0dzbl	/m/01zst8
+_/education/educational_institution/students_graduates./education/education/student	_/education/educational_institution/campuses	/organization/organization/headquarters./location/mailing_address/citytown
+-1
+-4.85677969456
+___
+/m/09jrf	/m/0dzbl	/m/0dzbl	/m/0dzbl
+_/education/educational_institution/students_graduates./education/education/student	_/education/educational_institution/campuses	_/education/educational_institution/campuses
+-1
+-4.88716042042
+___
+/m/09jrf	/m/0dzbl	/m/0dzbl	/m/01zst8
+_/education/educational_institution/students_graduates./education/education/student	_/education/educational_institution_campus/educational_institution	_/location/location/contains
+-1
+-5.27309608459
+___
+/m/09jrf	/m/0dzbl	/m/0dzbl	/m/02jx1
+_/education/educational_institution/students_graduates./education/education/student	_/education/educational_institution_campus/educational_institution	_/location/location/contains
+-1
+-5.27309608459
+___
+/m/09jrf	/m/0k2h6	/m/01w0v	/m/05zhg
+_/education/educational_institution/students_graduates./education/education/student	/organization/organization/headquarters./location/mailing_address/state_province_region	_/base/aareas/schema/administrative_area/administrative_parent
+-1
+-5.48427379131
+___
+/m/09jrf	/m/0dzbl	/m/0m4mb	/m/020yvh
+_/education/educational_institution/students_graduates./education/education/student	/education/educational_institution/school_type	_/education/educational_institution/school_type
+-1
+-5.68364953995
+___
+/m/09jrf	/m/0dzbl	/m/0m4mb	/m/0b6k40
+_/education/educational_institution/students_graduates./education/education/student	/education/educational_institution/school_type	_/education/educational_institution/school_type
+-1
+-5.68364953995
+___
+/m/09jrf	/m/0dzbl	/m/0m4mb	/m/01cyd5
+_/education/educational_institution/students_graduates./education/education/student	/education/educational_institution/school_type	_/education/educational_institution/school_type
+-1
+-5.68364953995
+___
+/m/09jrf	/m/0dzbl	/m/0m4mb	/m/017hnw
+_/education/educational_institution/students_graduates./education/education/student	/education/educational_institution/school_type	_/education/educational_institution/school_type
+-1
+-5.68364953995
+___
+/m/09jrf	/m/0dzbl	/m/0m4mb	/m/0d5fb
+_/education/educational_institution/students_graduates./education/education/student	/education/educational_institution/school_type	_/education/educational_institution/school_type
+-1
+-5.68364953995
+___
+/m/09jrf	/m/0dzbl	/m/0m4mb	/m/019vv1
+_/education/educational_institution/students_graduates./education/education/student	/education/educational_institution/school_type	_/education/educational_institution/school_type
+-1
+-5.68364953995
+___
+/m/09jrf	/m/0dzbl	/m/0m4mb	/m/019vsw
+_/education/educational_institution/students_graduates./education/education/student	/education/educational_institution/school_type	_/education/educational_institution/school_type
+-1
+-5.68364953995
+___
+/m/09jrf	/m/0dzbl	/m/0m4mb	/m/0dzbl
+_/education/educational_institution/students_graduates./education/education/student	/education/educational_institution/school_type	_/education/educational_institution/school_type
+-1
+-5.68364953995
+___
+/m/09jrf	/m/0dzbl	/m/0m4mb	/m/0173s9
+_/education/educational_institution/students_graduates./education/education/student	/education/educational_institution/school_type	_/education/educational_institution/school_type
+-1
+-5.68364953995
+___
+/m/09jrf	/m/0dzbl	/m/0dzbl	/m/02jx1
+_/education/educational_institution/students_graduates./education/education/student	/education/educational_institution_campus/educational_institution	_/location/location/contains
+-1
+-5.85012745857
+___
+/m/09jrf	/m/0dzbl	/m/0dzbl	/m/01zst8
+_/education/educational_institution/students_graduates./education/education/student	/education/educational_institution_campus/educational_institution	_/location/location/contains
+-1
+-5.85012745857
+___
+/m/09jrf	/m/0dzbl	/m/01jlsn	/m/027kp3
+_/education/educational_institution/students_graduates./education/education/student	/education/educational_institution/school_type	_/education/educational_institution/school_type
+-1
+-5.88431048393
+___
+/m/09jrf	/m/0dzbl	/m/01jlsn	/m/0173s9
+_/education/educational_institution/students_graduates./education/education/student	/education/educational_institution/school_type	_/education/educational_institution/school_type
+-1
+-5.88431048393
+___
+/m/09jrf	/m/0dzbl	/m/01jlsn	/m/015ln1
+_/education/educational_institution/students_graduates./education/education/student	/education/educational_institution/school_type	_/education/educational_institution/school_type
+-1
+-5.88431048393
+___
+/m/09jrf	/m/0dzbl	/m/01jlsn	/m/0b6k40
+_/education/educational_institution/students_graduates./education/education/student	/education/educational_institution/school_type	_/education/educational_institution/school_type
+-1
+-5.88431048393
+___
+/m/09jrf	/m/0dzbl	/m/01jlsn	/m/08l_c1
+_/education/educational_institution/students_graduates./education/education/student	/education/educational_institution/school_type	_/education/educational_institution/school_type
+-1
+-5.88431048393
+___
+/m/09jrf	/m/0dzbl	/m/01jlsn	/m/019vv1
+_/education/educational_institution/students_graduates./education/education/student	/education/educational_institution/school_type	_/education/educational_institution/school_type
+-1
+-5.88431048393
+___
+/m/09jrf	/m/0dzbl	/m/01jlsn	/m/0dbns
+_/education/educational_institution/students_graduates./education/education/student	/education/educational_institution/school_type	_/education/educational_institution/school_type
+-1
+-5.88431048393
+___
+/m/09jrf	/m/0dzbl	/m/01jlsn	/m/019vsw
+_/education/educational_institution/students_graduates./education/education/student	/education/educational_institution/school_type	_/education/educational_institution/school_type
+-1
+-5.88431048393
+___
+/m/09jrf	/m/0dzbl	/m/01jlsn	/m/02mw6c
+_/education/educational_institution/students_graduates./education/education/student	/education/educational_institution/school_type	_/education/educational_institution/school_type
+-1
+-5.88431048393
+___
+/m/09jrf	/m/0dzbl	/m/01jlsn	/m/0dzbl
+_/education/educational_institution/students_graduates./education/education/student	/education/educational_institution/school_type	_/education/educational_institution/school_type
+-1
+-5.88431048393
+___
+/m/09jrf	/m/0dzbl	/m/01jlsn	/m/0d5fb
+_/education/educational_institution/students_graduates./education/education/student	/education/educational_institution/school_type	_/education/educational_institution/school_type
+-1
+-5.88431048393
+___
+/m/09jrf	/m/0dzbl	/m/0dzbl	/m/01zst8
+_/education/educational_institution/students_graduates./education/education/student	/education/educational_institution_campus/educational_institution	/organization/organization/headquarters./location/mailing_address/citytown
+-1
+-6.02776408195
+___
+/m/09jrf	/m/0k2h6	/m/0978r	/m/01w0v
+_/education/educational_institution/students_graduates./education/education/student	/organization/organization/headquarters./location/mailing_address/citytown	/base/biblioness/bibs_location/state
+-1
+-6.17467045784
+___
+/m/09jrf	/m/0dzbl	/m/0dzbl	/m/0dzbl
+_/education/educational_institution/students_graduates./education/education/student	/education/educational_institution_campus/educational_institution	_/education/educational_institution/campuses
+-1
+-6.27927589417
+___
+/m/09jrf	/m/0dzbl	/m/0dzbl	/m/01zst8
+_/education/educational_institution/students_graduates./education/education/student	_/education/educational_institution_campus/educational_institution	/organization/organization/headquarters./location/mailing_address/citytown
+-1
+-6.3980307579
+___
+/m/09jrf	/m/0dzbl	/m/0dzbl	/m/0dzbl
+_/education/educational_institution/students_graduates./education/education/student	_/education/educational_institution_campus/educational_institution	_/education/educational_institution/campuses
+-1
+-6.45189976692
+___
+/m/09jrf	/m/0k2h6	/m/0k2h6	/m/07ssc
+_/education/educational_institution/students_graduates./education/education/student	_/education/educational_institution/campuses	_/location/location/contains
+-1
+-6.4582400322
+___
+/m/09jrf	/m/0k2h6	/m/0k2h6	/m/0978r
+_/education/educational_institution/students_graduates./education/education/student	_/education/educational_institution/campuses	_/location/location/contains
+-1
+-6.4582400322
+___
+/m/09jrf	/m/0k2h6	/m/0k2h6	/m/02jx1
+_/education/educational_institution/students_graduates./education/education/student	_/education/educational_institution/campuses	_/location/location/contains
+-1
+-6.4582400322
+___
+/m/09jrf	/m/04ztj	/m/05j12n	/m/03rk0
+/people/person/spouse_s./people/marriage/type_of_union	_/people/person/spouse_s./people/marriage/type_of_union	/people/person/nationality
+-1
+-6.53278577325
+___
+/m/09jrf	/m/04ztj	/m/02vq8xn	/m/05v8c
+/people/person/spouse_s./people/marriage/type_of_union	_/people/person/spouse_s./people/marriage/type_of_union	/people/person/nationality
+-1
+-6.53278779979
+___
+/m/09jrf	/m/04ztj	/m/0641g8	/m/09c7w0
+/people/person/spouse_s./people/marriage/type_of_union	_/people/person/spouse_s./people/marriage/type_of_union	/people/person/nationality
+-1
+-6.53279376018
+___
+/m/09jrf	/m/04ztj	/m/02wxvtv	/m/03rk0
+/people/person/spouse_s./people/marriage/type_of_union	_/people/person/spouse_s./people/marriage/type_of_union	/people/person/nationality
+-1
+-6.53282260798
+___
+/m/09jrf	/m/04ztj	/m/01f2f8	/m/03rjj
+/people/person/spouse_s./people/marriage/type_of_union	_/people/person/spouse_s./people/marriage/type_of_union	/people/person/nationality
+-1
+-6.53282427683
+___
+/m/09jrf	/m/04ztj	/m/02zrv7	/m/09c7w0
+/people/person/spouse_s./people/marriage/type_of_union	_/people/person/spouse_s./people/marriage/type_of_union	/people/person/nationality
+-1
+-6.5328266609
+___
+/m/09jrf	/m/04ztj	/m/04pxcx	/m/09c7w0
+/people/person/spouse_s./people/marriage/type_of_union	_/people/person/spouse_s./people/marriage/type_of_union	/people/person/nationality
+-1
+-6.53282713772
+___
+/m/09jrf	/m/04ztj	/m/02qflgv	/m/02jx1
+/people/person/spouse_s./people/marriage/type_of_union	_/people/person/spouse_s./people/marriage/type_of_union	/people/person/nationality
+-1
+-6.53285622295
+___
+/m/09jrf	/m/04ztj	/m/044ntk	/m/09c7w0
+/people/person/spouse_s./people/marriage/type_of_union	_/people/person/spouse_s./people/marriage/type_of_union	/people/person/nationality
+-1
+-6.53286134853
+___
+/m/09jrf	/m/04ztj	/m/05dbyt	/m/09c7w0
+/people/person/spouse_s./people/marriage/type_of_union	_/people/person/spouse_s./people/marriage/type_of_union	/people/person/nationality
+-1
+-6.53286981166
+___
+/m/09jrf	/m/04ztj	/m/01sfmyk	/m/09c7w0
+/people/person/spouse_s./people/marriage/type_of_union	_/people/person/spouse_s./people/marriage/type_of_union	/people/person/nationality
+-1
+-6.53287624835
+___
+/m/09jrf	/m/04ztj	/m/05b_7n	/m/09c7w0
+/people/person/spouse_s./people/marriage/type_of_union	_/people/person/spouse_s./people/marriage/type_of_union	/people/person/nationality
+-1
+-6.53289436622
+___
+/m/09jrf	/m/04ztj	/m/08jfkw	/m/09c7w0
+/people/person/spouse_s./people/marriage/type_of_union	_/people/person/spouse_s./people/marriage/type_of_union	/people/person/nationality
+-1
+-6.53290878878
+___
+/m/09jrf	/m/04ztj	/m/03qjlz	/m/09c7w0
+/people/person/spouse_s./people/marriage/type_of_union	_/people/person/spouse_s./people/marriage/type_of_union	/people/person/nationality
+-1
+-6.53291629795
+___
+/m/09jrf	/m/04ztj	/m/06lj1m	/m/09c7w0
+/people/person/spouse_s./people/marriage/type_of_union	_/people/person/spouse_s./people/marriage/type_of_union	/people/person/nationality
+-1
+-6.53292273435
+___
+/m/09jrf	/m/04ztj	/m/0gt3p	/m/0d060g
+/people/person/spouse_s./people/marriage/type_of_union	_/people/person/spouse_s./people/marriage/type_of_union	/people/person/nationality
+-1
+-6.53292499899
+___
+/m/09jrf	/m/04ztj	/m/012dtf	/m/09c7w0
+/people/person/spouse_s./people/marriage/type_of_union	_/people/person/spouse_s./people/marriage/type_of_union	/people/person/nationality
+-1
+-6.53294466545
+___
+/m/09jrf	/m/04ztj	/m/04n_g	/m/09c7w0
+/people/person/spouse_s./people/marriage/type_of_union	_/people/person/spouse_s./people/marriage/type_of_union	/people/person/nationality
+-1
+-6.5329452614
+___
+/m/09jrf	/m/04ztj	/m/0840vq	/m/0f8l9c
+/people/person/spouse_s./people/marriage/type_of_union	_/people/person/spouse_s./people/marriage/type_of_union	/people/person/nationality
+-1
+-6.53298423557
+___
+/m/09jrf	/m/04ztj	/m/0219q	/m/07ssc
+/people/person/spouse_s./people/marriage/type_of_union	_/people/person/spouse_s./people/marriage/type_of_union	/people/person/nationality
+-1
+-6.53298757275
+___
+/m/09jrf	/m/04ztj	/m/01w23w	/m/09c7w0
+/people/person/spouse_s./people/marriage/type_of_union	_/people/person/spouse_s./people/marriage/type_of_union	/people/person/nationality
+-1
+-6.53300819143
+___
+/m/09jrf	/m/04ztj	/m/0f6_dy	/m/09c7w0
+/people/person/spouse_s./people/marriage/type_of_union	_/people/person/spouse_s./people/marriage/type_of_union	/people/person/nationality
+-1
+-6.53301856019
+___
+/m/09jrf	/m/04ztj	/m/050t68	/m/09c7w0
+/people/person/spouse_s./people/marriage/type_of_union	_/people/person/spouse_s./people/marriage/type_of_union	/people/person/nationality
+-1
+-6.53302428086
+___
+/m/09jrf	/m/04ztj	/m/028lc8	/m/09c7w0
+/people/person/spouse_s./people/marriage/type_of_union	_/people/person/spouse_s./people/marriage/type_of_union	/people/person/nationality
+-1
+-6.53305228776
+___
+/m/09jrf	/m/04ztj	/m/01pcbg	/m/09c7w0
+/people/person/spouse_s./people/marriage/type_of_union	_/people/person/spouse_s./people/marriage/type_of_union	/people/person/nationality
+-1
+-6.53307552694
+___
+/m/09jrf	/m/04ztj	/m/091yn0	/m/09c7w0
+/people/person/spouse_s./people/marriage/type_of_union	_/people/person/spouse_s./people/marriage/type_of_union	/people/person/nationality
+-1
+-6.533089351
+___
+/m/09jrf	/m/04ztj	/m/07h565	/m/0b90_r
+/people/person/spouse_s./people/marriage/type_of_union	_/people/person/spouse_s./people/marriage/type_of_union	/people/person/nationality
+-1
+-6.53310019564
+___
+/m/09jrf	/m/04ztj	/m/01fwf1	/m/02jx1
+/people/person/spouse_s./people/marriage/type_of_union	_/people/person/spouse_s./people/marriage/type_of_union	/people/person/nationality
+-1
+-6.53310472411
+___
+/m/09jrf	/m/04ztj	/m/0bw6y	/m/09c7w0
+/people/person/spouse_s./people/marriage/type_of_union	_/people/person/spouse_s./people/marriage/type_of_union	/people/person/nationality
+-1
+-6.53310949091
+___
+/m/09jrf	/m/04ztj	/m/06wvj	/m/06bnz
+/people/person/spouse_s./people/marriage/type_of_union	_/people/person/spouse_s./people/marriage/type_of_union	/people/person/nationality
+-1
+-6.53313463545
+___
+/m/09jrf	/m/04ztj	/m/04205z	/m/02jx1
+/people/person/spouse_s./people/marriage/type_of_union	_/people/person/spouse_s./people/marriage/type_of_union	/people/person/nationality
+-1
+-6.53328441695
+___
+/m/09jrf	/m/04ztj	/m/07vc_9	/m/09c7w0
+/people/person/spouse_s./people/marriage/type_of_union	_/people/person/spouse_s./people/marriage/type_of_union	/people/person/nationality
+-1
+-6.53337901674
+___
+/m/09jrf	/m/04ztj	/m/0cc63l	/m/03rk0
+/people/person/spouse_s./people/marriage/type_of_union	_/people/person/spouse_s./people/marriage/type_of_union	/people/person/nationality
+-1
+-6.53344287258
+___
+/m/09jrf	/m/04ztj	/m/02tq2r	/m/03rk0
+/people/person/spouse_s./people/marriage/type_of_union	_/people/person/spouse_s./people/marriage/type_of_union	/people/person/nationality
+-1
+-6.53347086773
+___
+/m/09jrf	/m/04ztj	/m/03w4sh	/m/09c7w0
+/people/person/spouse_s./people/marriage/type_of_union	_/people/person/spouse_s./people/marriage/type_of_union	/people/person/nationality
+-1
+-6.53351684962
+___
+/m/09jrf	/m/04ztj	/m/01vrt_c	/m/09c7w0
+/people/person/spouse_s./people/marriage/type_of_union	_/people/person/spouse_s./people/marriage/type_of_union	/people/person/nationality
+-1
+-6.53356783226
+___
+/m/09jrf	/m/04ztj	/m/0f5zj6	/m/03rk0
+/people/person/spouse_s./people/marriage/type_of_union	_/people/person/spouse_s./people/marriage/type_of_union	/people/person/nationality
+-1
+-6.53367217176
+___
+/m/09jrf	/m/04ztj	/m/039crh	/m/09c7w0
+/people/person/spouse_s./people/marriage/type_of_union	_/people/person/spouse_s./people/marriage/type_of_union	/people/person/nationality
+-1
+-6.53369039431
+___
+/m/09jrf	/m/04ztj	/m/01vsy95	/m/09c7w0
+/people/person/spouse_s./people/marriage/type_of_union	_/people/person/spouse_s./people/marriage/type_of_union	/people/person/nationality
+-1
+-6.53373195959
+___
+/m/09jrf	/m/04ztj	/m/01vb403	/m/09c7w0
+/people/person/spouse_s./people/marriage/type_of_union	_/people/person/spouse_s./people/marriage/type_of_union	/people/person/nationality
+-1
+-6.53375482565
+___
+/m/09jrf	/m/04ztj	/m/0k4gf	/m/0345h
+/people/person/spouse_s./people/marriage/type_of_union	_/people/person/spouse_s./people/marriage/type_of_union	/people/person/nationality
+-1
+-6.53380174714
+___
+/m/09jrf	/m/04ztj	/m/04bgy	/m/02jx1
+/people/person/spouse_s./people/marriage/type_of_union	_/people/person/spouse_s./people/marriage/type_of_union	/people/person/nationality
+-1
+-6.53393487795
+___
+/m/09jrf	/m/04ztj	/m/03j43	/m/0f8l9c
+/people/person/spouse_s./people/marriage/type_of_union	_/people/person/spouse_s./people/marriage/type_of_union	/people/person/nationality
+-1
+-6.53398357704
+___
+/m/09jrf	/m/04ztj	/m/05mvd62	/m/07ssc
+/people/person/spouse_s./people/marriage/type_of_union	_/people/person/spouse_s./people/marriage/type_of_union	/people/person/nationality
+-1
+-6.53406811017
+___
+/m/09jrf	/m/04ztj	/m/01vxxb	/m/09c7w0
+/people/person/spouse_s./people/marriage/type_of_union	_/people/person/spouse_s./people/marriage/type_of_union	/people/person/nationality
+-1
+-6.53414132667
+___
+/m/09jrf	/m/04ztj	/m/0f5mdz	/m/03spz
+/people/person/spouse_s./people/marriage/type_of_union	_/people/person/spouse_s./people/marriage/type_of_union	/people/person/nationality
+-1
+-6.534142041
+___
+/m/09jrf	/m/04ztj	/m/09bg4l	/m/09c7w0
+/people/person/spouse_s./people/marriage/type_of_union	_/people/person/spouse_s./people/marriage/type_of_union	/people/person/nationality
+-1
+-6.53414775524
+___
+/m/09jrf	/m/04ztj	/m/04cl1	/m/09c7w0
+/people/person/spouse_s./people/marriage/type_of_union	_/people/person/spouse_s./people/marriage/type_of_union	/people/person/nationality
+-1
+-6.53417096904
+___
+/m/09jrf	/m/04ztj	/m/01vng3b	/m/09c7w0
+/people/person/spouse_s./people/marriage/type_of_union	_/people/person/spouse_s./people/marriage/type_of_union	/people/person/nationality
+-1
+-6.53426012851
+___
+/m/09jrf	/m/04ztj	/m/05g8ky	/m/09c7w0
+/people/person/spouse_s./people/marriage/type_of_union	_/people/person/spouse_s./people/marriage/type_of_union	/people/person/nationality
+-1
+-6.5342739363
+___
+/m/09jrf	/m/04ztj	/m/01wl38s	/m/0chghy
+/people/person/spouse_s./people/marriage/type_of_union	_/people/person/spouse_s./people/marriage/type_of_union	/people/person/nationality
+-1
+-6.53428381577
+___
+/m/09jrf	/m/04ztj	/m/0gz5hs	/m/09c7w0
+/people/person/spouse_s./people/marriage/type_of_union	_/people/person/spouse_s./people/marriage/type_of_union	/people/person/nationality
+-1
+-6.53428691055
+___
+#####################
+/m/05hks	/m/0cdbq
+Reward:0
+/m/05hks	/m/02ctzb	/m/05f0r8	/m/09c7w0
+_/people/ethnicity/people	/people/ethnicity/people	/people/person/nationality
+-1
+-4.0304444023
+___
+/m/05hks	/m/02ctzb	/m/04pxcx	/m/09c7w0
+_/people/ethnicity/people	/people/ethnicity/people	/people/person/nationality
+-1
+-4.03044511754
+___
+/m/05hks	/m/02ctzb	/m/025_nbr	/m/09c7w0
+_/people/ethnicity/people	/people/ethnicity/people	/people/person/nationality
+-1
+-4.03044511754
+___
+/m/05hks	/m/02ctzb	/m/0kc6	/m/09c7w0
+_/people/ethnicity/people	/people/ethnicity/people	/people/person/nationality
+-1
+-4.03044535595
+___
+/m/05hks	/m/02ctzb	/m/03hbzj	/m/09c7w0
+_/people/ethnicity/people	/people/ethnicity/people	/people/person/nationality
+-1
+-4.03044821688
+___
+/m/05hks	/m/02ctzb	/m/054fvj	/m/09c7w0
+_/people/ethnicity/people	/people/ethnicity/people	/people/person/nationality
+-1
+-4.03045262747
+___
+/m/05hks	/m/02ctzb	/m/02hsgn	/m/09c7w0
+_/people/ethnicity/people	/people/ethnicity/people	/people/person/nationality
+-1
+-4.03046562072
+___
+/m/05hks	/m/02ctzb	/m/06c97	/m/09c7w0
+_/people/ethnicity/people	/people/ethnicity/people	/people/person/nationality
+-1
+-4.0305255782
+___
+/m/05hks	/m/02ctzb	/m/06fc0b	/m/09c7w0
+_/people/ethnicity/people	/people/ethnicity/people	/people/person/nationality
+-1
+-4.03056991819
+___
+/m/05hks	/m/02ctzb	/m/0c3dzk	/m/03rjj
+_/people/ethnicity/people	/people/ethnicity/people	/people/person/nationality
+-1
+-4.03057063335
+___
+/m/05hks	/m/02ctzb	/m/015g_7	/m/09c7w0
+_/people/ethnicity/people	/people/ethnicity/people	/people/person/nationality
+-1
+-4.03058410181
+___
+/m/05hks	/m/02ctzb	/m/04vzv4	/m/09c7w0
+_/people/ethnicity/people	/people/ethnicity/people	/people/person/nationality
+-1
+-4.03059590148
+___
+/m/05hks	/m/02ctzb	/m/012t1	/m/09c7w0
+_/people/ethnicity/people	/people/ethnicity/people	/people/person/nationality
+-1
+-4.03060209923
+___
+/m/05hks	/m/02ctzb	/m/03ds3	/m/09c7w0
+_/people/ethnicity/people	/people/ethnicity/people	/people/person/nationality
+-1
+-4.03061914282
+___
+/m/05hks	/m/02ctzb	/m/02nwxc	/m/09c7w0
+_/people/ethnicity/people	/people/ethnicity/people	/people/person/nationality
+-1
+-4.03068838693
+___
+/m/05hks	/m/02ctzb	/m/0347db	/m/09c7w0
+_/people/ethnicity/people	/people/ethnicity/people	/people/person/nationality
+-1
+-4.03071019604
+___
+/m/05hks	/m/02ctzb	/m/071jv5	/m/0345h
+_/people/ethnicity/people	/people/ethnicity/people	/people/person/nationality
+-1
+-4.03074845023
+___
+/m/05hks	/m/02ctzb	/m/0c6g29	/m/09c7w0
+_/people/ethnicity/people	/people/ethnicity/people	/people/person/nationality
+-1
+-4.03076227379
+___
+/m/05hks	/m/02ctzb	/m/02h3tp	/m/09c7w0
+_/people/ethnicity/people	/people/ethnicity/people	/people/person/nationality
+-1
+-4.03083293795
+___
+/m/05hks	/m/02ctzb	/m/0bx0lc	/m/02jx1
+_/people/ethnicity/people	/people/ethnicity/people	/people/person/nationality
+-1
+-4.03090907802
+___
+/m/05hks	/m/02ctzb	/m/062dn7	/m/02jx1
+_/people/ethnicity/people	/people/ethnicity/people	/people/person/nationality
+-1
+-4.03108504781
+___
+/m/05hks	/m/02ctzb	/m/05hks	/m/06bnz
+_/people/ethnicity/people	/people/ethnicity/people	/people/person/nationality
+-1
+-4.03114687407
+___
+/m/05hks	/m/02ctzb	/m/0dq2k	/m/09c7w0
+_/people/ethnicity/people	/people/ethnicity/people	/people/person/nationality
+-1
+-4.03119642771
+___
+/m/05hks	/m/02ctzb	/m/01lwx	/m/07ssc
+_/people/ethnicity/people	/people/ethnicity/people	/people/person/nationality
+-1
+-4.0312010732
+___
+/m/05hks	/m/02ctzb	/m/06cddt	/m/09c7w0
+_/people/ethnicity/people	/people/ethnicity/people	/people/person/nationality
+-1
+-4.03136091371
+___
+/m/05hks	/m/02ctzb	/m/04t2l2	/m/09c7w0
+_/people/ethnicity/people	/people/ethnicity/people	/people/person/nationality
+-1
+-4.03138044535
+___
+/m/05hks	/m/02ctzb	/m/0b7t3p	/m/09c7w0
+_/people/ethnicity/people	/people/ethnicity/people	/people/person/nationality
+-1
+-4.03140450211
+___
+/m/05hks	/m/02ctzb	/m/02b9g4	/m/09c7w0
+_/people/ethnicity/people	/people/ethnicity/people	/people/person/nationality
+-1
+-4.03140819399
+___
+/m/05hks	/m/02ctzb	/m/06y3r	/m/09c7w0
+_/people/ethnicity/people	/people/ethnicity/people	/people/person/nationality
+-1
+-4.03157514555
+___
+/m/05hks	/m/02ctzb	/m/0l786	/m/09c7w0
+_/people/ethnicity/people	/people/ethnicity/people	/people/person/nationality
+-1
+-4.03231263848
+___
+/m/05hks	/m/02ctzb	/m/01gq0b	/m/09c7w0
+_/people/ethnicity/people	/people/ethnicity/people	/people/person/nationality
+-1
+-4.03256437555
+___
+/m/05hks	/m/02ctzb	/m/015f7	/m/09c7w0
+_/people/ethnicity/people	/people/ethnicity/people	/people/person/nationality
+-1
+-4.03257032321
+___
+/m/05hks	/m/02ctzb	/m/042d1	/m/07z1m
+_/people/ethnicity/people	/people/ethnicity/people	/government/politician/government_positions_held./government/government_position_held/jurisdiction_of_office
+-1
+-4.0326242072
+___
+/m/05hks	/m/02ctzb	/m/034ls	/m/09c7w0
+_/people/ethnicity/people	/people/ethnicity/people	/government/politician/government_positions_held./government/government_position_held/jurisdiction_of_office
+-1
+-4.03262991691
+___
+/m/05hks	/m/02ctzb	/m/0b22w	/m/09c7w0
+_/people/ethnicity/people	/people/ethnicity/people	/people/person/nationality
+-1
+-4.20460062148
+___
+/m/05hks	/m/02ctzb	/m/0f7fy	/m/09c7w0
+_/people/ethnicity/people	/people/ethnicity/people	/people/person/nationality
+-1
+-4.20466691675
+___
+/m/05hks	/m/02ctzb	/m/016lh0	/m/09c7w0
+_/people/ethnicity/people	/people/ethnicity/people	/people/person/nationality
+-1
+-4.20488650026
+___
+/m/05hks	/m/02ctzb	/m/03f5vvx	/m/07ssc
+_/people/ethnicity/people	/people/ethnicity/people	/people/person/nationality
+-1
+-4.20490521612
+___
+/m/05hks	/m/02ctzb	/m/028rk	/m/09c7w0
+_/people/ethnicity/people	/people/ethnicity/people	/people/person/nationality
+-1
+-4.20490663173
+___
+/m/05hks	/m/02ctzb	/m/03_nq	/m/09c7w0
+_/people/ethnicity/people	/people/ethnicity/people	/people/person/nationality
+-1
+-4.20491774799
+___
+/m/05hks	/m/02ctzb	/m/038w8	/m/09c7w0
+_/people/ethnicity/people	/people/ethnicity/people	/people/person/nationality
+-1
+-4.20491794171
+___
+/m/05hks	/m/02ctzb	/m/0d3k14	/m/09c7w0
+_/people/ethnicity/people	/people/ethnicity/people	/people/person/nationality
+-1
+-4.20494187297
+___
+/m/05hks	/m/02ctzb	/m/012gx2	/m/09c7w0
+_/people/ethnicity/people	/people/ethnicity/people	/people/person/nationality
+-1
+-4.35313119413
+___
+/m/05hks	/m/02ctzb	/m/02yy8	/m/09c7w0
+_/people/ethnicity/people	/people/ethnicity/people	/people/person/nationality
+-1
+-4.35318585159
+___
+/m/05hks	/m/02ctzb	/m/09b6zr	/m/09c7w0
+_/people/ethnicity/people	/people/ethnicity/people	/people/person/nationality
+-1
+-4.3534028721
+___
+/m/05hks	/m/02ctzb	/m/02rsz0	/m/02jx1
+_/people/ethnicity/people	/people/ethnicity/people	/people/person/nationality
+-1
+-4.72357704164
+___
+/m/05hks	/m/02ctzb	/m/02rsz0	/m/07ssc
+_/people/ethnicity/people	/people/ethnicity/people	/people/person/nationality
+-1
+-4.72357704164
+___
+/m/05hks	/m/02ctzb	/m/01y8cr	/m/077qn
+_/people/ethnicity/people	/people/ethnicity/people	/people/person/nationality
+-1
+-4.72365762712
+___
+/m/05hks	/m/02ctzb	/m/01y8cr	/m/09c7w0
+_/people/ethnicity/people	/people/ethnicity/people	/people/person/nationality
+-1
+-4.72365762712
+___
+/m/05hks	/m/02ctzb	/m/07hyk	/m/059rby
+_/people/ethnicity/people	/people/ethnicity/people	/government/politician/government_positions_held./government/government_position_held/jurisdiction_of_office
+-1
+-4.72391792061
+___
+/m/05hks	/m/02ctzb	/m/07hyk	/m/09c7w0
+_/people/ethnicity/people	/people/ethnicity/people	/government/politician/government_positions_held./government/government_position_held/jurisdiction_of_office
+-1
+-4.72391792061
+___
+/m/05hks	/m/02ctzb	/m/06c0j	/m/01n7q
+_/people/ethnicity/people	/people/ethnicity/people	/government/politician/government_positions_held./government/government_position_held/jurisdiction_of_office
+-1
+-4.72393234493
+___
+/m/05hks	/m/02ctzb	/m/06c0j	/m/09c7w0
+_/people/ethnicity/people	/people/ethnicity/people	/government/politician/government_positions_held./government/government_position_held/jurisdiction_of_office
+-1
+-4.72393234493
+___
+/m/05hks	/m/02ctzb	/m/01tdnyh	/m/02jx1
+_/people/ethnicity/people	/people/ethnicity/people	/people/person/nationality
+-1
+-4.72395356419
+___
+/m/05hks	/m/02ctzb	/m/01tdnyh	/m/07ssc
+_/people/ethnicity/people	/people/ethnicity/people	/people/person/nationality
+-1
+-4.72395356419
+___
+/m/05hks	/m/02ctzb	/m/032t2z	/m/02jx1
+_/people/ethnicity/people	/people/ethnicity/people	/people/person/nationality
+-1
+-4.72434361698
+___
+/m/05hks	/m/02ctzb	/m/032t2z	/m/07ssc
+_/people/ethnicity/people	/people/ethnicity/people	/people/person/nationality
+-1
+-4.72434361698
+___
+/m/05hks	/m/02ctzb	/m/02vntj	/m/0c8wxp
+_/people/ethnicity/people	/people/ethnicity/people	/people/person/religion
+-1
+-4.86447652103
+___
+/m/05hks	/m/02ctzb	/m/01nhkxp	/m/018vs
+_/people/ethnicity/people	/people/ethnicity/people	_/music/instrument/instrumentalists
+-1
+-5.12270488264
+___
+/m/05hks	/m/02ctzb	/m/01nhkxp	/m/05r5c
+_/people/ethnicity/people	/people/ethnicity/people	_/music/instrument/instrumentalists
+-1
+-5.12270488264
+___
+/m/05hks	/m/02ctzb	/m/0520r2x	/m/0cq8qq
+_/people/ethnicity/people	/people/ethnicity/people	_/award/award_winning_work/awards_won./award/award_honor/award_winner
+-1
+-5.64253129484
+___
+/m/05hks	/m/02ctzb	/m/0520r2x	/m/0bmhn
+_/people/ethnicity/people	/people/ethnicity/people	_/award/award_winning_work/awards_won./award/award_honor/award_winner
+-1
+-5.64253129484
+___
+/m/05hks	/m/02ctzb	/m/0520r2x	/m/097zcz
+_/people/ethnicity/people	/people/ethnicity/people	_/award/award_winning_work/awards_won./award/award_honor/award_winner
+-1
+-5.64253129484
+___
+/m/05hks	/m/02ctzb	/m/0b22w	/m/09c7w0
+_/people/ethnicity/people	/people/ethnicity/people	/government/politician/government_positions_held./government/government_position_held/jurisdiction_of_office
+-1
+-5.86414649012
+___
+/m/05hks	/m/02ctzb	/m/0f7fy	/m/09c7w0
+_/people/ethnicity/people	/people/ethnicity/people	/government/politician/government_positions_held./government/government_position_held/jurisdiction_of_office
+-1
+-5.86421277048
+___
+/m/05hks	/m/02ctzb	/m/016lh0	/m/09c7w0
+_/people/ethnicity/people	/people/ethnicity/people	/government/politician/government_positions_held./government/government_position_held/jurisdiction_of_office
+-1
+-5.86443235399
+___
+/m/05hks	/m/02ctzb	/m/03f5vvx	/m/07ssc
+_/people/ethnicity/people	/people/ethnicity/people	/government/politician/government_positions_held./government/government_position_held/jurisdiction_of_office
+-1
+-5.86445106985
+___
+/m/05hks	/m/02ctzb	/m/028rk	/m/09c7w0
+_/people/ethnicity/people	/people/ethnicity/people	/government/politician/government_positions_held./government/government_position_held/jurisdiction_of_office
+-1
+-5.86445250036
+___
+/m/05hks	/m/02ctzb	/m/03_nq	/m/09c7w0
+_/people/ethnicity/people	/people/ethnicity/people	/government/politician/government_positions_held./government/government_position_held/jurisdiction_of_office
+-1
+-5.86446370604
+___
+/m/05hks	/m/02ctzb	/m/038w8	/m/059rby
+_/people/ethnicity/people	/people/ethnicity/people	/government/politician/government_positions_held./government/government_position_held/jurisdiction_of_office
+-1
+-5.86446382524
+___
+/m/05hks	/m/02ctzb	/m/0d3k14	/m/09c7w0
+_/people/ethnicity/people	/people/ethnicity/people	/government/politician/government_positions_held./government/government_position_held/jurisdiction_of_office
+-1
+-5.86448778631
+___
+/m/05hks	/m/02ctzb	/m/03knl	/m/03cd0x
+_/people/ethnicity/people	/people/ethnicity/people	_/award/award_winning_work/awards_won./award/award_honor/award_winner
+-1
+-5.96493973257
+___
+/m/05hks	/m/02ctzb	/m/012gx2	/m/0m2lt
+_/people/ethnicity/people	/people/ethnicity/people	/government/politician/government_positions_held./government/government_position_held/jurisdiction_of_office
+-1
+-6.01267709257
+___
+/m/05hks	/m/02ctzb	/m/012gx2	/m/09c7w0
+_/people/ethnicity/people	/people/ethnicity/people	/government/politician/government_positions_held./government/government_position_held/jurisdiction_of_office
+-1
+-6.01267709257
+___
+/m/05hks	/m/02ctzb	/m/02yy8	/m/09c7w0
+_/people/ethnicity/people	/people/ethnicity/people	/government/politician/government_positions_held./government/government_position_held/jurisdiction_of_office
+-1
+-6.01273169043
+___
+/m/05hks	/m/02ctzb	/m/02yy8	/m/059rby
+_/people/ethnicity/people	/people/ethnicity/people	/government/politician/government_positions_held./government/government_position_held/jurisdiction_of_office
+-1
+-6.01273169043
+___
+/m/05hks	/m/02ctzb	/m/09b6zr	/m/07b_l
+_/people/ethnicity/people	/people/ethnicity/people	/government/politician/government_positions_held./government/government_position_held/jurisdiction_of_office
+-1
+-6.01294877054
+___
+/m/05hks	/m/02ctzb	/m/09b6zr	/m/09c7w0
+_/people/ethnicity/people	/people/ethnicity/people	/government/politician/government_positions_held./government/government_position_held/jurisdiction_of_office
+-1
+-6.01294877054
+___
+/m/05hks	/m/02ctzb	/m/02l3_5	/m/06hwzy
+_/people/ethnicity/people	/people/ethnicity/people	/tv/tv_personality/tv_regular_appearances./tv/tv_regular_personal_appearance/program
+-1
+-6.03651632788
+___
+/m/05hks	/m/02ctzb	/m/02l3_5	/m/01rp13
+_/people/ethnicity/people	/people/ethnicity/people	_/award/award_winning_work/awards_won./award/award_honor/award_winner
+-1
+-6.068612237
+___
+/m/05hks	/m/02ctzb	/m/02l3_5	/m/05sy0cv
+_/people/ethnicity/people	/people/ethnicity/people	_/award/award_winning_work/awards_won./award/award_honor/award_winner
+-1
+-6.068612237
+___
+/m/05hks	/m/02ctzb	/m/02vntj	/m/07c72
+_/people/ethnicity/people	/people/ethnicity/people	_/award/award_winning_work/awards_won./award/award_honor/award_winner
+-1
+-6.38153352262
+___
+/m/05hks	/m/02ctzb	/m/01nhkxp	/m/02ctzb
+_/people/ethnicity/people	/people/ethnicity/people	_/people/ethnicity/people
+-1
+-6.59698404791
+___
+/m/05hks	/m/02ctzb	/m/0520r2x	/m/02ctzb
+_/people/ethnicity/people	/people/ethnicity/people	_/people/ethnicity/people
+-1
+-6.61450638296
+___
+/m/05hks	/m/02ctzb	/m/03knl	/m/0x67
+_/people/ethnicity/people	/people/ethnicity/people	_/people/ethnicity/people
+-1
+-6.93691482069
+___
+/m/05hks	/m/02ctzb	/m/03knl	/m/02ctzb
+_/people/ethnicity/people	/people/ethnicity/people	_/people/ethnicity/people
+-1
+-6.93691482069
+___
+/m/05hks	/m/02ctzb	/m/02l3_5	/m/02ctzb
+_/people/ethnicity/people	/people/ethnicity/people	_/people/ethnicity/people
+-1
+-7.04058732511
+___
+/m/05hks	/m/02ctzb	/m/0520r2x	/m/097zcz
+_/people/ethnicity/people	/people/ethnicity/people	/award/award_nominee/award_nominations./award/award_nomination/nominated_for
+-1
+-7.09415139677
+___
+/m/05hks	/m/02ctzb	/m/0520r2x	/m/0bmhn
+_/people/ethnicity/people	/people/ethnicity/people	/award/award_nominee/award_nominations./award/award_nomination/nominated_for
+-1
+-7.09415139677
+___
+/m/05hks	/m/02ctzb	/m/0520r2x	/m/0cq8qq
+_/people/ethnicity/people	/people/ethnicity/people	/award/award_nominee/award_nominations./award/award_nomination/nominated_for
+-1
+-7.09415139677
+___
+/m/05hks	/m/02ctzb	/m/0520r2x	/m/04vq33
+_/people/ethnicity/people	/people/ethnicity/people	/award/award_nominee/award_nominations./award/award_nomination/nominated_for
+-1
+-7.09415139677
+___
+/m/05hks	/m/02ctzb	/m/0520r2x	/m/01wb95
+_/people/ethnicity/people	/people/ethnicity/people	/award/award_nominee/award_nominations./award/award_nomination/nominated_for
+-1
+-7.09415139677
+___
+/m/05hks	/m/02ctzb	/m/03knl	/m/03c7tr1
+_/people/ethnicity/people	/people/ethnicity/people	_/award/award_category/winners./award/award_honor/award_winner
+-1
+-7.09864749433
+___
+/m/05hks	/m/02ctzb	/m/03knl	/m/0gqwc
+_/people/ethnicity/people	/people/ethnicity/people	_/award/award_category/winners./award/award_honor/award_winner
+-1
+-7.09864749433
+___
+/m/05hks	/m/02ctzb	/m/03knl	/m/09qwmm
+_/people/ethnicity/people	/people/ethnicity/people	_/award/award_category/winners./award/award_honor/award_winner
+-1
+-7.09864749433
+___
+/m/05hks	/m/02ctzb	/m/03knl	/m/0cqgl9
+_/people/ethnicity/people	/people/ethnicity/people	_/award/award_category/winners./award/award_honor/award_winner
+-1
+-7.09864749433
+___
+/m/05hks	/m/02ctzb	/m/03knl	/m/0bdwft
+_/people/ethnicity/people	/people/ethnicity/people	_/award/award_category/winners./award/award_honor/award_winner
+-1
+-7.09864749433
+___
+/m/05hks	/m/02ctzb	/m/03knl	/m/02z1nbg
+_/people/ethnicity/people	/people/ethnicity/people	_/award/award_category/winners./award/award_honor/award_winner
+-1
+-7.09864749433
+___
+/m/05hks	/m/02ctzb	/m/02l3_5	/m/09qs08
+_/people/ethnicity/people	/people/ethnicity/people	_/award/award_category/winners./award/award_honor/award_winner
+-1
+-7.20231999876
+___
+/m/05hks	/m/02ctzb	/m/02l3_5	/m/09qvf4
+_/people/ethnicity/people	/people/ethnicity/people	_/award/award_category/winners./award/award_honor/award_winner
+-1
+-7.20231999876
+___
+#####################
+/m/03_js	/m/09c7w0
+Reward:1
+/m/03_js	/m/07cbs	/m/07z1m	/m/09c7w0
+_/influence/influence_node/peers./influence/peer_relationship/peers	/government/politician/government_positions_held./government/government_position_held/jurisdiction_of_office	/location/administrative_division/first_level_division_of
+1
+-2.74127805233
+___
+/m/03_js	/m/01ld4n	/m/0lzcs	/m/02jx1
+/people/person/religion	_/people/person/religion	/people/person/nationality
+-1
+-3.15274071693
+___
+/m/03_js	/m/01ld4n	/m/0lzcs	/m/07ssc
+/people/person/religion	_/people/person/religion	/people/person/nationality
+-1
+-3.15274071693
+___
+/m/03_js	/m/07wgm	/m/03_nq	/m/09c7w0
+_/government/political_party/politicians_in_this_party./government/political_party_tenure/politician	/government/political_party/politicians_in_this_party./government/political_party_tenure/politician	/people/person/nationality
+1
+-3.31185534596
+___
+/m/03_js	/m/01ld4n	/m/03_js	/m/01ld4n
+/people/person/religion	_/people/person/religion	/people/person/religion
+-1
+-3.33364832401
+___
+/m/03_js	/m/01ld4n	/m/03_js	/m/019fz
+/people/person/religion	_/people/person/religion	_/influence/influence_node/peers./influence/peer_relationship/peers
+-1
+-3.70739281178
+___
+/m/03_js	/m/01ld4n	/m/03_js	/m/07cbs
+/people/person/religion	_/people/person/religion	_/influence/influence_node/peers./influence/peer_relationship/peers
+-1
+-3.70739281178
+___
+/m/03_js	/m/07wgm	/m/0fd_1	/m/09c7w0
+_/government/political_party/politicians_in_this_party./government/political_party_tenure/politician	/government/political_party/politicians_in_this_party./government/political_party_tenure/politician	/people/person/nationality
+1
+-3.71757596731
+___
+/m/03_js	/m/07wgm	/m/042fk	/m/0631_
+_/government/political_party/politicians_in_this_party./government/political_party_tenure/politician	/government/political_party/politicians_in_this_party./government/political_party_tenure/politician	/people/person/religion
+-1
+-3.72901582718
+___
+/m/03_js	/m/019fz	/m/09c7w0	/m/03v1s
+_/influence/influence_node/peers./influence/peer_relationship/peers	/people/person/nationality	_/location/administrative_division/first_level_division_of
+-1
+-3.89032553555
+___
+/m/03_js	/m/07wgm	/m/042fk	/m/063k3h
+_/government/political_party/politicians_in_this_party./government/political_party_tenure/politician	/government/political_party/politicians_in_this_party./government/political_party_tenure/politician	_/people/ethnicity/people
+-1
+-3.98353862762
+___
+/m/03_js	/m/07wgm	/m/03_js	/m/01ld4n
+_/government/political_party/politicians_in_this_party./government/political_party_tenure/politician	/government/political_party/politicians_in_this_party./government/political_party_tenure/politician	/people/person/religion
+-1
+-4.12201559544
+___
+/m/03_js	/m/07wgm	/m/03_js	/m/019fz
+_/government/political_party/politicians_in_this_party./government/political_party_tenure/politician	/government/political_party/politicians_in_this_party./government/political_party_tenure/politician	_/influence/influence_node/peers./influence/peer_relationship/peers
+-1
+-4.22828733921
+___
+/m/03_js	/m/07wgm	/m/03_js	/m/07cbs
+_/government/political_party/politicians_in_this_party./government/political_party_tenure/politician	/government/political_party/politicians_in_this_party./government/political_party_tenure/politician	_/influence/influence_node/peers./influence/peer_relationship/peers
+-1
+-4.22828733921
+___
+/m/03_js	/m/07cbs	/m/07z1m	/m/0mpbx
+_/influence/influence_node/peers./influence/peer_relationship/peers	/government/politician/government_positions_held./government/government_position_held/jurisdiction_of_office	_/base/biblioness/bibs_location/state
+-1
+-4.28465300798
+___
+/m/03_js	/m/07cbs	/m/07z1m	/m/013h9
+_/influence/influence_node/peers./influence/peer_relationship/peers	/government/politician/government_positions_held./government/government_position_held/jurisdiction_of_office	_/base/biblioness/bibs_location/state
+-1
+-4.28465300798
+___
+/m/03_js	/m/07cbs	/m/07z1m	/m/0dzt9
+_/influence/influence_node/peers./influence/peer_relationship/peers	/government/politician/government_positions_held./government/government_position_held/jurisdiction_of_office	_/base/biblioness/bibs_location/state
+-1
+-4.28465300798
+___
+/m/03_js	/m/07cbs	/m/07z1m	/m/0mnm2
+_/influence/influence_node/peers./influence/peer_relationship/peers	/government/politician/government_positions_held./government/government_position_held/jurisdiction_of_office	_/base/biblioness/bibs_location/state
+-1
+-4.28465300798
+___
+/m/03_js	/m/07cbs	/m/07z1m	/m/0mp3l
+_/influence/influence_node/peers./influence/peer_relationship/peers	/government/politician/government_positions_held./government/government_position_held/jurisdiction_of_office	_/base/biblioness/bibs_location/state
+-1
+-4.28465300798
+___
+/m/03_js	/m/07wgm	/m/03_nq	/m/09c7w0
+_/government/political_party/politicians_in_this_party./government/political_party_tenure/politician	/government/political_party/politicians_in_this_party./government/political_party_tenure/politician	/government/politician/government_positions_held./government/government_position_held/jurisdiction_of_office
+1
+-4.40931797028
+___
+/m/03_js	/m/07wgm	/m/0fd_1	/m/09c7w0
+_/government/political_party/politicians_in_this_party./government/political_party_tenure/politician	/government/political_party/politicians_in_this_party./government/political_party_tenure/politician	/government/politician/government_positions_held./government/government_position_held/jurisdiction_of_office
+1
+-4.81503856182
+___
+/m/03_js	/m/07wgm	/m/0fd_1	/m/059rby
+_/government/political_party/politicians_in_this_party./government/political_party_tenure/politician	/government/political_party/politicians_in_this_party./government/political_party_tenure/politician	/government/politician/government_positions_held./government/government_position_held/jurisdiction_of_office
+-1
+-4.81503856182
+___
+/m/03_js	/m/07wgm	/m/0fd_1	/m/02_286
+_/government/political_party/politicians_in_this_party./government/political_party_tenure/politician	/government/political_party/politicians_in_this_party./government/political_party_tenure/politician	/government/politician/government_positions_held./government/government_position_held/jurisdiction_of_office
+-1
+-4.81503856182
+___
+/m/03_js	/m/07cbs	/m/09c7w0	/m/03v1s
+_/influence/influence_node/peers./influence/peer_relationship/peers	/government/politician/government_positions_held./government/government_position_held/jurisdiction_of_office	_/location/administrative_division/first_level_division_of
+-1
+-4.85764223337
+___
+/m/03_js	/m/01ld4n	/m/0lzcs	/m/07ssc
+/people/person/religion	_/people/person/religion	/government/politician/government_positions_held./government/government_position_held/jurisdiction_of_office
+-1
+-4.9503967762
+___
+/m/03_js	/m/019fz	/m/09c7w0	/m/02yj7w
+_/influence/influence_node/peers./influence/peer_relationship/peers	/people/person/nationality	_/people/person/nationality
+-1
+-5.38441943051
+___
+/m/03_js	/m/019fz	/m/09c7w0	/m/0280mv7
+_/influence/influence_node/peers./influence/peer_relationship/peers	/people/person/nationality	_/people/person/nationality
+-1
+-5.38441943051
+___
+/m/03_js	/m/019fz	/m/09c7w0	/m/083p7
+_/influence/influence_node/peers./influence/peer_relationship/peers	/people/person/nationality	_/people/person/nationality
+-1
+-5.38441943051
+___
+/m/03_js	/m/019fz	/m/09c7w0	/m/040t74
+_/influence/influence_node/peers./influence/peer_relationship/peers	/people/person/nationality	_/people/person/nationality
+-1
+-5.38441943051
+___
+/m/03_js	/m/019fz	/m/09c7w0	/m/03cfjg
+_/influence/influence_node/peers./influence/peer_relationship/peers	/people/person/nationality	_/people/person/nationality
+-1
+-5.38441943051
+___
+/m/03_js	/m/019fz	/m/09c7w0	/m/04264n
+_/influence/influence_node/peers./influence/peer_relationship/peers	/people/person/nationality	_/people/person/nationality
+-1
+-5.38441943051
+___
+/m/03_js	/m/019fz	/m/09c7w0	/m/04xrx
+_/influence/influence_node/peers./influence/peer_relationship/peers	/people/person/nationality	_/people/person/nationality
+-1
+-5.38441943051
+___
+/m/03_js	/m/019fz	/m/09c7w0	/m/0284n42
+_/influence/influence_node/peers./influence/peer_relationship/peers	/people/person/nationality	_/people/person/nationality
+-1
+-5.38441943051
+___
+/m/03_js	/m/019fz	/m/09c7w0	/m/047hpm
+_/influence/influence_node/peers./influence/peer_relationship/peers	/people/person/nationality	_/people/person/nationality
+-1
+-5.38441943051
+___
+/m/03_js	/m/019fz	/m/09c7w0	/m/01dw4q
+_/influence/influence_node/peers./influence/peer_relationship/peers	/people/person/nationality	_/people/person/nationality
+-1
+-5.38441943051
+___
+/m/03_js	/m/019fz	/m/09c7w0	/m/01gp_x
+_/influence/influence_node/peers./influence/peer_relationship/peers	/people/person/nationality	_/people/person/nationality
+-1
+-5.38441943051
+___
+/m/03_js	/m/019fz	/m/09c7w0	/m/012s5j
+_/influence/influence_node/peers./influence/peer_relationship/peers	/people/person/nationality	_/people/person/nationality
+-1
+-5.38441943051
+___
+/m/03_js	/m/019fz	/m/09c7w0	/m/078jt5
+_/influence/influence_node/peers./influence/peer_relationship/peers	/people/person/nationality	_/people/person/nationality
+-1
+-5.38441943051
+___
+/m/03_js	/m/019fz	/m/09c7w0	/m/01c58j
+_/influence/influence_node/peers./influence/peer_relationship/peers	/people/person/nationality	_/people/person/nationality
+-1
+-5.38441943051
+___
+/m/03_js	/m/019fz	/m/09c7w0	/m/02d6cy
+_/influence/influence_node/peers./influence/peer_relationship/peers	/people/person/nationality	_/people/person/nationality
+-1
+-5.38441943051
+___
+/m/03_js	/m/019fz	/m/09c7w0	/m/01lcxbb
+_/influence/influence_node/peers./influence/peer_relationship/peers	/people/person/nationality	_/people/person/nationality
+-1
+-5.38441943051
+___
+/m/03_js	/m/019fz	/m/09c7w0	/m/017149
+_/influence/influence_node/peers./influence/peer_relationship/peers	/people/person/nationality	_/people/person/nationality
+-1
+-5.38441943051
+___
+/m/03_js	/m/019fz	/m/09c7w0	/m/0347xl
+_/influence/influence_node/peers./influence/peer_relationship/peers	/people/person/nationality	_/people/person/nationality
+-1
+-5.38441943051
+___
+/m/03_js	/m/019fz	/m/09c7w0	/m/04yj5z
+_/influence/influence_node/peers./influence/peer_relationship/peers	/people/person/nationality	_/people/person/nationality
+-1
+-5.38441943051
+___
+/m/03_js	/m/019fz	/m/09c7w0	/m/03ft8
+_/influence/influence_node/peers./influence/peer_relationship/peers	/people/person/nationality	_/people/person/nationality
+-1
+-5.38441943051
+___
+/m/03_js	/m/019fz	/m/09c7w0	/m/0b80__
+_/influence/influence_node/peers./influence/peer_relationship/peers	/people/person/nationality	_/people/person/nationality
+-1
+-5.38441943051
+___
+/m/03_js	/m/019fz	/m/09c7w0	/m/09rp4r_
+_/influence/influence_node/peers./influence/peer_relationship/peers	/people/person/nationality	_/people/person/nationality
+-1
+-5.38441943051
+___
+/m/03_js	/m/019fz	/m/09c7w0	/m/0chrwb
+_/influence/influence_node/peers./influence/peer_relationship/peers	/people/person/nationality	_/people/person/nationality
+-1
+-5.38441943051
+___
+/m/03_js	/m/019fz	/m/09c7w0	/m/01wk7b7
+_/influence/influence_node/peers./influence/peer_relationship/peers	/people/person/nationality	_/people/person/nationality
+-1
+-5.38441943051
+___
+/m/03_js	/m/019fz	/m/09c7w0	/m/02yl42
+_/influence/influence_node/peers./influence/peer_relationship/peers	/people/person/nationality	_/people/person/nationality
+-1
+-5.38441943051
+___
+/m/03_js	/m/019fz	/m/09c7w0	/m/01jrz5j
+_/influence/influence_node/peers./influence/peer_relationship/peers	/people/person/nationality	_/people/person/nationality
+-1
+-5.38441943051
+___
+/m/03_js	/m/019fz	/m/09c7w0	/m/012cj0
+_/influence/influence_node/peers./influence/peer_relationship/peers	/people/person/nationality	_/people/person/nationality
+-1
+-5.38441943051
+___
+/m/03_js	/m/019fz	/m/09c7w0	/m/01h8f
+_/influence/influence_node/peers./influence/peer_relationship/peers	/people/person/nationality	_/people/person/nationality
+-1
+-5.38441943051
+___
+/m/03_js	/m/019fz	/m/09c7w0	/m/03fbb6
+_/influence/influence_node/peers./influence/peer_relationship/peers	/people/person/nationality	_/people/person/nationality
+-1
+-5.38441943051
+___
+/m/03_js	/m/019fz	/m/09c7w0	/m/04g865
+_/influence/influence_node/peers./influence/peer_relationship/peers	/people/person/nationality	_/people/person/nationality
+-1
+-5.38441943051
+___
+/m/03_js	/m/019fz	/m/09c7w0	/m/015z4j
+_/influence/influence_node/peers./influence/peer_relationship/peers	/people/person/nationality	_/people/person/nationality
+-1
+-5.38441943051
+___
+/m/03_js	/m/019fz	/m/09c7w0	/m/066l3y
+_/influence/influence_node/peers./influence/peer_relationship/peers	/people/person/nationality	_/people/person/nationality
+-1
+-5.38441943051
+___
+/m/03_js	/m/019fz	/m/09c7w0	/m/02pjvc
+_/influence/influence_node/peers./influence/peer_relationship/peers	/people/person/nationality	_/people/person/nationality
+-1
+-5.38441943051
+___
+/m/03_js	/m/019fz	/m/09c7w0	/m/0161sp
+_/influence/influence_node/peers./influence/peer_relationship/peers	/people/person/nationality	_/people/person/nationality
+-1
+-5.38441943051
+___
+/m/03_js	/m/019fz	/m/09c7w0	/m/01hxs4
+_/influence/influence_node/peers./influence/peer_relationship/peers	/people/person/nationality	_/people/person/nationality
+-1
+-5.38441943051
+___
+/m/03_js	/m/019fz	/m/09c7w0	/m/0bzyh
+_/influence/influence_node/peers./influence/peer_relationship/peers	/people/person/nationality	_/people/person/nationality
+-1
+-5.38441943051
+___
+/m/03_js	/m/019fz	/m/09c7w0	/m/01jgpsh
+_/influence/influence_node/peers./influence/peer_relationship/peers	/people/person/nationality	_/people/person/nationality
+-1
+-5.38441943051
+___
+/m/03_js	/m/019fz	/m/09c7w0	/m/03q8ch
+_/influence/influence_node/peers./influence/peer_relationship/peers	/people/person/nationality	_/people/person/nationality
+-1
+-5.38441943051
+___
+/m/03_js	/m/019fz	/m/09c7w0	/m/02_340
+_/influence/influence_node/peers./influence/peer_relationship/peers	/people/person/nationality	_/people/person/nationality
+-1
+-5.38441943051
+___
+/m/03_js	/m/019fz	/m/09c7w0	/m/026c1
+_/influence/influence_node/peers./influence/peer_relationship/peers	/people/person/nationality	_/people/person/nationality
+-1
+-5.38441943051
+___
+/m/03_js	/m/019fz	/m/09c7w0	/m/0lgsq
+_/influence/influence_node/peers./influence/peer_relationship/peers	/people/person/nationality	_/people/person/nationality
+-1
+-5.38441943051
+___
+/m/03_js	/m/019fz	/m/09c7w0	/m/011xjd
+_/influence/influence_node/peers./influence/peer_relationship/peers	/people/person/nationality	_/people/person/nationality
+-1
+-5.38441943051
+___
+/m/03_js	/m/019fz	/m/09c7w0	/m/0cf2h
+_/influence/influence_node/peers./influence/peer_relationship/peers	/people/person/nationality	_/people/person/nationality
+-1
+-5.38441943051
+___
+/m/03_js	/m/019fz	/m/09c7w0	/m/0hnlx
+_/influence/influence_node/peers./influence/peer_relationship/peers	/people/person/nationality	_/people/person/nationality
+-1
+-5.38441943051
+___
+/m/03_js	/m/019fz	/m/09c7w0	/m/0g28b1
+_/influence/influence_node/peers./influence/peer_relationship/peers	/people/person/nationality	_/people/person/nationality
+-1
+-5.38441943051
+___
+/m/03_js	/m/019fz	/m/09c7w0	/m/07ss8_
+_/influence/influence_node/peers./influence/peer_relationship/peers	/people/person/nationality	_/people/person/nationality
+-1
+-5.38441943051
+___
+/m/03_js	/m/019fz	/m/09c7w0	/m/04511f
+_/influence/influence_node/peers./influence/peer_relationship/peers	/people/person/nationality	_/people/person/nationality
+-1
+-5.38441943051
+___
+/m/03_js	/m/019fz	/m/09c7w0	/m/0grrq8
+_/influence/influence_node/peers./influence/peer_relationship/peers	/people/person/nationality	_/people/person/nationality
+-1
+-5.38441943051
+___
+/m/03_js	/m/019fz	/m/09c7w0	/m/04vzv4
+_/influence/influence_node/peers./influence/peer_relationship/peers	/people/person/nationality	_/people/person/nationality
+-1
+-5.38441943051
+___
+/m/03_js	/m/019fz	/m/09c7w0	/m/0203v
+_/influence/influence_node/peers./influence/peer_relationship/peers	/people/person/nationality	_/people/person/nationality
+-1
+-5.38441943051
+___
+/m/03_js	/m/019fz	/m/09c7w0	/m/02pt6k_
+_/influence/influence_node/peers./influence/peer_relationship/peers	/people/person/nationality	_/people/person/nationality
+-1
+-5.38441943051
+___
+/m/03_js	/m/019fz	/m/09c7w0	/m/062hgx
+_/influence/influence_node/peers./influence/peer_relationship/peers	/people/person/nationality	_/people/person/nationality
+-1
+-5.38441943051
+___
+/m/03_js	/m/019fz	/m/09c7w0	/m/031zkw
+_/influence/influence_node/peers./influence/peer_relationship/peers	/people/person/nationality	_/people/person/nationality
+-1
+-5.38441943051
+___
+/m/03_js	/m/019fz	/m/09c7w0	/m/06fmdb
+_/influence/influence_node/peers./influence/peer_relationship/peers	/people/person/nationality	_/people/person/nationality
+-1
+-5.38441943051
+___
+/m/03_js	/m/019fz	/m/09c7w0	/m/0h1m9
+_/influence/influence_node/peers./influence/peer_relationship/peers	/people/person/nationality	_/people/person/nationality
+-1
+-5.38441943051
+___
+/m/03_js	/m/019fz	/m/09c7w0	/m/04t7ts
+_/influence/influence_node/peers./influence/peer_relationship/peers	/people/person/nationality	_/people/person/nationality
+-1
+-5.38441943051
+___
+/m/03_js	/m/019fz	/m/09c7w0	/m/0q59y
+_/influence/influence_node/peers./influence/peer_relationship/peers	/people/person/nationality	_/people/person/nationality
+-1
+-5.38441943051
+___
+/m/03_js	/m/019fz	/m/09c7w0	/m/0147dk
+_/influence/influence_node/peers./influence/peer_relationship/peers	/people/person/nationality	_/people/person/nationality
+-1
+-5.38441943051
+___
+/m/03_js	/m/019fz	/m/09c7w0	/m/041rhq
+_/influence/influence_node/peers./influence/peer_relationship/peers	/people/person/nationality	_/people/person/nationality
+-1
+-5.38441943051
+___
+/m/03_js	/m/01ld4n	/m/03_js	/m/07cbs
+/people/person/religion	_/people/person/religion	/influence/influence_node/peers./influence/peer_relationship/peers
+-1
+-5.55502915382
+___
+/m/03_js	/m/07cbs	/m/07z1m	/m/09c7w0
+/influence/influence_node/peers./influence/peer_relationship/peers	/government/politician/government_positions_held./government/government_position_held/jurisdiction_of_office	/location/administrative_division/first_level_division_of
+1
+-5.60963472724
+___
+/m/03_js	/m/01ld4n	/m/03_js	/m/07wgm
+/people/person/religion	_/people/person/religion	_/government/political_party/politicians_in_this_party./government/political_party_tenure/politician
+-1
+-5.822961092
+___
+/m/03_js	/m/07wgm	/m/042fk	/m/07wgm
+_/government/political_party/politicians_in_this_party./government/political_party_tenure/politician	/government/political_party/politicians_in_this_party./government/political_party_tenure/politician	_/government/political_party/politicians_in_this_party./government/political_party_tenure/politician
+-1
+-5.85699880123
+___
+/m/03_js	/m/07wgm	/m/042fk	/m/0d075m
+_/government/political_party/politicians_in_this_party./government/political_party_tenure/politician	/government/political_party/politicians_in_this_party./government/political_party_tenure/politician	_/government/political_party/politicians_in_this_party./government/political_party_tenure/politician
+-1
+-5.85699880123
+___
+/m/03_js	/m/07cbs	/m/09c7w0	/m/0347xl
+_/influence/influence_node/peers./influence/peer_relationship/peers	/government/politician/government_positions_held./government/government_position_held/jurisdiction_of_office	_/people/person/nationality
+-1
+-6.14995747805
+___
+/m/03_js	/m/07cbs	/m/09c7w0	/m/04vzv4
+_/influence/influence_node/peers./influence/peer_relationship/peers	/government/politician/government_positions_held./government/government_position_held/jurisdiction_of_office	_/people/person/nationality
+-1
+-6.14995747805
+___
+/m/03_js	/m/07cbs	/m/09c7w0	/m/0grrq8
+_/influence/influence_node/peers./influence/peer_relationship/peers	/government/politician/government_positions_held./government/government_position_held/jurisdiction_of_office	_/people/person/nationality
+-1
+-6.14995747805
+___
+/m/03_js	/m/07cbs	/m/09c7w0	/m/0hnlx
+_/influence/influence_node/peers./influence/peer_relationship/peers	/government/politician/government_positions_held./government/government_position_held/jurisdiction_of_office	_/people/person/nationality
+-1
+-6.14995747805
+___
+/m/03_js	/m/07cbs	/m/09c7w0	/m/0280mv7
+_/influence/influence_node/peers./influence/peer_relationship/peers	/government/politician/government_positions_held./government/government_position_held/jurisdiction_of_office	_/people/person/nationality
+-1
+-6.14995747805
+___
+/m/03_js	/m/07cbs	/m/09c7w0	/m/015z4j
+_/influence/influence_node/peers./influence/peer_relationship/peers	/government/politician/government_positions_held./government/government_position_held/jurisdiction_of_office	_/people/person/nationality
+-1
+-6.14995747805
+___
+/m/03_js	/m/07cbs	/m/09c7w0	/m/01lcxbb
+_/influence/influence_node/peers./influence/peer_relationship/peers	/government/politician/government_positions_held./government/government_position_held/jurisdiction_of_office	_/people/person/nationality
+-1
+-6.14995747805
+___
+/m/03_js	/m/07cbs	/m/09c7w0	/m/07ss8_
+_/influence/influence_node/peers./influence/peer_relationship/peers	/government/politician/government_positions_held./government/government_position_held/jurisdiction_of_office	_/people/person/nationality
+-1
+-6.14995747805
+___
+/m/03_js	/m/07cbs	/m/09c7w0	/m/041rhq
+_/influence/influence_node/peers./influence/peer_relationship/peers	/government/politician/government_positions_held./government/government_position_held/jurisdiction_of_office	_/people/person/nationality
+-1
+-6.14995747805
+___
+/m/03_js	/m/07cbs	/m/09c7w0	/m/0284n42
+_/influence/influence_node/peers./influence/peer_relationship/peers	/government/politician/government_positions_held./government/government_position_held/jurisdiction_of_office	_/people/person/nationality
+-1
+-6.14995747805
+___
+/m/03_js	/m/07cbs	/m/09c7w0	/m/078jt5
+_/influence/influence_node/peers./influence/peer_relationship/peers	/government/politician/government_positions_held./government/government_position_held/jurisdiction_of_office	_/people/person/nationality
+-1
+-6.14995747805
+___
+#####################
+/m/07_m9_	/m/059z0
+Reward:0
+/m/07_m9_	/m/0345h	/m/06rf7	/m/0345h
+/people/person/nationality	_/location/administrative_division/first_level_division_of	/location/administrative_division/first_level_division_of
+-1
+-1.7950743679
+___
+/m/07_m9_	/m/0345h	/m/070zc	/m/0345h
+/people/person/nationality	_/location/administrative_division/first_level_division_of	/location/administrative_division/first_level_division_of
+-1
+-2.07303889282
+___
+/m/07_m9_	/m/0345h	/m/02lmk	/m/0345h
+/people/person/nationality	_/people/person/nationality	/people/person/nationality
+-1
+-3.13004566915
+___
+/m/07_m9_	/m/0345h	/m/018dyl	/m/0345h
+/people/person/nationality	_/people/person/nationality	/people/person/nationality
+-1
+-3.13095946546
+___
+/m/07_m9_	/m/0345h	/m/0m2wm	/m/0345h
+/people/person/nationality	_/people/person/nationality	/people/person/nationality
+-1
+-3.13154419535
+___
+/m/07_m9_	/m/0345h	/m/02wh0	/m/0345h
+/people/person/nationality	_/people/person/nationality	/people/person/nationality
+-1
+-3.13185493567
+___
+/m/07_m9_	/m/0345h	/m/0k4gf	/m/0345h
+/people/person/nationality	_/people/person/nationality	/people/person/nationality
+-1
+-3.13214571355
+___
+/m/07_m9_	/m/0345h	/m/0150t6	/m/0345h
+/people/person/nationality	_/people/person/nationality	/people/person/nationality
+-1
+-3.13444800954
+___
+/m/07_m9_	/m/0345h	/m/04fzk	/m/0345h
+/people/person/nationality	_/people/person/nationality	/people/person/nationality
+-1
+-3.13547174027
+___
+/m/07_m9_	/m/0345h	/m/06rf7	/m/0345h
+/people/person/nationality	_/base/aareas/schema/administrative_area/administrative_parent	/location/administrative_division/first_level_division_of
+-1
+-3.34769086353
+___
+/m/07_m9_	/m/0345h	/m/0156q	/m/0345h
+/people/person/nationality	_/base/aareas/schema/administrative_area/administrative_parent	/location/administrative_division/first_level_division_of
+-1
+-3.37663119473
+___
+/m/07_m9_	/m/0345h	/m/0841zn	/m/0345h
+/people/person/nationality	_/people/person/nationality	/people/person/nationality
+-1
+-3.82329262979
+___
+/m/07_m9_	/m/0345h	/m/0841zn	/m/0d060g
+/people/person/nationality	_/people/person/nationality	/people/person/nationality
+-1
+-3.82329262979
+___
+/m/07_m9_	/m/0345h	/m/01kwld	/m/0345h
+/people/person/nationality	_/people/person/nationality	/people/person/nationality
+-1
+-3.82372380979
+___
+/m/07_m9_	/m/0345h	/m/01kwld	/m/07ssc
+/people/person/nationality	_/people/person/nationality	/people/person/nationality
+-1
+-3.82372380979
+___
+/m/07_m9_	/m/0345h	/m/0727_	/m/0345h
+/people/person/nationality	_/base/biblioness/bibs_location/country	/base/biblioness/bibs_location/country
+-1
+-4.01881419867
+___
+/m/07_m9_	/m/0345h	/m/01cz_1	/m/0345h
+/people/person/nationality	_/base/biblioness/bibs_location/country	/base/biblioness/bibs_location/country
+-1
+-4.04968512245
+___
+/m/07_m9_	/m/0345h	/m/09krp	/m/0345h
+/people/person/nationality	_/base/biblioness/bibs_location/country	/location/administrative_division/first_level_division_of
+-1
+-4.15702581592
+___
+/m/07_m9_	/m/0345h	/m/070zc	/m/0345h
+/people/person/nationality	_/location/administrative_division/first_level_division_of	/base/biblioness/bibs_location/country
+-1
+-4.21507443674
+___
+/m/07_m9_	/m/0345h	/m/013_gg	/m/0345h
+/people/person/nationality	_/base/biblioness/bibs_location/country	/base/biblioness/bibs_location/country
+-1
+-4.21511659212
+___
+/m/07_m9_	/m/0345h	/m/02h761	/m/0345h
+/people/person/nationality	_/people/person/nationality	/people/person/nationality
+-1
+-4.22970737703
+___
+/m/07_m9_	/m/0345h	/m/02h761	/m/07ssc
+/people/person/nationality	_/people/person/nationality	/people/person/nationality
+-1
+-4.22970737703
+___
+/m/07_m9_	/m/0345h	/m/02h761	/m/02jx1
+/people/person/nationality	_/people/person/nationality	/people/person/nationality
+-1
+-4.22970737703
+___
+/m/07_m9_	/m/0345h	/m/070zc	/m/04kf4
+/people/person/nationality	_/location/administrative_division/first_level_division_of	_/base/biblioness/bibs_location/state
+-1
+-4.25759877451
+___
+/m/07_m9_	/m/0345h	/m/070zc	/m/09b9m
+/people/person/nationality	_/location/administrative_division/first_level_division_of	_/base/biblioness/bibs_location/state
+-1
+-4.25759877451
+___
+/m/07_m9_	/m/0345h	/m/070zc	/m/0345h
+/people/person/nationality	_/base/biblioness/bibs_location/country	/location/administrative_division/first_level_division_of
+-1
+-4.27934073098
+___
+/m/07_m9_	/m/0345h	/m/017v_	/m/0345h
+/people/person/nationality	_/base/biblioness/bibs_location/country	/location/administrative_division/first_level_division_of
+-1
+-4.33766420372
+___
+/m/07_m9_	/m/0345h	/m/06rf7	/m/0345h
+/people/person/nationality	_/location/administrative_division/first_level_division_of	/location/administrative_division/country
+-1
+-4.57566632517
+___
+/m/07_m9_	/m/0345h	/m/070zc	/m/0345h
+/people/person/nationality	_/location/administrative_division/first_level_division_of	/location/administrative_division/country
+-1
+-4.85363091715
+___
+/m/07_m9_	/m/05g9h	/m/099bk	/m/0345h
+_/government/political_party/politicians_in_this_party./government/political_party_tenure/politician	_/organization/organization_member/member_of./organization/organization_membership/organization	/people/person/nationality
+-1
+-5.08831852908
+___
+/m/07_m9_	/m/0345h	/m/06rf7	/m/0345h
+/people/person/nationality	_/location/administrative_division/first_level_division_of	/base/aareas/schema/administrative_area/administrative_parent
+-1
+-5.9138101507
+___
+/m/07_m9_	/m/0345h	/m/013_gg	/m/04p0c
+/people/person/nationality	_/base/biblioness/bibs_location/country	/base/aareas/schema/administrative_area/administrative_parent
+-1
+-5.97758640535
+___
+/m/07_m9_	/m/0345h	/m/0156q	/m/0345h
+/people/person/nationality	_/base/aareas/schema/administrative_area/administrative_parent	/base/biblioness/bibs_location/country
+-1
+-6.14934863336
+___
+/m/07_m9_	/m/0345h	/m/070zc	/m/0345h
+/people/person/nationality	_/location/administrative_division/first_level_division_of	/base/aareas/schema/administrative_area/administrative_parent
+-1
+-6.19177474268
+___
+/m/07_m9_	/m/0345h	/m/09krp	/m/0345h
+/people/person/nationality	_/base/biblioness/bibs_location/country	/base/biblioness/bibs_location/country
+-1
+-6.46141471155
+___
+/m/07_m9_	/m/0345h	/m/070zc	/m/0345h
+/people/person/nationality	_/base/biblioness/bibs_location/country	/base/biblioness/bibs_location/country
+-1
+-6.58372964151
+___
+/m/07_m9_	/m/0345h	/m/017v_	/m/0345h
+/people/person/nationality	_/base/biblioness/bibs_location/country	/base/biblioness/bibs_location/country
+-1
+-6.64205326326
+___
+/m/07_m9_	/m/0345h	/m/06rf7	/m/0345h
+/people/person/nationality	_/base/aareas/schema/administrative_area/administrative_parent	/location/administrative_division/country
+-1
+-6.8313516546
+___
+/m/07_m9_	/m/0345h	/m/070zc	/m/09b9m
+/people/person/nationality	_/base/biblioness/bibs_location/country	_/base/biblioness/bibs_location/state
+-1
+-6.89962949045
+___
+/m/07_m9_	/m/0345h	/m/070zc	/m/04kf4
+/people/person/nationality	_/base/biblioness/bibs_location/country	_/base/biblioness/bibs_location/state
+-1
+-6.89962949045
+___
+/m/07_m9_	/m/0345h	/m/017v_	/m/02h6_6p
+/people/person/nationality	_/base/biblioness/bibs_location/country	_/base/biblioness/bibs_location/state
+-1
+-6.9579531122
+___
+/m/07_m9_	/m/0345h	/m/017v_	/m/01cz_1
+/people/person/nationality	_/base/biblioness/bibs_location/country	_/base/biblioness/bibs_location/state
+-1
+-6.9579531122
+___
+/m/07_m9_	/m/0345h	/m/017v_	/m/09f8q
+/people/person/nationality	_/base/biblioness/bibs_location/country	_/base/biblioness/bibs_location/state
+-1
+-6.9579531122
+___
+/m/07_m9_	/m/0345h	/m/09krp	/m/0345h
+/people/person/nationality	_/base/biblioness/bibs_location/country	/location/administrative_division/country
+-1
+-7.08001174219
+___
+/m/07_m9_	/m/0345h	/m/070zc	/m/0345h
+/people/person/nationality	_/base/biblioness/bibs_location/country	/location/administrative_division/country
+-1
+-7.20232667215
+___
+/m/07_m9_	/m/0345h	/m/06rf7	/m/0g7pm
+/people/person/nationality	_/location/administrative_division/first_level_division_of	_/base/aareas/schema/administrative_area/administrative_parent
+-1
+-7.24790848978
+___
+/m/07_m9_	/m/0345h	/m/017v_	/m/0345h
+/people/person/nationality	_/base/biblioness/bibs_location/country	/location/administrative_division/country
+-1
+-7.2606502939
+___
+/m/07_m9_	/m/0345h	/m/01cz_1	/m/017v_
+/people/person/nationality	_/base/biblioness/bibs_location/country	/base/biblioness/bibs_location/state
+-1
+-7.38162101991
+___
+/m/07_m9_	/m/0345h	/m/070zc	/m/09b9m
+/people/person/nationality	_/location/administrative_division/first_level_division_of	_/base/aareas/schema/administrative_area/administrative_parent
+-1
+-7.52587308176
+___
+/m/07_m9_	/m/0345h	/m/070zc	/m/01bgkq
+/people/person/nationality	_/location/administrative_division/first_level_division_of	_/base/aareas/schema/administrative_area/administrative_parent
+-1
+-7.52587308176
+___
+/m/07_m9_	/m/0345h	/m/013_gg	/m/04p0c
+/people/person/nationality	_/base/biblioness/bibs_location/country	/base/biblioness/bibs_location/state
+-1
+-7.5470525194
+___
+/m/07_m9_	/m/0345h	/m/0727_	/m/0345h
+/people/person/nationality	_/base/biblioness/bibs_location/country	_/location/location/contains
+-1
+-8.04864157923
+___
+/m/07_m9_	/m/0345h	/m/01cz_1	/m/017v_
+/people/person/nationality	_/base/biblioness/bibs_location/country	_/location/location/contains
+-1
+-8.07951249368
+___
+/m/07_m9_	/m/0345h	/m/06rf7	/m/0345h
+/people/person/nationality	_/base/aareas/schema/administrative_area/administrative_parent	/base/aareas/schema/administrative_area/administrative_parent
+-1
+-8.08461989649
+___
+/m/07_m9_	/m/0345h	/m/0156q	/m/0345h
+/people/person/nationality	_/base/aareas/schema/administrative_area/administrative_parent	/base/aareas/schema/administrative_area/administrative_parent
+-1
+-8.11356009729
+___
+/m/07_m9_	/m/0345h	/m/013_gg	/m/04p0c
+/people/person/nationality	_/base/biblioness/bibs_location/country	_/location/location/contains
+-1
+-8.24494399317
+___
+/m/07_m9_	/m/0345h	/m/013_gg	/m/0345h
+/people/person/nationality	_/base/biblioness/bibs_location/country	_/location/location/contains
+-1
+-8.24494399317
+___
+/m/07_m9_	/m/0345h	/m/06rf7	/m/0345h
+/people/person/nationality	_/location/administrative_division/first_level_division_of	_/location/location/contains
+-1
+-8.33793486841
+___
+/m/07_m9_	/m/0345h	/m/070zc	/m/0345h
+/people/person/nationality	_/base/biblioness/bibs_location/country	/base/aareas/schema/administrative_area/administrative_parent
+-1
+-8.34619941004
+___
+/m/07_m9_	/m/0345h	/m/017v_	/m/0345h
+/people/person/nationality	_/base/biblioness/bibs_location/country	/base/aareas/schema/administrative_area/administrative_parent
+-1
+-8.40452279337
+___
+/m/07_m9_	/m/0345h	/m/070zc	/m/0345h
+/people/person/nationality	_/location/administrative_division/first_level_division_of	_/location/location/contains
+-1
+-8.61589946039
+___
+/m/07_m9_	/m/0345h	/m/017gry	/m/0345h
+/people/person/nationality	/location/location/contains	_/location/location/contains
+-1
+-8.76726366736
+___
+/m/07_m9_	/m/0345h	/m/0727_	/m/0345h
+/people/person/nationality	/location/location/contains	/base/biblioness/bibs_location/country
+-1
+-8.78670320287
+___
+/m/07_m9_	/m/0345h	/m/0cm5m	/m/0345h
+/people/person/nationality	/location/location/contains	_/location/location/contains
+-1
+-8.79089072533
+___
+/m/07_m9_	/m/0345h	/m/0qjd	/m/09ksp
+/people/person/nationality	/location/location/contains	/base/aareas/schema/administrative_area/administrative_parent
+-1
+-8.85443824716
+___
+/m/07_m9_	/m/0345h	/m/0d6b7	/m/0dxtw
+/people/person/nationality	/media_common/netflix_genre/titles	/film/film/other_crew./film/film_crew_gig/film_crew_role
+-1
+-8.91360064037
+___
+/m/07_m9_	/m/01lp8	/m/0678gl	/m/09c7w0
+/people/person/religion	_/people/person/religion	/people/person/nationality
+-1
+-8.92227109478
+___
+/m/07_m9_	/m/01lp8	/m/07_m9_	/m/0345h
+/people/person/religion	_/people/person/religion	/people/person/nationality
+-1
+-8.9222949298
+___
+/m/07_m9_	/m/01lp8	/m/07vfqj	/m/06qd3
+/people/person/religion	_/people/person/religion	/people/person/nationality
+-1
+-8.92231363992
+___
+/m/07_m9_	/m/01lp8	/m/01mxqyk	/m/09c7w0
+/people/person/religion	_/people/person/religion	/people/person/nationality
+-1
+-8.92234891409
+___
+/m/07_m9_	/m/01lp8	/m/05wm88	/m/09c7w0
+/people/person/religion	_/people/person/religion	/people/person/nationality
+-1
+-8.92236416737
+___
+/m/07_m9_	/m/01lp8	/m/095nx	/m/09c7w0
+/people/person/religion	_/people/person/religion	/people/person/nationality
+-1
+-8.92237942043
+___
+/m/07_m9_	/m/01lp8	/m/015lhm	/m/09c7w0
+/people/person/religion	_/people/person/religion	/people/person/nationality
+-1
+-8.92238752352
+___
+/m/07_m9_	/m/01lp8	/m/01kwlwp	/m/09c7w0
+/people/person/religion	_/people/person/religion	/people/person/nationality
+-1
+-8.92241671795
+___
+/m/07_m9_	/m/01lp8	/m/049k07	/m/09c7w0
+/people/person/religion	_/people/person/religion	/people/person/nationality
+-1
+-8.92246747849
+___
+/m/07_m9_	/m/01lp8	/m/02tk74	/m/02jx1
+/people/person/religion	_/people/person/religion	/people/person/nationality
+-1
+-8.92246950409
+___
+/m/07_m9_	/m/01lp8	/m/01w7nwm	/m/09c7w0
+/people/person/religion	_/people/person/religion	/people/person/nationality
+-1
+-8.92248570878
+___
+/m/07_m9_	/m/01lp8	/m/02k4b2	/m/09c7w0
+/people/person/religion	_/people/person/religion	/people/person/nationality
+-1
+-8.92249047483
+___
+/m/07_m9_	/m/01lp8	/m/0bk5r	/m/06mzp
+/people/person/religion	_/people/person/religion	/people/person/nationality
+-1
+-8.92249083228
+___
+/m/07_m9_	/m/01lp8	/m/01wd02c	/m/07ssc
+/people/person/religion	_/people/person/religion	/people/person/nationality
+-1
+-8.92251001531
+___
+/m/07_m9_	/m/01lp8	/m/016kjs	/m/09c7w0
+/people/person/religion	_/people/person/religion	/people/person/nationality
+-1
+-8.9225351552
+___
+/m/07_m9_	/m/01lp8	/m/03xnq9_	/m/09c7w0
+/people/person/religion	_/people/person/religion	/people/person/nationality
+-1
+-8.9225633922
+___
+/m/07_m9_	/m/01lp8	/m/01_4z	/m/06f32
+/people/person/religion	_/people/person/religion	/people/person/nationality
+-1
+-8.92257077893
+___
+/m/07_m9_	/m/01lp8	/m/02wb6yq	/m/09c7w0
+/people/person/religion	_/people/person/religion	/people/person/nationality
+-1
+-8.92259281978
+___
+/m/07_m9_	/m/01lp8	/m/01vtqml	/m/02jx1
+/people/person/religion	_/people/person/religion	/people/person/nationality
+-1
+-8.92260139767
+___
+/m/07_m9_	/m/01lp8	/m/04v7k2	/m/03rk0
+/people/person/religion	_/people/person/religion	/people/person/nationality
+-1
+-8.9226047335
+___
+/m/07_m9_	/m/01lp8	/m/01m4kpp	/m/09c7w0
+/people/person/religion	_/people/person/religion	/people/person/nationality
+-1
+-8.92269134225
+___
+/m/07_m9_	/m/01lp8	/m/049m19	/m/03rk0
+/people/person/religion	_/people/person/religion	/people/person/nationality
+-1
+-8.92269205698
+___
+/m/07_m9_	/m/01lp8	/m/01wj92r	/m/09c7w0
+/people/person/religion	_/people/person/religion	/people/person/nationality
+-1
+-8.92271969392
+___
+/m/07_m9_	/m/01lp8	/m/04f7c55	/m/09c7w0
+/people/person/religion	_/people/person/religion	/people/person/nationality
+-1
+-8.92277520377
+___
+/m/07_m9_	/m/01lp8	/m/03y82t6	/m/09c7w0
+/people/person/religion	_/people/person/religion	/people/person/nationality
+-1
+-8.92280176643
+___
+/m/07_m9_	/m/01lp8	/m/081nh	/m/09c7w0
+/people/person/religion	_/people/person/religion	/people/person/nationality
+-1
+-8.92285250744
+___
+/m/07_m9_	/m/01lp8	/m/0bdxs5	/m/09c7w0
+/people/person/religion	_/people/person/religion	/people/person/nationality
+-1
+-8.92301162204
+___
+/m/07_m9_	/m/01lp8	/m/020trj	/m/09c7w0
+/people/person/religion	_/people/person/religion	/people/person/nationality
+-1
+-8.92324429366
+___
+/m/07_m9_	/m/01lp8	/m/0154qm	/m/0chghy
+/people/person/religion	_/people/person/religion	/people/person/nationality
+-1
+-8.92353214079
+___
+/m/07_m9_	/m/01lp8	/m/01vrncs	/m/09c7w0
+/people/person/religion	_/people/person/religion	/people/person/nationality
+-1
+-8.92361938336
+___
+/m/07_m9_	/m/01lp8	/m/0147dk	/m/09c7w0
+/people/person/religion	_/people/person/religion	/people/person/nationality
+-1
+-8.92393781955
+___
+/m/07_m9_	/m/01lp8	/m/091n7z	/m/01lp8
+/people/person/religion	_/people/person/religion	/people/person/religion
+-1
+-8.92537190462
+___
+/m/07_m9_	/m/0345h	/m/0cpyv	/m/07nf6
+/people/person/nationality	/location/location/contains	/base/aareas/schema/administrative_area/administrative_parent
+-1
+-8.93469414301
+___
+/m/07_m9_	/m/0345h	/m/0dr31	/m/09krp
+/people/person/nationality	/location/location/contains	/base/aareas/schema/administrative_area/administrative_parent
+-1
+-8.93471461721
+___
+#####################
+/m/0cw10	/m/014tss
+Reward:1
+/m/0cw10	/m/07ssc	/m/082xp	/m/07ssc
+/people/person/nationality	_/people/person/nationality	/people/person/nationality
+-1
+-3.70783759406
+___
+/m/0cw10	/m/07ssc	/m/016nvh	/m/07ssc
+/people/person/nationality	_/people/person/nationality	/people/person/nationality
+-1
+-3.70786178357
+___
+/m/0cw10	/m/07ssc	/m/0g_92	/m/07ssc
+/people/person/nationality	_/people/person/nationality	/people/person/nationality
+-1
+-3.70789907951
+___
+/m/0cw10	/m/07ssc	/m/0f0qfz	/m/07ssc
+/people/person/nationality	_/people/person/nationality	/people/person/nationality
+-1
+-3.70791170979
+___
+/m/0cw10	/m/07ssc	/m/017vkx	/m/07ssc
+/people/person/nationality	_/people/person/nationality	/people/person/nationality
+-1
+-3.70799547067
+___
+/m/0cw10	/m/07ssc	/m/02c0mv	/m/07ssc
+/people/person/nationality	_/people/person/nationality	/people/person/nationality
+-1
+-3.70805813774
+___
+/m/0cw10	/m/07ssc	/m/01xsbh	/m/07ssc
+/people/person/nationality	_/people/person/nationality	/people/person/nationality
+-1
+-3.70814736607
+___
+/m/0cw10	/m/07ssc	/m/04vmqg	/m/07ssc
+/people/person/nationality	_/people/person/nationality	/people/person/nationality
+-1
+-3.70816154184
+___
+/m/0cw10	/m/07ssc	/m/02z2xdf	/m/07ssc
+/people/person/nationality	_/people/person/nationality	/people/person/nationality
+-1
+-3.70840678591
+___
+/m/0cw10	/m/07ssc	/m/01wd02c	/m/07ssc
+/people/person/nationality	_/people/person/nationality	/people/person/nationality
+-1
+-3.7091473937
+___
+/m/0cw10	/m/07ssc	/m/04r7jc	/m/07ssc
+/people/person/nationality	_/people/person/nationality	/people/person/nationality
+-1
+-3.70916274539
+___
+/m/0cw10	/m/07ssc	/m/0l8v5	/m/07ssc
+/people/person/nationality	_/people/person/nationality	/people/person/nationality
+-1
+-3.70917547867
+___
+/m/0cw10	/m/07ssc	/m/01bpn	/m/07ssc
+/people/person/nationality	_/people/person/nationality	/people/person/nationality
+-1
+-3.70926163252
+___
+/m/0cw10	/m/07ssc	/m/03y1mlp	/m/07ssc
+/people/person/nationality	_/people/person/nationality	/people/person/nationality
+-1
+-3.70938977867
+___
+/m/0cw10	/m/07ssc	/m/041c4	/m/07ssc
+/people/person/nationality	_/people/person/nationality	/people/person/nationality
+-1
+-3.71005701553
+___
+/m/0cw10	/m/07ssc	/m/0cm03	/m/07ssc
+/people/person/nationality	_/people/person/nationality	/people/person/nationality
+-1
+-3.86955605773
+___
+/m/0cw10	/m/07ssc	/m/058nh2	/m/07ssc
+/people/person/nationality	_/people/person/nationality	/people/person/nationality
+-1
+-4.40063616959
+___
+/m/0cw10	/m/07ssc	/m/058nh2	/m/02jx1
+/people/person/nationality	_/people/person/nationality	/people/person/nationality
+-1
+-4.40063616959
+___
+/m/0cw10	/m/07ssc	/m/03dq9	/m/07ssc
+/people/person/nationality	_/people/person/nationality	/people/person/nationality
+-1
+-4.40066823689
+___
+/m/0cw10	/m/07ssc	/m/03dq9	/m/02jx1
+/people/person/nationality	_/people/person/nationality	/people/person/nationality
+-1
+-4.40066823689
+___
+/m/0cw10	/m/07ssc	/m/080dyk	/m/07ssc
+/people/person/nationality	_/people/person/nationality	/people/person/nationality
+-1
+-4.4006991121
+___
+/m/0cw10	/m/07ssc	/m/080dyk	/m/05bcl
+/people/person/nationality	_/people/person/nationality	/people/person/nationality
+-1
+-4.4006991121
+___
+/m/0cw10	/m/07ssc	/m/01l_vgt	/m/07ssc
+/people/person/nationality	_/people/person/nationality	/people/person/nationality
+-1
+-4.40071639745
+___
+/m/0cw10	/m/07ssc	/m/01l_vgt	/m/0f8l9c
+/people/person/nationality	_/people/person/nationality	/people/person/nationality
+-1
+-4.40071639745
+___
+/m/0cw10	/m/07ssc	/m/02lq10	/m/07ssc
+/people/person/nationality	_/people/person/nationality	/people/person/nationality
+-1
+-4.40076551167
+___
+/m/0cw10	/m/07ssc	/m/02lq10	/m/09c7w0
+/people/person/nationality	_/people/person/nationality	/people/person/nationality
+-1
+-4.40076551167
+___
+/m/0cw10	/m/07ssc	/m/030tj5	/m/07ssc
+/people/person/nationality	_/people/person/nationality	/people/person/nationality
+-1
+-4.40083626239
+___
+/m/0cw10	/m/07ssc	/m/030tj5	/m/02jx1
+/people/person/nationality	_/people/person/nationality	/people/person/nationality
+-1
+-4.40083626239
+___
+/m/0cw10	/m/07ssc	/m/0f0kz	/m/02jx1
+/people/person/nationality	_/people/person/nationality	/people/person/nationality
+-1
+-4.40100619523
+___
+/m/0cw10	/m/07ssc	/m/0f0kz	/m/07ssc
+/people/person/nationality	_/people/person/nationality	/people/person/nationality
+-1
+-4.40100619523
+___
+/m/0cw10	/m/07ssc	/m/01wsl7c	/m/06q1r
+/people/person/nationality	_/people/person/nationality	/people/person/nationality
+-1
+-4.40118900267
+___
+/m/0cw10	/m/07ssc	/m/01wsl7c	/m/07ssc
+/people/person/nationality	_/people/person/nationality	/people/person/nationality
+-1
+-4.40118900267
+___
+/m/0cw10	/m/07ssc	/m/0lfbm	/m/09c7w0
+/people/person/nationality	_/people/person/nationality	/people/person/nationality
+-1
+-4.40126642911
+___
+/m/0cw10	/m/07ssc	/m/0lfbm	/m/07ssc
+/people/person/nationality	_/people/person/nationality	/people/person/nationality
+-1
+-4.40126642911
+___
+/m/0cw10	/m/07ssc	/m/01pcrw	/m/07ssc
+/people/person/nationality	_/people/person/nationality	/people/person/nationality
+-1
+-4.40133205382
+___
+/m/0cw10	/m/07ssc	/m/01pcrw	/m/02jx1
+/people/person/nationality	_/people/person/nationality	/people/person/nationality
+-1
+-4.40133205382
+___
+/m/0cw10	/m/07ssc	/m/01v_pj6	/m/02jx1
+/people/person/nationality	_/people/person/nationality	/people/person/nationality
+-1
+-4.40174714057
+___
+/m/0cw10	/m/07ssc	/m/01v_pj6	/m/07ssc
+/people/person/nationality	_/people/person/nationality	/people/person/nationality
+-1
+-4.40174714057
+___
+/m/0cw10	/m/07ssc	/m/0klw	/m/07ssc
+/people/person/nationality	_/people/person/nationality	/people/person/nationality
+-1
+-4.40214130608
+___
+/m/0cw10	/m/07ssc	/m/0klw	/m/06m_5
+/people/person/nationality	_/people/person/nationality	/people/person/nationality
+-1
+-4.40214130608
+___
+/m/0cw10	/m/07ssc	/m/04vt98	/m/07ssc
+/people/person/nationality	_/people/person/nationality	/people/person/nationality
+-1
+-4.40243676631
+___
+/m/0cw10	/m/07ssc	/m/04vt98	/m/02jx1
+/people/person/nationality	_/people/person/nationality	/people/person/nationality
+-1
+-4.40243676631
+___
+/m/0cw10	/m/07ssc	/m/01vsy7t	/m/02jx1
+/people/person/nationality	_/people/person/nationality	/people/person/nationality
+-1
+-4.40286180703
+___
+/m/0cw10	/m/07ssc	/m/01vsy7t	/m/07ssc
+/people/person/nationality	_/people/person/nationality	/people/person/nationality
+-1
+-4.40286180703
+___
+/m/0cw10	/m/07ssc	/m/01kb2j	/m/07ssc
+/people/person/nationality	_/people/person/nationality	/people/person/nationality
+-1
+-4.40306815831
+___
+/m/0cw10	/m/07ssc	/m/01kb2j	/m/09c7w0
+/people/person/nationality	_/people/person/nationality	/people/person/nationality
+-1
+-4.40306815831
+___
+/m/0cw10	/m/07ssc	/m/01ztgm	/m/07ssc
+/people/person/nationality	_/people/person/nationality	/people/person/nationality
+-1
+-4.40362796513
+___
+/m/0cw10	/m/07ssc	/m/01ztgm	/m/09c7w0
+/people/person/nationality	_/people/person/nationality	/people/person/nationality
+-1
+-4.40362796513
+___
+/m/0cw10	/m/07ssc	/m/03_xj	/m/07ssc
+/people/person/nationality	_/location/administrative_division/country	/location/administrative_division/country
+-1
+-4.52039652457
+___
+/m/0cw10	/m/07ssc	/m/01b8w_	/m/07ssc
+/people/person/nationality	_/base/biblioness/bibs_location/country	/base/biblioness/bibs_location/country
+-1
+-4.59334623767
+___
+/m/0cw10	/m/07ssc	/m/04jpl	/m/07ssc
+/people/person/nationality	_/base/biblioness/bibs_location/country	/base/biblioness/bibs_location/country
+-1
+-4.64640029101
+___
+/m/0cw10	/m/07ssc	/m/02m77	/m/06q1r
+/people/person/nationality	_/location/administrative_division/country	/location/administrative_division/first_level_division_of
+-1
+-4.6807390037
+___
+/m/0cw10	/m/07ssc	/m/0nlc7	/m/07ssc
+/people/person/nationality	_/location/administrative_division/country	/location/administrative_division/country
+-1
+-4.74423139123
+___
+/m/0cw10	/m/07ssc	/m/052bw	/m/07ssc
+/people/person/nationality	_/location/administrative_division/country	/location/administrative_division/country
+-1
+-4.76556423632
+___
+/m/0cw10	/m/07ssc	/m/07g2b	/m/02jx1
+/people/person/nationality	_/people/person/nationality	/people/person/nationality
+-1
+-4.80714127747
+___
+/m/0cw10	/m/07ssc	/m/07g2b	/m/07ssc
+/people/person/nationality	_/people/person/nationality	/people/person/nationality
+-1
+-4.80714127747
+___
+/m/0cw10	/m/07ssc	/m/07g2b	/m/09c7w0
+/people/person/nationality	_/people/person/nationality	/people/person/nationality
+-1
+-4.80714127747
+___
+/m/0cw10	/m/07ssc	/m/0jmxb	/m/02jx1
+/people/person/nationality	_/location/administrative_division/country	/base/biblioness/bibs_location/country
+-1
+-4.92633265583
+___
+/m/0cw10	/m/07ssc	/m/0fm2_	/m/02jx1
+/people/person/nationality	_/location/administrative_division/country	/base/biblioness/bibs_location/country
+-1
+-4.94187033502
+___
+/m/0cw10	/m/07ssc	/m/017cjb	/m/02jx1
+/people/person/nationality	_/location/administrative_division/country	/base/biblioness/bibs_location/country
+-1
+-4.94484442798
+___
+/m/0cw10	/m/07ssc	/m/06y9v	/m/07ssc
+/people/person/nationality	_/location/administrative_division/country	/base/biblioness/bibs_location/country
+-1
+-4.95062354533
+___
+/m/0cw10	/m/07ssc	/m/0j5g9	/m/07ssc
+/people/person/nationality	_/base/biblioness/bibs_location/country	/location/administrative_division/first_level_division_of
+-1
+-4.97273215977
+___
+/m/0cw10	/m/07ssc	/m/0dhdp	/m/07ssc
+/people/person/nationality	_/base/biblioness/bibs_location/country	/base/biblioness/bibs_location/country
+-1
+-5.06692257849
+___
+/m/0cw10	/m/07ssc	/m/059xvg	/m/07ssc
+/people/person/nationality	_/people/person/nationality	/people/person/nationality
+-1
+-5.09373542992
+___
+/m/0cw10	/m/07ssc	/m/059xvg	/m/0d060g
+/people/person/nationality	_/people/person/nationality	/people/person/nationality
+-1
+-5.09373542992
+___
+/m/0cw10	/m/07ssc	/m/059xvg	/m/09c7w0
+/people/person/nationality	_/people/person/nationality	/people/person/nationality
+-1
+-5.09373542992
+___
+/m/0cw10	/m/07ssc	/m/059xvg	/m/02jx1
+/people/person/nationality	_/people/person/nationality	/people/person/nationality
+-1
+-5.09373542992
+___
+/m/0cw10	/m/07ssc	/m/06q1r	/m/07ssc
+/people/person/nationality	_/base/biblioness/bibs_location/country	/location/administrative_division/first_level_division_of
+-1
+-5.21241829125
+___
+/m/0cw10	/m/07ssc	/m/0125q1	/m/088cp
+/people/person/nationality	_/location/administrative_division/country	_/base/biblioness/bibs_location/state
+-1
+-5.38290122477
+___
+/m/0cw10	/m/07ssc	/m/0125q1	/m/07ssc
+/people/person/nationality	_/location/administrative_division/country	/base/biblioness/bibs_location/country
+-1
+-5.51543519227
+___
+/m/0cw10	/m/07ssc	/m/0jmxb	/m/07ssc
+/people/person/nationality	_/location/administrative_division/country	/location/administrative_division/country
+-1
+-5.58228895394
+___
+/m/0cw10	/m/07ssc	/m/0fm2_	/m/07ssc
+/people/person/nationality	_/location/administrative_division/country	/location/administrative_division/country
+-1
+-5.59782657353
+___
+/m/0cw10	/m/07ssc	/m/017cjb	/m/07ssc
+/people/person/nationality	_/location/administrative_division/country	/location/administrative_division/country
+-1
+-5.6008007261
+___
+/m/0cw10	/m/07ssc	/m/06y9v	/m/07ssc
+/people/person/nationality	_/location/administrative_division/country	/location/administrative_division/country
+-1
+-5.60657975404
+___
+/m/0cw10	/m/07ssc	/m/0cm03	/m/014tss
+/people/person/nationality	_/people/person/nationality	/government/politician/government_positions_held./government/government_position_held/jurisdiction_of_office
+1
+-5.60687598912
+___
+/m/0cw10	/m/07ssc	/m/0dhdp	/m/07ssc
+/people/person/nationality	_/base/biblioness/bibs_location/country	/location/administrative_division/country
+-1
+-5.68551966874
+___
+/m/0cw10	/m/07ssc	/m/0125q1	/m/07ssc
+/people/person/nationality	_/location/administrative_division/country	/location/administrative_division/country
+-1
+-6.17139146058
+___
+/m/0cw10	/m/07ssc	/m/0nlc7	/m/036wy
+/people/person/nationality	_/location/administrative_division/country	/base/aareas/schema/administrative_area/administrative_parent
+-1
+-6.18379947869
+___
+/m/0cw10	/m/07ssc	/m/052bw	/m/0kqb0
+/people/person/nationality	_/location/administrative_division/country	/base/aareas/schema/administrative_area/administrative_parent
+-1
+-6.20513221947
+___
+/m/0cw10	/m/07ssc	/m/02m77	/m/06q1r
+/people/person/nationality	_/location/administrative_division/country	/base/biblioness/bibs_location/country
+-1
+-6.81733939378
+___
+/m/0cw10	/m/01spm	/m/0cw10	/m/07ssc
+/people/person/religion	_/people/person/religion	/people/person/nationality
+-1
+-7.07760962055
+___
+/m/0cw10	/m/01spm	/m/081k8	/m/07ssc
+/people/person/religion	_/people/person/religion	/people/person/nationality
+-1
+-7.0776570517
+___
+/m/0cw10	/m/01spm	/m/0bk4s	/m/01spm
+/people/person/religion	_/people/person/religion	/people/person/religion
+-1
+-7.08059494267
+___
+/m/0cw10	/m/07ssc	/m/0l1k8	/m/06q1r
+/people/person/nationality	/location/country/second_level_divisions	/location/administrative_division/first_level_division_of
+-1
+-7.12725443533
+___
+/m/0cw10	/m/07ssc	/m/05nwr	/m/06q1r
+/people/person/nationality	/location/country/second_level_divisions	/location/administrative_division/first_level_division_of
+-1
+-7.12826797692
+___
+/m/0cw10	/m/01spm	/m/03f5vvx	/m/07ssc
+/people/person/religion	_/people/person/religion	/people/person/nationality
+-1
+-7.23098568618
+___
+/m/0cw10	/m/01spm	/m/02c4s	/m/07ssc
+/people/person/religion	_/people/person/religion	/people/person/nationality
+-1
+-7.23116528988
+___
+/m/0cw10	/m/07ssc	/m/0j5g9	/m/07ssc
+/people/person/nationality	_/base/biblioness/bibs_location/country	/base/biblioness/bibs_location/country
+-1
+-7.27712127892
+___
+/m/0cw10	/m/07ssc	/m/02m77	/m/06q1r
+/people/person/nationality	/location/country/second_level_divisions	/location/administrative_division/first_level_division_of
+-1
+-7.28875863878
+___
+/m/0cw10	/m/07ssc	/m/0rng	/m/06q1r
+/people/person/nationality	/location/country/second_level_divisions	/location/administrative_division/first_level_division_of
+-1
+-7.28953075735
+___
+/m/0cw10	/m/07ssc	/m/02m77	/m/07ssc
+/people/person/nationality	_/location/administrative_division/country	/location/administrative_division/country
+-1
+-7.47329566209
+___
+/m/0cw10	/m/07ssc	/m/06q1r	/m/07ssc
+/people/person/nationality	_/base/biblioness/bibs_location/country	/base/biblioness/bibs_location/country
+-1
+-7.51680729119
+___
+/m/0cw10	/m/01spm	/m/034rd	/m/09c7w0
+/people/person/religion	_/people/person/religion	/people/person/nationality
+-1
+-7.85045385361
+___
+/m/0cw10	/m/01spm	/m/034rd	/m/014tss
+/people/person/religion	_/people/person/religion	/people/person/nationality
+1
+-7.85045385361
+___
+/m/0cw10	/m/01spm	/m/0948xk	/m/07ssc
+/people/person/religion	_/people/person/religion	/people/person/nationality
+-1
+-7.85050773621
+___
+/m/0cw10	/m/01spm	/m/0948xk	/m/06q1r
+/people/person/religion	_/people/person/religion	/people/person/nationality
+-1
+-7.85050773621
+___
+/m/0cw10	/m/07ssc	/m/06q1r	/m/07ssc
+/people/person/nationality	_/base/biblioness/bibs_location/country	/location/administrative_division/country
+-1
+-8.13540432183
+___
+/m/0cw10	/m/07ssc	/m/06y9v	/m/0pfd9
+/people/person/nationality	_/location/administrative_division/country	_/base/aareas/schema/administrative_area/administrative_parent
+-1
+-8.23407456605
+___
+/m/0cw10	/m/07ssc	/m/0dhdp	/m/0glh3
+/people/person/nationality	_/base/biblioness/bibs_location/country	/base/biblioness/bibs_location/state
+-1
+-8.39885852067
+___
+/m/0cw10	/m/07ssc	/m/017cjb	/m/0g14f
+/people/person/nationality	_/location/administrative_division/country	/base/biblioness/bibs_location/state
+-1
+-8.50465175835
+___
+#####################
+/m/042f1	/m/09c7w0
+Reward:1
+/m/042f1	/m/07h34	/m/0_vn7	/m/09c7w0
+/government/politician/government_positions_held./government/government_position_held/jurisdiction_of_office	_/base/biblioness/bibs_location/state	/base/biblioness/bibs_location/country
+1
+-2.76909005637
+___
+/m/042f1	/m/07h34	/m/05jbn	/m/09c7w0
+/government/politician/government_positions_held./government/government_position_held/jurisdiction_of_office	_/base/biblioness/bibs_location/state	/base/biblioness/bibs_location/country
+1
+-2.78847198933
+___
+/m/042f1	/m/07h34	/m/0c_m3	/m/09c7w0
+/government/politician/government_positions_held./government/government_position_held/jurisdiction_of_office	_/base/biblioness/bibs_location/state	/base/biblioness/bibs_location/country
+1
+-2.80679466948
+___
+/m/042f1	/m/063k3h	/m/014635	/m/09c7w0
+_/people/ethnicity/people	/people/ethnicity/people	/people/person/nationality
+1
+-4.25674414585
+___
+/m/042f1	/m/063k3h	/m/02qhm3	/m/09c7w0
+_/people/ethnicity/people	/people/ethnicity/people	/people/person/nationality
+1
+-4.25682043446
+___
+/m/042f1	/m/063k3h	/m/06c97	/m/09c7w0
+_/people/ethnicity/people	/people/ethnicity/people	/people/person/nationality
+1
+-4.2568223416
+___
+/m/042f1	/m/063k3h	/m/01fx2g	/m/09c7w0
+_/people/ethnicity/people	/people/ethnicity/people	/people/person/nationality
+1
+-4.25684999474
+___
+/m/042f1	/m/063k3h	/m/02jq1	/m/09c7w0
+_/people/ethnicity/people	/people/ethnicity/people	/people/person/nationality
+1
+-4.25709740858
+___
+/m/042f1	/m/063k3h	/m/015lhm	/m/09c7w0
+_/people/ethnicity/people	/people/ethnicity/people	/people/person/nationality
+1
+-4.25711635538
+___
+/m/042f1	/m/063k3h	/m/02f1c	/m/09c7w0
+_/people/ethnicity/people	/people/ethnicity/people	/people/person/nationality
+1
+-4.25741469039
+___
+/m/042f1	/m/063k3h	/m/0kjgl	/m/09c7w0
+_/people/ethnicity/people	/people/ethnicity/people	/people/person/nationality
+1
+-4.25743482239
+___
+/m/042f1	/m/063k3h	/m/09bg4l	/m/09c7w0
+_/people/ethnicity/people	/people/ethnicity/people	/people/person/nationality
+1
+-4.25747032044
+___
+/m/042f1	/m/063k3h	/m/0dq2k	/m/09c7w0
+_/people/ethnicity/people	/people/ethnicity/people	/people/person/nationality
+1
+-4.25749319111
+___
+/m/042f1	/m/063k3h	/m/03h_fk5	/m/09c7w0
+_/people/ethnicity/people	/people/ethnicity/people	/people/person/nationality
+1
+-4.25758490642
+___
+/m/042f1	/m/063k3h	/m/0bdxs5	/m/09c7w0
+_/people/ethnicity/people	/people/ethnicity/people	/people/person/nationality
+1
+-4.25789524673
+___
+/m/042f1	/m/063k3h	/m/07t2k	/m/09c7w0
+_/people/ethnicity/people	/people/ethnicity/people	/government/politician/government_positions_held./government/government_position_held/jurisdiction_of_office
+1
+-4.25890372344
+___
+/m/042f1	/m/063k3h	/m/034ls	/m/09c7w0
+_/people/ethnicity/people	/people/ethnicity/people	/government/politician/government_positions_held./government/government_position_held/jurisdiction_of_office
+1
+-4.25892668031
+___
+/m/042f1	/m/063k3h	/m/043gj	/m/09c7w0
+_/people/ethnicity/people	/people/ethnicity/people	/people/person/nationality
+1
+-4.25905572763
+___
+/m/042f1	/m/063k3h	/m/0157m	/m/09c7w0
+_/people/ethnicity/people	/people/ethnicity/people	/government/politician/government_positions_held./government/government_position_held/jurisdiction_of_office
+1
+-4.2636508476
+___
+/m/042f1	/m/063k3h	/m/038w8	/m/09c7w0
+_/people/ethnicity/people	/people/ethnicity/people	/people/person/nationality
+1
+-4.43121470511
+___
+/m/042f1	/m/063k3h	/m/0bymv	/m/09c7w0
+_/people/ethnicity/people	/people/ethnicity/people	/people/person/nationality
+1
+-4.43185947835
+___
+/m/042f1	/m/063k3h	/m/042fk	/m/0631_
+_/people/ethnicity/people	/people/ethnicity/people	/people/person/religion
+-1
+-4.44632515311
+___
+/m/042f1	/m/063k3h	/m/083p7	/m/09c7w0
+_/people/ethnicity/people	/people/ethnicity/people	/people/person/nationality
+1
+-4.57942712307
+___
+/m/042f1	/m/063k3h	/m/0rlz	/m/09c7w0
+_/people/ethnicity/people	/people/ethnicity/people	/people/person/nationality
+1
+-4.57944005728
+___
+/m/042f1	/m/063k3h	/m/09b6zr	/m/09c7w0
+_/people/ethnicity/people	/people/ethnicity/people	/people/person/nationality
+1
+-4.57969963551
+___
+/m/042f1	/m/063k3h	/m/031zkw	/m/09c7w0
+_/people/ethnicity/people	/people/ethnicity/people	/people/person/nationality
+1
+-4.94992780685
+___
+/m/042f1	/m/063k3h	/m/031zkw	/m/05v8c
+_/people/ethnicity/people	/people/ethnicity/people	/people/person/nationality
+-1
+-4.94992780685
+___
+/m/042f1	/m/063k3h	/m/0bmh4	/m/02jx1
+_/people/ethnicity/people	/people/ethnicity/people	/people/person/nationality
+-1
+-4.95021384954
+___
+/m/042f1	/m/063k3h	/m/0bmh4	/m/09c7w0
+_/people/ethnicity/people	/people/ethnicity/people	/people/person/nationality
+1
+-4.95021384954
+___
+/m/042f1	/m/063k3h	/m/02lt8	/m/063k3h
+_/people/ethnicity/people	/people/ethnicity/people	_/people/ethnicity/people
+-1
+-5.02077043056
+___
+/m/042f1	/m/063k3h	/m/02lt8	/m/07bch9
+_/people/ethnicity/people	/people/ethnicity/people	_/people/ethnicity/people
+-1
+-5.02077043056
+___
+/m/042f1	/m/063k3h	/m/042f1	/m/051kv
+_/people/ethnicity/people	/people/ethnicity/people	/people/person/religion
+-1
+-5.06816589832
+___
+/m/042f1	/m/063k3h	/m/042f1	/m/0631_
+_/people/ethnicity/people	/people/ethnicity/people	/people/person/religion
+-1
+-5.06816589832
+___
+/m/042f1	/m/07bch9	/m/0k57l	/m/09c7w0
+_/people/ethnicity/people	/people/ethnicity/people	/people/person/nationality
+1
+-5.18724095781
+___
+/m/042f1	/m/07bch9	/m/01r4zfk	/m/09c7w0
+_/people/ethnicity/people	/people/ethnicity/people	/people/person/nationality
+1
+-5.18727874536
+___
+/m/042f1	/m/07bch9	/m/06m6p7	/m/09c7w0
+_/people/ethnicity/people	/people/ethnicity/people	/people/person/nationality
+1
+-5.18728184459
+___
+/m/042f1	/m/07bch9	/m/0q9t7	/m/09c7w0
+_/people/ethnicity/people	/people/ethnicity/people	/people/person/nationality
+1
+-5.18730294295
+___
+/m/042f1	/m/07bch9	/m/02p5hf	/m/09c7w0
+_/people/ethnicity/people	/people/ethnicity/people	/people/person/nationality
+1
+-5.18730616131
+___
+/m/042f1	/m/07bch9	/m/07bty	/m/09c7w0
+_/people/ethnicity/people	/people/ethnicity/people	/people/person/nationality
+1
+-5.18731772346
+___
+/m/042f1	/m/07bch9	/m/02qhm3	/m/09c7w0
+_/people/ethnicity/people	/people/ethnicity/people	/people/person/nationality
+1
+-5.18732046497
+___
+/m/042f1	/m/07bch9	/m/06c97	/m/09c7w0
+_/people/ethnicity/people	/people/ethnicity/people	/people/person/nationality
+1
+-5.18732237212
+___
+/m/042f1	/m/07bch9	/m/0hfml	/m/09c7w0
+_/people/ethnicity/people	/people/ethnicity/people	/people/person/nationality
+1
+-5.18732904708
+___
+/m/042f1	/m/07bch9	/m/0c_jc	/m/09c7w0
+_/people/ethnicity/people	/people/ethnicity/people	/people/person/nationality
+1
+-5.1873381059
+___
+/m/042f1	/m/07bch9	/m/0m0nq	/m/09c7w0
+_/people/ethnicity/people	/people/ethnicity/people	/people/person/nationality
+1
+-5.18734859493
+___
+/m/042f1	/m/07bch9	/m/04qt29	/m/09c7w0
+_/people/ethnicity/people	/people/ethnicity/people	/people/person/nationality
+1
+-5.18735228991
+___
+/m/042f1	/m/07bch9	/m/048hf	/m/09c7w0
+_/people/ethnicity/people	/people/ethnicity/people	/people/person/nationality
+1
+-5.18735538892
+___
+/m/042f1	/m/07bch9	/m/044mjy	/m/09c7w0
+_/people/ethnicity/people	/people/ethnicity/people	/people/person/nationality
+1
+-5.18736361315
+___
+/m/042f1	/m/07bch9	/m/034g2b	/m/09c7w0
+_/people/ethnicity/people	/people/ethnicity/people	/people/person/nationality
+1
+-5.18736408991
+___
+/m/042f1	/m/07bch9	/m/01pgk0	/m/09c7w0
+_/people/ethnicity/people	/people/ethnicity/people	/people/person/nationality
+1
+-5.18736408991
+___
+/m/042f1	/m/07bch9	/m/01pk3z	/m/09c7w0
+_/people/ethnicity/people	/people/ethnicity/people	/people/person/nationality
+1
+-5.18743250333
+___
+/m/042f1	/m/07bch9	/m/0227tr	/m/0d060g
+_/people/ethnicity/people	/people/ethnicity/people	/people/person/nationality
+-1
+-5.1874935232
+___
+/m/042f1	/m/07bch9	/m/01j5ws	/m/09c7w0
+_/people/ethnicity/people	/people/ethnicity/people	/people/person/nationality
+1
+-5.18750198465
+___
+/m/042f1	/m/07bch9	/m/032_jg	/m/09c7w0
+_/people/ethnicity/people	/people/ethnicity/people	/people/person/nationality
+1
+-5.18750794337
+___
+/m/042f1	/m/07bch9	/m/0blt6	/m/09c7w0
+_/people/ethnicity/people	/people/ethnicity/people	/people/person/nationality
+1
+-5.1875172389
+___
+/m/042f1	/m/07bch9	/m/0chsq	/m/09c7w0
+_/people/ethnicity/people	/people/ethnicity/people	/people/person/nationality
+1
+-5.18758337773
+___
+/m/042f1	/m/07bch9	/m/02jq1	/m/09c7w0
+_/people/ethnicity/people	/people/ethnicity/people	/people/person/nationality
+1
+-5.1875974391
+___
+/m/042f1	/m/07bch9	/m/0d_84	/m/09c7w0
+_/people/ethnicity/people	/people/ethnicity/people	/people/person/nationality
+1
+-5.18760351642
+___
+/m/042f1	/m/07bch9	/m/012cj0	/m/09c7w0
+_/people/ethnicity/people	/people/ethnicity/people	/people/person/nationality
+1
+-5.18760971286
+___
+/m/042f1	/m/07bch9	/m/0hnp7	/m/0chghy
+_/people/ethnicity/people	/people/ethnicity/people	/people/person/nationality
+-1
+-5.18762186728
+___
+/m/042f1	/m/07bch9	/m/01yk13	/m/09c7w0
+_/people/ethnicity/people	/people/ethnicity/people	/people/person/nationality
+1
+-5.18762425051
+___
+/m/042f1	/m/07bch9	/m/04nw9	/m/09c7w0
+_/people/ethnicity/people	/people/ethnicity/people	/people/person/nationality
+1
+-5.18771147198
+___
+/m/042f1	/m/07bch9	/m/01w9ph_	/m/09c7w0
+_/people/ethnicity/people	/people/ethnicity/people	/people/person/nationality
+1
+-5.18780738296
+___
+/m/042f1	/m/07bch9	/m/0k9j_	/m/09c7w0
+_/people/ethnicity/people	/people/ethnicity/people	/people/person/nationality
+1
+-5.18786468694
+___
+/m/042f1	/m/07bch9	/m/02x7vq	/m/09c7w0
+_/people/ethnicity/people	/people/ethnicity/people	/people/person/nationality
+1
+-5.18788196082
+___
+/m/042f1	/m/07bch9	/m/044qx	/m/09c7w0
+_/people/ethnicity/people	/people/ethnicity/people	/people/person/nationality
+1
+-5.18789411196
+___
+/m/042f1	/m/07bch9	/m/016fjj	/m/09c7w0
+_/people/ethnicity/people	/people/ethnicity/people	/people/person/nationality
+1
+-5.18793795013
+___
+/m/042f1	/m/07bch9	/m/09bg4l	/m/09c7w0
+_/people/ethnicity/people	/people/ethnicity/people	/people/person/nationality
+1
+-5.18797035096
+___
+/m/042f1	/m/07bch9	/m/01wz3cx	/m/09c7w0
+_/people/ethnicity/people	/people/ethnicity/people	/people/person/nationality
+1
+-5.18803526874
+___
+/m/042f1	/m/07bch9	/m/03h_fk5	/m/09c7w0
+_/people/ethnicity/people	/people/ethnicity/people	/people/person/nationality
+1
+-5.18808493693
+___
+/m/042f1	/m/07bch9	/m/0169dl	/m/09c7w0
+_/people/ethnicity/people	/people/ethnicity/people	/people/person/nationality
+1
+-5.18809375068
+___
+/m/042f1	/m/07bch9	/m/016z2j	/m/09c7w0
+_/people/ethnicity/people	/people/ethnicity/people	/people/person/nationality
+1
+-5.18821106153
+___
+/m/042f1	/m/07bch9	/m/08vr94	/m/09c7w0
+_/people/ethnicity/people	/people/ethnicity/people	/people/person/nationality
+1
+-5.18824059539
+___
+/m/042f1	/m/07bch9	/m/0pz7h	/m/09c7w0
+_/people/ethnicity/people	/people/ethnicity/people	/people/person/nationality
+1
+-5.18838063173
+___
+/m/042f1	/m/07bch9	/m/0g824	/m/09c7w0
+_/people/ethnicity/people	/people/ethnicity/people	/people/person/nationality
+1
+-5.18843444996
+___
+/m/042f1	/m/07bch9	/m/026r8q	/m/09c7w0
+_/people/ethnicity/people	/people/ethnicity/people	/people/person/nationality
+1
+-5.18879907555
+___
+/m/042f1	/m/07bch9	/m/07t2k	/m/09c7w0
+_/people/ethnicity/people	/people/ethnicity/people	/government/politician/government_positions_held./government/government_position_held/jurisdiction_of_office
+1
+-5.18940375396
+___
+/m/042f1	/m/07bch9	/m/046zh	/m/09c7w0
+_/people/ethnicity/people	/people/ethnicity/people	/people/person/nationality
+1
+-5.18941921694
+___
+/m/042f1	/m/07bch9	/m/042d1	/m/07z1m
+_/people/ethnicity/people	/people/ethnicity/people	/government/politician/government_positions_held./government/government_position_held/jurisdiction_of_office
+-1
+-5.18942100112
+___
+/m/042f1	/m/07bch9	/m/043gj	/m/09c7w0
+_/people/ethnicity/people	/people/ethnicity/people	/people/person/nationality
+1
+-5.18955575814
+___
+/m/042f1	/m/07bch9	/m/017m2y	/m/09c7w0
+_/people/ethnicity/people	/people/ethnicity/people	/people/person/nationality
+1
+-5.18957443023
+___
+/m/042f1	/m/07bch9	/m/015pkc	/m/09c7w0
+_/people/ethnicity/people	/people/ethnicity/people	/people/person/nationality
+1
+-5.19053823431
+___
+/m/042f1	/m/07bch9	/m/0c1pj	/m/09c7w0
+_/people/ethnicity/people	/people/ethnicity/people	/people/person/nationality
+1
+-5.19253349677
+___
+/m/042f1	/m/07bch9	/m/0f7fy	/m/09c7w0
+_/people/ethnicity/people	/people/ethnicity/people	/people/person/nationality
+1
+-5.36146371067
+___
+/m/042f1	/m/07bch9	/m/083q7	/m/09c7w0
+_/people/ethnicity/people	/people/ethnicity/people	/people/person/nationality
+1
+-5.3617079258
+___
+/m/042f1	/m/07bch9	/m/038w8	/m/09c7w0
+_/people/ethnicity/people	/people/ethnicity/people	/people/person/nationality
+1
+-5.36171473563
+___
+/m/042f1	/m/07bch9	/m/0d3qd0	/m/09c7w0
+_/people/ethnicity/people	/people/ethnicity/people	/people/person/nationality
+1
+-5.36172445118
+___
+/m/042f1	/m/07bch9	/m/0bymv	/m/09c7w0
+_/people/ethnicity/people	/people/ethnicity/people	/people/person/nationality
+1
+-5.36235950887
+___
+/m/042f1	/m/07bch9	/m/0lh0c	/m/07bch9
+_/people/ethnicity/people	/people/ethnicity/people	_/people/ethnicity/people
+-1
+-5.49292972684
+___
+/m/042f1	/m/063k3h	/m/0gs1_	/m/011ycb
+_/people/ethnicity/people	/people/ethnicity/people	/film/director/film
+-1
+-5.5043926239
+___
+/m/042f1	/m/063k3h	/m/0gs1_	/m/057__d
+_/people/ethnicity/people	/people/ethnicity/people	/film/director/film
+-1
+-5.5043926239
+___
+/m/042f1	/m/063k3h	/m/0gs1_	/m/0qm98
+_/people/ethnicity/people	/people/ethnicity/people	/film/director/film
+-1
+-5.5043926239
+___
+/m/042f1	/m/07bch9	/m/083p7	/m/09c7w0
+_/people/ethnicity/people	/people/ethnicity/people	/people/person/nationality
+1
+-5.50992715359
+___
+/m/042f1	/m/07bch9	/m/0rlz	/m/09c7w0
+_/people/ethnicity/people	/people/ethnicity/people	/people/person/nationality
+1
+-5.5099400878
+___
+/m/042f1	/m/07bch9	/m/07cbs	/m/09c7w0
+_/people/ethnicity/people	/people/ethnicity/people	/people/person/nationality
+1
+-5.51014146209
+___
+/m/042f1	/m/07bch9	/m/083pr	/m/09c7w0
+_/people/ethnicity/people	/people/ethnicity/people	/people/person/nationality
+1
+-5.75345635414
+___
+/m/042f1	/m/07bch9	/m/04mhbh	/m/09c7w0
+_/people/ethnicity/people	/people/ethnicity/people	/people/person/nationality
+1
+-5.88039386272
+___
+/m/042f1	/m/07bch9	/m/04mhbh	/m/07ssc
+_/people/ethnicity/people	/people/ethnicity/people	/people/person/nationality
+-1
+-5.88039386272
+___
+/m/042f1	/m/07bch9	/m/07hyk	/m/09c7w0
+_/people/ethnicity/people	/people/ethnicity/people	/government/politician/government_positions_held./government/government_position_held/jurisdiction_of_office
+1
+-5.88071471453
+___
+/m/042f1	/m/07bch9	/m/07hyk	/m/059rby
+_/people/ethnicity/people	/people/ethnicity/people	/government/politician/government_positions_held./government/government_position_held/jurisdiction_of_office
+-1
+-5.88071471453
+___
+/m/042f1	/m/07bch9	/m/01kb2j	/m/07ssc
+_/people/ethnicity/people	/people/ethnicity/people	/people/person/nationality
+-1
+-5.88102984428
+___
+#####################
+/m/0d1_f	/m/0d060g
+Reward:0
+/m/0d1_f	/m/0160w	/m/05hcy	/m/01wbz9
+/government/politician/government_positions_held./government/government_position_held/jurisdiction_of_office	_/base/biblioness/bibs_location/country	_/people/person/places_lived./people/place_lived/location
+-1
+-3.69612010568
+___
+/m/0d1_f	/m/0162v	/m/06mt91	/m/07ss8_
+/government/politician/government_positions_held./government/government_position_held/jurisdiction_of_office	_/people/person/nationality	/base/popstra/celebrity/breakup./base/popstra/breakup/participant
+-1
+-4.24333313107
+___
+/m/0d1_f	/m/0162v	/m/06mt91	/m/07ss8_
+/government/politician/government_positions_held./government/government_position_held/jurisdiction_of_office	_/people/person/nationality	_/base/popstra/celebrity/breakup./base/popstra/breakup/participant
+-1
+-4.44991520047
+___
+/m/0d1_f	/m/03_r3	/m/01x1cn2	/m/09c7w0
+/government/politician/government_positions_held./government/government_position_held/jurisdiction_of_office	_/people/person/nationality	/people/person/nationality
+-1
+-4.57888617195
+___
+/m/0d1_f	/m/0l3h	/m/0ct_yc	/m/01kckd
+/government/politician/government_positions_held./government/government_position_held/jurisdiction_of_office	_/people/person/nationality	/soccer/football_player/current_team./sports/sports_team_roster/team
+-1
+-5.06828278303
+___
+/m/0d1_f	/m/0l3h	/m/0ct_yc	/m/0j2jr
+/government/politician/government_positions_held./government/government_position_held/jurisdiction_of_office	_/people/person/nationality	/soccer/football_player/current_team./sports/sports_team_roster/team
+-1
+-5.06828278303
+___
+/m/0d1_f	/m/0l3h	/m/0ct_yc	/m/0ljbg
+/government/politician/government_positions_held./government/government_position_held/jurisdiction_of_office	_/people/person/nationality	/soccer/football_player/current_team./sports/sports_team_roster/team
+-1
+-5.06828278303
+___
+/m/0d1_f	/m/0l3h	/m/0ct_yc	/m/02279c
+/government/politician/government_positions_held./government/government_position_held/jurisdiction_of_office	_/people/person/nationality	/soccer/football_player/current_team./sports/sports_team_roster/team
+-1
+-5.06828278303
+___
+/m/0d1_f	/m/0l3h	/m/0ct_yc	/m/04gkp3
+/government/politician/government_positions_held./government/government_position_held/jurisdiction_of_office	_/people/person/nationality	/soccer/football_player/current_team./sports/sports_team_roster/team
+-1
+-5.06828278303
+___
+/m/0d1_f	/m/0l3h	/m/0ct_yc	/m/01xmxj
+/government/politician/government_positions_held./government/government_position_held/jurisdiction_of_office	_/people/person/nationality	/soccer/football_player/current_team./sports/sports_team_roster/team
+-1
+-5.06828278303
+___
+/m/0d1_f	/m/0l3h	/m/0ct_yc	/m/0284h6
+/government/politician/government_positions_held./government/government_position_held/jurisdiction_of_office	_/people/person/nationality	/soccer/football_player/current_team./sports/sports_team_roster/team
+-1
+-5.06828278303
+___
+/m/0d1_f	/m/03_r3	/m/051y1hd	/m/0gq_v
+/government/politician/government_positions_held./government/government_position_held/jurisdiction_of_office	_/people/person/nationality	/award/award_nominee/award_nominations./award/award_nomination/award
+-1
+-5.09637594223
+___
+/m/0d1_f	/m/020p1	/m/0ctw_b	/m/02h1rt
+/government/politician/government_positions_held./government/government_position_held/jurisdiction_of_office	/location/administrative_division/country	_/people/person/nationality
+-1
+-5.1640599668
+___
+/m/0d1_f	/m/020p1	/m/0ctw_b	/m/09thp87
+/government/politician/government_positions_held./government/government_position_held/jurisdiction_of_office	/location/administrative_division/country	_/people/person/nationality
+-1
+-5.1640599668
+___
+/m/0d1_f	/m/020p1	/m/0ctw_b	/m/09l9tq
+/government/politician/government_positions_held./government/government_position_held/jurisdiction_of_office	/location/administrative_division/country	_/people/person/nationality
+-1
+-5.1640599668
+___
+/m/0d1_f	/m/020p1	/m/0ctw_b	/m/08n__5
+/government/politician/government_positions_held./government/government_position_held/jurisdiction_of_office	/location/administrative_division/country	_/people/person/nationality
+-1
+-5.1640599668
+___
+/m/0d1_f	/m/020p1	/m/0ctw_b	/m/09ntbc
+/government/politician/government_positions_held./government/government_position_held/jurisdiction_of_office	/location/administrative_division/country	_/people/person/nationality
+-1
+-5.1640599668
+___
+/m/0d1_f	/m/020p1	/m/0ctw_b	/m/0bg539
+/government/politician/government_positions_held./government/government_position_held/jurisdiction_of_office	/location/administrative_division/country	_/people/person/nationality
+-1
+-5.1640599668
+___
+/m/0d1_f	/m/020p1	/m/0ctw_b	/m/05s_c38
+/government/politician/government_positions_held./government/government_position_held/jurisdiction_of_office	/location/administrative_division/country	_/people/person/nationality
+-1
+-5.1640599668
+___
+/m/0d1_f	/m/020p1	/m/0ctw_b	/m/07zr66
+/government/politician/government_positions_held./government/government_position_held/jurisdiction_of_office	/location/administrative_division/country	_/people/person/nationality
+-1
+-5.1640599668
+___
+/m/0d1_f	/m/020p1	/m/0ctw_b	/m/06dv3
+/government/politician/government_positions_held./government/government_position_held/jurisdiction_of_office	/location/administrative_division/country	_/people/person/nationality
+-1
+-5.1640599668
+___
+/m/0d1_f	/m/020p1	/m/0ctw_b	/m/01r9md
+/government/politician/government_positions_held./government/government_position_held/jurisdiction_of_office	/location/administrative_division/country	_/people/person/nationality
+-1
+-5.1640599668
+___
+/m/0d1_f	/m/020p1	/m/0ctw_b	/m/0js9s
+/government/politician/government_positions_held./government/government_position_held/jurisdiction_of_office	/location/administrative_division/country	_/people/person/nationality
+-1
+-5.1640599668
+___
+/m/0d1_f	/m/0ctw_b	/m/0gs0g	/m/02m7r
+/government/politician/government_positions_held./government/government_position_held/jurisdiction_of_office	_/base/aareas/schema/administrative_area/administrative_parent	_/people/person/places_lived./people/place_lived/location
+-1
+-5.35317370296
+___
+/m/0d1_f	/m/03_r3	/m/051y1hd	/m/01lsl
+/government/politician/government_positions_held./government/government_position_held/jurisdiction_of_office	_/people/person/nationality	/award/award_nominee/award_nominations./award/award_nomination/nominated_for
+-1
+-5.68203699589
+___
+/m/0d1_f	/m/03_r3	/m/01mskc3	/m/03r00m
+/government/politician/government_positions_held./government/government_position_held/jurisdiction_of_office	_/people/person/nationality	_/award/award_category/winners./award/award_honor/award_winner
+-1
+-5.69536983967
+___
+/m/0d1_f	/m/06q1r	/m/05nwr	/m/07ssc
+/government/politician/government_positions_held./government/government_position_held/jurisdiction_of_office	_/location/administrative_division/first_level_division_of	_/location/location/contains
+-1
+-5.73227021348
+___
+/m/0d1_f	/m/06q1r	/m/01213c	/m/07ssc
+/government/politician/government_positions_held./government/government_position_held/jurisdiction_of_office	_/location/administrative_division/first_level_division_of	/location/administrative_division/country
+-1
+-5.76044045016
+___
+/m/0d1_f	/m/06q1r	/m/011pcj	/m/07ssc
+/government/politician/government_positions_held./government/government_position_held/jurisdiction_of_office	_/location/administrative_division/first_level_division_of	/location/administrative_division/country
+-1
+-5.76048031077
+___
+/m/0d1_f	/m/06q1r	/m/02fvv	/m/07ssc
+/government/politician/government_positions_held./government/government_position_held/jurisdiction_of_office	_/location/administrative_division/first_level_division_of	/location/administrative_division/country
+-1
+-5.76053824089
+___
+/m/0d1_f	/m/06q1r	/m/02m77	/m/07ssc
+/government/politician/government_positions_held./government/government_position_held/jurisdiction_of_office	_/location/administrative_division/first_level_division_of	/location/administrative_division/country
+-1
+-5.76308009587
+___
+/m/0d1_f	/m/0chghy	/m/01x53m	/m/0hzlz
+/government/politician/government_positions_held./government/government_position_held/jurisdiction_of_office	_/people/person/nationality	/people/person/nationality
+-1
+-5.83352217011
+___
+/m/0d1_f	/m/0l3h	/m/0ct_yc	/m/05zppz
+/government/politician/government_positions_held./government/government_position_held/jurisdiction_of_office	_/people/person/nationality	/people/person/gender
+-1
+-5.88139313459
+___
+/m/0d1_f	/m/03_r3	/m/0bkf4	/m/03qbh5
+/government/politician/government_positions_held./government/government_position_held/jurisdiction_of_office	_/people/person/nationality	/award/award_nominee/award_nominations./award/award_nomination/award
+-1
+-5.94737946987
+___
+/m/0d1_f	/m/03_r3	/m/0bkf4	/m/02sp_v
+/government/politician/government_positions_held./government/government_position_held/jurisdiction_of_office	_/people/person/nationality	/award/award_nominee/award_nominations./award/award_nomination/award
+-1
+-5.94737946987
+___
+/m/0d1_f	/m/03_r3	/m/0bkf4	/m/03x3wf
+/government/politician/government_positions_held./government/government_position_held/jurisdiction_of_office	_/people/person/nationality	/award/award_nominee/award_nominations./award/award_nomination/award
+-1
+-5.94737946987
+___
+/m/0d1_f	/m/03_r3	/m/09b8m	/m/04chyn
+/government/politician/government_positions_held./government/government_position_held/jurisdiction_of_office	_/base/biblioness/bibs_location/country	_/organization/organization/headquarters./location/mailing_address/citytown
+-1
+-6.02478348464
+___
+/m/0d1_f	/m/0160w	/m/05hcy	/m/05hcy
+/government/politician/government_positions_held./government/government_position_held/jurisdiction_of_office	_/base/biblioness/bibs_location/country	NO_OP
+-1
+-6.05923008919
+___
+/m/0d1_f	/m/06ryl	/m/085h1	/m/03902
+/government/politician/government_positions_held./government/government_position_held/jurisdiction_of_office	_/user/ktrueman/default_domain/international_organization/member_states	/organization/organization/headquarters./location/mailing_address/citytown
+-1
+-6.10013318062
+___
+/m/0d1_f	/m/0chghy	/m/08jbxf	/m/0j6x8
+/government/politician/government_positions_held./government/government_position_held/jurisdiction_of_office	_/people/person/nationality	_/people/ethnicity/people
+-1
+-6.12120461464
+___
+/m/0d1_f	/m/06q1r	/m/0rng	/m/07ssc
+/government/politician/government_positions_held./government/government_position_held/jurisdiction_of_office	_/location/administrative_division/first_level_division_of	/base/biblioness/bibs_location/country
+-1
+-6.12987139821
+___
+/m/0d1_f	/m/06q1r	/m/0hyxv	/m/07ssc
+/government/politician/government_positions_held./government/government_position_held/jurisdiction_of_office	_/location/administrative_division/first_level_division_of	/base/biblioness/bibs_location/country
+-1
+-6.13131710887
+___
+/m/0d1_f	/m/03_r3	/m/013rds	/m/0l14md
+/government/politician/government_positions_held./government/government_position_held/jurisdiction_of_office	_/people/person/nationality	_/music/instrument/instrumentalists
+-1
+-6.14135801792
+___
+/m/0d1_f	/m/03_r3	/m/013rds	/m/0342h
+/government/politician/government_positions_held./government/government_position_held/jurisdiction_of_office	_/people/person/nationality	_/music/instrument/instrumentalists
+-1
+-6.14135801792
+___
+/m/0d1_f	/m/03_r3	/m/013rds	/m/05r5c
+/government/politician/government_positions_held./government/government_position_held/jurisdiction_of_office	_/people/person/nationality	_/music/instrument/instrumentalists
+-1
+-6.14135801792
+___
+/m/0d1_f	/m/0chghy	/m/0hnp7	/m/0kpl
+/government/politician/government_positions_held./government/government_position_held/jurisdiction_of_office	_/people/person/nationality	/people/person/religion
+-1
+-6.15485328436
+___
+/m/0d1_f	/m/0chghy	/m/06mtq	/m/0mgp
+/government/politician/government_positions_held./government/government_position_held/jurisdiction_of_office	_/base/aareas/schema/administrative_area/administrative_parent	/base/aareas/schema/administrative_area/capital
+-1
+-6.17703276873
+___
+/m/0d1_f	/m/03_r3	/m/01mskc3	/m/01c9d1
+/government/politician/government_positions_held./government/government_position_held/jurisdiction_of_office	_/people/person/nationality	/award/award_nominee/award_nominations./award/award_nomination/award
+-1
+-6.17852056026
+___
+/m/0d1_f	/m/03_r3	/m/01mskc3	/m/01by1l
+/government/politician/government_positions_held./government/government_position_held/jurisdiction_of_office	_/people/person/nationality	/award/award_nominee/award_nominations./award/award_nomination/award
+-1
+-6.17852056026
+___
+/m/0d1_f	/m/06q1r	/m/0l1k8	/m/018sg9
+/government/politician/government_positions_held./government/government_position_held/jurisdiction_of_office	_/location/administrative_division/first_level_division_of	_/organization/organization/headquarters./location/mailing_address/state_province_region
+-1
+-6.23874264956
+___
+/m/0d1_f	/m/0ctw_b	/m/01r9md	/m/02zsn
+/government/politician/government_positions_held./government/government_position_held/jurisdiction_of_office	_/people/person/nationality	/people/person/gender
+-1
+-6.30599546432
+___
+/m/0d1_f	/m/0ctw_b	/m/012ts	/m/05nrg
+/government/politician/government_positions_held./government/government_position_held/jurisdiction_of_office	_/location/administrative_division/country	_/location/location/contains
+-1
+-6.35260450793
+___
+/m/0d1_f	/m/020p1	/m/0ctw_b	/m/0gs0g
+/government/politician/government_positions_held./government/government_position_held/jurisdiction_of_office	/location/administrative_division/country	_/base/aareas/schema/administrative_area/administrative_parent
+-1
+-6.36943373084
+___
+/m/0d1_f	/m/06ryl	/m/0261m	/m/02613
+/government/politician/government_positions_held./government/government_position_held/jurisdiction_of_office	_/location/location/contains	_/location/location/contains
+-1
+-6.38560348749
+___
+/m/0d1_f	/m/03_r3	/m/013rds	/m/01c9d1
+/government/politician/government_positions_held./government/government_position_held/jurisdiction_of_office	_/people/person/nationality	_/award/award_category/winners./award/award_honor/award_winner
+-1
+-6.42371094227
+___
+/m/0d1_f	/m/03_r3	/m/013rds	/m/024fxq
+/government/politician/government_positions_held./government/government_position_held/jurisdiction_of_office	_/people/person/nationality	_/award/award_category/winners./award/award_honor/award_winner
+-1
+-6.42371094227
+___
+/m/0d1_f	/m/0ctw_b	/m/01r9md	/m/012s1d
+/government/politician/government_positions_held./government/government_position_held/jurisdiction_of_office	_/people/person/nationality	/film/actor/film./film/performance/film
+-1
+-6.5287706852
+___
+/m/0d1_f	/m/0ctw_b	/m/01r9md	/m/02wgk1
+/government/politician/government_positions_held./government/government_position_held/jurisdiction_of_office	_/people/person/nationality	/film/actor/film./film/performance/film
+-1
+-6.5287706852
+___
+/m/0d1_f	/m/0chghy	/m/02404v	/m/0bz3jx
+/government/politician/government_positions_held./government/government_position_held/jurisdiction_of_office	_/people/person/nationality	/film/director/film
+-1
+-6.54402107
+___
+/m/0d1_f	/m/0chghy	/m/02zl4d	/m/0fqpg6b
+/government/politician/government_positions_held./government/government_position_held/jurisdiction_of_office	_/people/person/nationality	/award/award_nominee/award_nominations./award/award_nomination/award
+-1
+-6.60784691572
+___
+/m/0d1_f	/m/03_r3	/m/0457w0	/m/02qhlm
+/government/politician/government_positions_held./government/government_position_held/jurisdiction_of_office	_/people/person/nationality	/soccer/football_player/current_team./sports/sports_team_roster/team
+-1
+-6.61395800114
+___
+/m/0d1_f	/m/03_r3	/m/0457w0	/m/01z1r
+/government/politician/government_positions_held./government/government_position_held/jurisdiction_of_office	_/people/person/nationality	/soccer/football_player/current_team./sports/sports_team_roster/team
+-1
+-6.61395800114
+___
+/m/0d1_f	/m/03_r3	/m/0457w0	/m/0223bl
+/government/politician/government_positions_held./government/government_position_held/jurisdiction_of_office	_/people/person/nationality	/soccer/football_player/current_team./sports/sports_team_roster/team
+-1
+-6.61395800114
+___
+/m/0d1_f	/m/03_r3	/m/0457w0	/m/03zbg0
+/government/politician/government_positions_held./government/government_position_held/jurisdiction_of_office	_/people/person/nationality	/soccer/football_player/current_team./sports/sports_team_roster/team
+-1
+-6.61395800114
+___
+/m/0d1_f	/m/03_r3	/m/0457w0	/m/027ffq
+/government/politician/government_positions_held./government/government_position_held/jurisdiction_of_office	_/people/person/nationality	/soccer/football_player/current_team./sports/sports_team_roster/team
+-1
+-6.61395800114
+___
+/m/0d1_f	/m/03_r3	/m/0457w0	/m/0k_l4
+/government/politician/government_positions_held./government/government_position_held/jurisdiction_of_office	_/people/person/nationality	/soccer/football_player/current_team./sports/sports_team_roster/team
+-1
+-6.61395800114
+___
+/m/0d1_f	/m/03_r3	/m/0457w0	/m/01zhs3
+/government/politician/government_positions_held./government/government_position_held/jurisdiction_of_office	_/people/person/nationality	/soccer/football_player/current_team./sports/sports_team_roster/team
+-1
+-6.61395800114
+___
+/m/0d1_f	/m/05qkp	/m/085h1	/m/03902
+/government/politician/government_positions_held./government/government_position_held/jurisdiction_of_office	_/user/ktrueman/default_domain/international_organization/member_states	/organization/organization/headquarters./location/mailing_address/citytown
+-1
+-6.69625544548
+___
+/m/0d1_f	/m/0ctw_b	/m/08n__5	/m/02rkkn1
+/government/politician/government_positions_held./government/government_position_held/jurisdiction_of_office	_/people/person/nationality	/tv/tv_producer/programs_produced./tv/tv_producer_term/program
+-1
+-6.70838356018
+___
+/m/0d1_f	/m/06s0l	/m/085h1	/m/03902
+/government/politician/government_positions_held./government/government_position_held/jurisdiction_of_office	_/user/ktrueman/default_domain/international_organization/member_states	/organization/organization/headquarters./location/mailing_address/citytown
+-1
+-6.72112321854
+___
+/m/0d1_f	/m/06s6l	/m/0157g9	/m/01l3lx
+/government/politician/government_positions_held./government/government_position_held/jurisdiction_of_office	_/location/location/contains	_/location/location/contains
+-1
+-6.72844260931
+___
+/m/0d1_f	/m/06s6l	/m/0157g9	/m/0261m
+/government/politician/government_positions_held./government/government_position_held/jurisdiction_of_office	_/location/location/contains	_/location/location/contains
+-1
+-6.72844260931
+___
+/m/0d1_f	/m/0164b	/m/085h1	/m/03902
+/government/politician/government_positions_held./government/government_position_held/jurisdiction_of_office	_/user/ktrueman/default_domain/international_organization/member_states	/organization/organization/headquarters./location/mailing_address/citytown
+-1
+-6.74669003487
+___
+/m/0d1_f	/m/0162v	/m/06mt91	/m/03t5n3
+/government/politician/government_positions_held./government/government_position_held/jurisdiction_of_office	_/people/person/nationality	_/award/award_category/winners./award/award_honor/award_winner
+-1
+-6.86732545495
+___
+/m/0d1_f	/m/0162v	/m/06mt91	/m/05b4l5x
+/government/politician/government_positions_held./government/government_position_held/jurisdiction_of_office	_/people/person/nationality	_/award/award_category/winners./award/award_honor/award_winner
+-1
+-6.86732545495
+___
+/m/0d1_f	/m/0162v	/m/06mt91	/m/03t5kl
+/government/politician/government_positions_held./government/government_position_held/jurisdiction_of_office	_/people/person/nationality	_/award/award_category/winners./award/award_honor/award_winner
+-1
+-6.86732545495
+___
+/m/0d1_f	/m/0162v	/m/06mt91	/m/02f5qb
+/government/politician/government_positions_held./government/government_position_held/jurisdiction_of_office	_/people/person/nationality	_/award/award_category/winners./award/award_honor/award_winner
+-1
+-6.86732545495
+___
+/m/0d1_f	/m/0162v	/m/06mt91	/m/02v1m7
+/government/politician/government_positions_held./government/government_position_held/jurisdiction_of_office	_/people/person/nationality	_/award/award_category/winners./award/award_honor/award_winner
+-1
+-6.86732545495
+___
+/m/0d1_f	/m/0162v	/m/06mt91	/m/02g3gj
+/government/politician/government_positions_held./government/government_position_held/jurisdiction_of_office	_/people/person/nationality	_/award/award_category/winners./award/award_honor/award_winner
+-1
+-6.86732545495
+___
+/m/0d1_f	/m/06q1r	/m/0rng	/m/07ssc
+/government/politician/government_positions_held./government/government_position_held/jurisdiction_of_office	_/location/administrative_division/first_level_division_of	/location/administrative_division/country
+-1
+-6.87639713287
+___
+/m/0d1_f	/m/06q1r	/m/0hyxv	/m/07ssc
+/government/politician/government_positions_held./government/government_position_held/jurisdiction_of_office	_/location/administrative_division/first_level_division_of	/location/administrative_division/country
+-1
+-6.87784290314
+___
+/m/0d1_f	/m/0ctw_b	/m/09thp87	/m/017gl1
+/government/politician/government_positions_held./government/government_position_held/jurisdiction_of_office	_/people/person/nationality	_/award/award_winning_work/awards_won./award/award_honor/award_winner
+-1
+-6.95489919186
+___
+/m/0d1_f	/m/0ctw_b	/m/09thp87	/m/05p09dd
+/government/politician/government_positions_held./government/government_position_held/jurisdiction_of_office	_/people/person/nationality	_/award/award_winning_work/awards_won./award/award_honor/award_winner
+-1
+-6.95489919186
+___
+/m/0d1_f	/m/0ctw_b	/m/09thp87	/m/08gg47
+/government/politician/government_positions_held./government/government_position_held/jurisdiction_of_office	_/people/person/nationality	_/award/award_winning_work/awards_won./award/award_honor/award_winner
+-1
+-6.95489919186
+___
+/m/0d1_f	/m/0ctw_b	/m/09thp87	/m/0_b9f
+/government/politician/government_positions_held./government/government_position_held/jurisdiction_of_office	_/people/person/nationality	_/award/award_winning_work/awards_won./award/award_honor/award_winner
+-1
+-6.95489919186
+___
+/m/0d1_f	/m/0chghy	/m/03crmd	/m/01hmb_
+/government/politician/government_positions_held./government/government_position_held/jurisdiction_of_office	_/people/person/nationality	/people/person/spouse_s./people/marriage/spouse
+-1
+-6.98104715347
+___
+/m/0d1_f	/m/0chghy	/m/0294fd	/m/017jd9
+/government/politician/government_positions_held./government/government_position_held/jurisdiction_of_office	_/people/person/nationality	_/award/award_winning_work/awards_won./award/award_honor/award_winner
+-1
+-7.0048507452
+___
+/m/0d1_f	/m/03_r3	/m/0bkf4	/m/0342h
+/government/politician/government_positions_held./government/government_position_held/jurisdiction_of_office	_/people/person/nationality	/music/artist/track_contributions./music/track_contribution/role
+-1
+-7.10378563404
+___
+/m/0d1_f	/m/06q1r	/m/01c8v0	/m/07ssc
+/government/politician/government_positions_held./government/government_position_held/jurisdiction_of_office	_/people/person/nationality	/people/person/nationality
+-1
+-7.10667296732
+___
+/m/0d1_f	/m/06q1r	/m/01wsl7c	/m/07ssc
+/government/politician/government_positions_held./government/government_position_held/jurisdiction_of_office	_/people/person/nationality	/people/person/nationality
+-1
+-7.10672216315
+___
+/m/0d1_f	/m/06q1r	/m/01zkxv	/m/07ssc
+/government/politician/government_positions_held./government/government_position_held/jurisdiction_of_office	_/people/person/nationality	/people/person/nationality
+-1
+-7.10676313797
+___
+/m/0d1_f	/m/0ctw_b	/m/09ntbc	/m/02b17t
+/government/politician/government_positions_held./government/government_position_held/jurisdiction_of_office	_/people/person/nationality	/soccer/football_player/current_team./sports/sports_team_roster/team
+-1
+-7.10909962654
+___
+/m/0d1_f	/m/0ctw_b	/m/09ntbc	/m/01x4wq
+/government/politician/government_positions_held./government/government_position_held/jurisdiction_of_office	_/people/person/nationality	/soccer/football_player/current_team./sports/sports_team_roster/team
+-1
+-7.10909962654
+___
+/m/0d1_f	/m/0ctw_b	/m/09ntbc	/m/02b1gz
+/government/politician/government_positions_held./government/government_position_held/jurisdiction_of_office	_/people/person/nationality	/soccer/football_player/current_team./sports/sports_team_roster/team
+-1
+-7.10909962654
+___
+/m/0d1_f	/m/0ctw_b	/m/09ntbc	/m/02q3n9c
+/government/politician/government_positions_held./government/government_position_held/jurisdiction_of_office	_/people/person/nationality	/soccer/football_player/current_team./sports/sports_team_roster/team
+-1
+-7.10909962654
+___
+/m/0d1_f	/m/0ctw_b	/m/09ntbc	/m/03_44z
+/government/politician/government_positions_held./government/government_position_held/jurisdiction_of_office	_/people/person/nationality	/soccer/football_player/current_team./sports/sports_team_roster/team
+-1
+-7.10909962654
+___
+/m/0d1_f	/m/0ctw_b	/m/09ntbc	/m/034_t5
+/government/politician/government_positions_held./government/government_position_held/jurisdiction_of_office	_/people/person/nationality	/soccer/football_player/current_team./sports/sports_team_roster/team
+-1
+-7.10909962654
+___
+/m/0d1_f	/m/020p1	/m/0ctw_b	/m/012ts
+/government/politician/government_positions_held./government/government_position_held/jurisdiction_of_office	/location/administrative_division/country	_/location/administrative_division/country
+-1
+-7.15234789252
+___
+/m/0d1_f	/m/0ctw_b	/m/08n__5	/m/02rkkn1
+/government/politician/government_positions_held./government/government_position_held/jurisdiction_of_office	_/people/person/nationality	_/tv/tv_program/program_creator
+-1
+-7.17852926254
+___
+/m/0d1_f	/m/0chghy	/m/02zl4d	/m/011yxg
+/government/politician/government_positions_held./government/government_position_held/jurisdiction_of_office	_/people/person/nationality	/award/award_nominee/award_nominations./award/award_nomination/nominated_for
+-1
+-7.19350790977
+___
+#####################
+/m/0157m	/m/0vbk
+Reward:0
+/m/0157m	/m/063k3h	/m/031zkw	/m/05v8c
+_/people/ethnicity/people	/people/ethnicity/people	/people/person/nationality
+-1
+-4.25813823009
+___
+/m/0157m	/m/063k3h	/m/0bmh4	/m/02jx1
+_/people/ethnicity/people	/people/ethnicity/people	/people/person/nationality
+-1
+-4.25871019304
+___
+/m/0157m	/m/063k3h	/m/083p7	/m/05kkh
+_/people/ethnicity/people	/people/ethnicity/people	/government/politician/government_positions_held./government/government_position_held/jurisdiction_of_office
+-1
+-4.26020920859
+___
+/m/0157m	/m/063k3h	/m/038w8	/m/059rby
+_/people/ethnicity/people	/people/ethnicity/people	/government/politician/government_positions_held./government/government_position_held/jurisdiction_of_office
+-1
+-4.26024774648
+___
+/m/0157m	/m/063k3h	/m/0rlz	/m/02xry
+_/people/ethnicity/people	/people/ethnicity/people	/government/politician/government_positions_held./government/government_position_held/jurisdiction_of_office
+-1
+-4.26030388544
+___
+/m/0157m	/m/063k3h	/m/042f1	/m/07h34
+_/people/ethnicity/people	/people/ethnicity/people	/government/politician/government_positions_held./government/government_position_held/jurisdiction_of_office
+-1
+-4.26200891286
+___
+/m/0157m	/m/063k3h	/m/09b6zr	/m/07b_l
+_/people/ethnicity/people	/people/ethnicity/people	/government/politician/government_positions_held./government/government_position_held/jurisdiction_of_office
+-1
+-4.26218212862
+___
+/m/0157m	/m/063k3h	/m/014635	/m/063k3h
+_/people/ethnicity/people	/people/ethnicity/people	_/people/ethnicity/people
+-1
+-4.37177047133
+___
+/m/0157m	/m/063k3h	/m/015lhm	/m/01lp8
+_/people/ethnicity/people	/people/ethnicity/people	/people/person/religion
+-1
+-4.43270224333
+___
+/m/0157m	/m/063k3h	/m/042fk	/m/0631_
+_/people/ethnicity/people	/people/ethnicity/people	/people/person/religion
+-1
+-4.4467921555
+___
+/m/0157m	/m/063k3h	/m/07t2k	/m/051kv
+_/people/ethnicity/people	/people/ethnicity/people	/people/person/religion
+-1
+-4.46422605217
+___
+/m/0157m	/m/063k3h	/m/034ls	/m/02rsw
+_/people/ethnicity/people	/people/ethnicity/people	/people/person/religion
+-1
+-4.47466677427
+___
+/m/0157m	/m/063k3h	/m/043gj	/m/04v8h1
+_/people/ethnicity/people	/people/ethnicity/people	/film/director/film
+-1
+-4.7257142961
+___
+/m/0157m	/m/063k3h	/m/02lt8	/m/07bch9
+_/people/ethnicity/people	/people/ethnicity/people	_/people/ethnicity/people
+-1
+-5.02205985785
+___
+/m/0157m	/m/063k3h	/m/02lt8	/m/063k3h
+_/people/ethnicity/people	/people/ethnicity/people	_/people/ethnicity/people
+-1
+-5.02205985785
+___
+/m/0157m	/m/063k3h	/m/09bg4l	/m/019cr
+_/people/ethnicity/people	/people/ethnicity/people	/people/person/religion
+-1
+-5.0617941618
+___
+/m/0157m	/m/063k3h	/m/09bg4l	/m/0v53x
+_/people/ethnicity/people	/people/ethnicity/people	/people/person/religion
+-1
+-5.0617941618
+___
+/m/0157m	/m/063k3h	/m/0dq2k	/m/01t7j
+_/people/ethnicity/people	/people/ethnicity/people	/people/person/religion
+-1
+-5.09194391966
+___
+/m/0157m	/m/063k3h	/m/0dq2k	/m/07x21
+_/people/ethnicity/people	/people/ethnicity/people	/people/person/religion
+-1
+-5.09194391966
+___
+/m/0157m	/m/07hwkr	/m/073bb	/m/0345h
+_/people/ethnicity/people	/people/ethnicity/people	/people/person/nationality
+-1
+-5.33261769827
+___
+/m/0157m	/m/07hwkr	/m/01q32bd	/m/0d060g
+_/people/ethnicity/people	/people/ethnicity/people	/people/person/nationality
+-1
+-5.33294568863
+___
+/m/0157m	/m/07hwkr	/m/05gml8	/m/0d060g
+_/people/ethnicity/people	/people/ethnicity/people	/people/person/nationality
+-1
+-5.33348273119
+___
+/m/0157m	/m/063k3h	/m/02jq1	/m/018vs
+_/people/ethnicity/people	/people/ethnicity/people	_/music/instrument/instrumentalists
+-1
+-5.39900356531
+___
+/m/0157m	/m/063k3h	/m/02jq1	/m/0342h
+_/people/ethnicity/people	/people/ethnicity/people	_/music/instrument/instrumentalists
+-1
+-5.39900356531
+___
+/m/0157m	/m/07hwkr	/m/018zvb	/m/0kpl
+_/people/ethnicity/people	/people/ethnicity/people	/people/person/religion
+-1
+-5.42492843419
+___
+/m/0157m	/m/07hwkr	/m/0mb0	/m/0c8wxp
+_/people/ethnicity/people	/people/ethnicity/people	/people/person/religion
+-1
+-5.44994561374
+___
+/m/0157m	/m/07hwkr	/m/0py5b	/m/058kh7
+_/people/ethnicity/people	/people/ethnicity/people	/film/director/film
+-1
+-5.46787691116
+___
+/m/0157m	/m/07hwkr	/m/074tb5	/m/04bdxl
+_/people/ethnicity/people	/people/ethnicity/people	/base/popstra/celebrity/breakup./base/popstra/breakup/participant
+-1
+-5.48622438312
+___
+/m/0157m	/m/07hwkr	/m/04l19_	/m/0kpl
+_/people/ethnicity/people	/people/ethnicity/people	/people/person/religion
+-1
+-5.50194974244
+___
+/m/0157m	/m/063k3h	/m/0gs1_	/m/0qm98
+_/people/ethnicity/people	/people/ethnicity/people	/film/director/film
+-1
+-5.50568205118
+___
+/m/0157m	/m/063k3h	/m/0gs1_	/m/011ycb
+_/people/ethnicity/people	/people/ethnicity/people	/film/director/film
+-1
+-5.50568205118
+___
+/m/0157m	/m/063k3h	/m/0gs1_	/m/057__d
+_/people/ethnicity/people	/people/ethnicity/people	/film/director/film
+-1
+-5.50568205118
+___
+/m/0157m	/m/063k3h	/m/0bdxs5	/m/0v53x
+_/people/ethnicity/people	/people/ethnicity/people	/people/person/religion
+-1
+-5.5075430274
+___
+/m/0157m	/m/063k3h	/m/0bdxs5	/m/01lp8
+_/people/ethnicity/people	/people/ethnicity/people	/people/person/religion
+-1
+-5.5075430274
+___
+/m/0157m	/m/07hwkr	/m/01xyt7	/m/0c8wxp
+_/people/ethnicity/people	/people/ethnicity/people	/people/person/religion
+-1
+-5.51546519995
+___
+/m/0157m	/m/063k3h	/m/0bymv	/m/05sfs
+_/people/ethnicity/people	/people/ethnicity/people	/people/person/religion
+-1
+-5.51801377535
+___
+/m/0157m	/m/063k3h	/m/0bymv	/m/0v53x
+_/people/ethnicity/people	/people/ethnicity/people	/people/person/religion
+-1
+-5.51801377535
+___
+/m/0157m	/m/063k3h	/m/0bymv	/m/019cr
+_/people/ethnicity/people	/people/ethnicity/people	/people/person/religion
+-1
+-5.51801377535
+___
+/m/0157m	/m/07hwkr	/m/01jfr3y	/m/0c8wxp
+_/people/ethnicity/people	/people/ethnicity/people	/people/person/religion
+-1
+-5.52529250085
+___
+/m/0157m	/m/07hwkr	/m/01vdrw	/m/0kpl
+_/people/ethnicity/people	/people/ethnicity/people	/people/person/religion
+-1
+-5.52715045214
+___
+/m/0157m	/m/07hwkr	/m/01vh08	/m/07hwkr
+_/people/ethnicity/people	/people/ethnicity/people	_/people/ethnicity/people
+-1
+-5.53567999601
+___
+/m/0157m	/m/07hwkr	/m/06jcc	/m/07w8f
+_/people/ethnicity/people	/people/ethnicity/people	/people/person/religion
+-1
+-5.55297522247
+___
+/m/0157m	/m/063k3h	/m/02qhm3	/m/063k3h
+_/people/ethnicity/people	/people/ethnicity/people	_/people/ethnicity/people
+-1
+-5.60306209326
+___
+/m/0157m	/m/063k3h	/m/02qhm3	/m/07bch9
+_/people/ethnicity/people	/people/ethnicity/people	_/people/ethnicity/people
+-1
+-5.60306209326
+___
+/m/0157m	/m/063k3h	/m/02qhm3	/m/033tf_
+_/people/ethnicity/people	/people/ethnicity/people	_/people/ethnicity/people
+-1
+-5.60306209326
+___
+/m/0157m	/m/07hwkr	/m/03g5_y	/m/07hwkr
+_/people/ethnicity/people	/people/ethnicity/people	_/people/ethnicity/people
+-1
+-5.60746392608
+___
+/m/0157m	/m/063k3h	/m/06c97	/m/07bch9
+_/people/ethnicity/people	/people/ethnicity/people	_/people/ethnicity/people
+-1
+-5.61755853891
+___
+/m/0157m	/m/063k3h	/m/06c97	/m/063k3h
+_/people/ethnicity/people	/people/ethnicity/people	_/people/ethnicity/people
+-1
+-5.61755853891
+___
+/m/0157m	/m/063k3h	/m/06c97	/m/02ctzb
+_/people/ethnicity/people	/people/ethnicity/people	_/people/ethnicity/people
+-1
+-5.61755853891
+___
+/m/0157m	/m/063k3h	/m/0157m	/m/05sfs
+_/people/ethnicity/people	/people/ethnicity/people	/people/person/religion
+-1
+-5.6197168231
+___
+/m/0157m	/m/063k3h	/m/0157m	/m/0v53x
+_/people/ethnicity/people	/people/ethnicity/people	/people/person/religion
+-1
+-5.6197168231
+___
+/m/0157m	/m/063k3h	/m/0157m	/m/019cr
+_/people/ethnicity/people	/people/ethnicity/people	/people/person/religion
+-1
+-5.6197168231
+___
+/m/0157m	/m/07hwkr	/m/01nr63	/m/07hwkr
+_/people/ethnicity/people	/people/ethnicity/people	_/people/ethnicity/people
+-1
+-5.64134839177
+___
+/m/0157m	/m/07hwkr	/m/0lkr7	/m/01k5zk
+_/people/ethnicity/people	/people/ethnicity/people	/base/popstra/celebrity/breakup./base/popstra/breakup/participant
+-1
+-5.77077829838
+___
+/m/0157m	/m/07hwkr	/m/01zlh5	/m/05sy0cv
+_/people/ethnicity/people	/people/ethnicity/people	/tv/tv_producer/programs_produced./tv/tv_producer_term/program
+-1
+-5.79972034693
+___
+/m/0157m	/m/07hwkr	/m/08pth9	/m/06nzl
+_/people/ethnicity/people	/people/ethnicity/people	/people/person/religion
+-1
+-5.80099520087
+___
+/m/0157m	/m/09c7w0	/m/03v1s	/m/0sngf
+/government/politician/government_positions_held./government/government_position_held/jurisdiction_of_office	_/location/administrative_division/first_level_division_of	_/base/biblioness/bibs_location/state
+-1
+-5.81006240845
+___
+/m/0157m	/m/09c7w0	/m/03v1s	/m/0snty
+/government/politician/government_positions_held./government/government_position_held/jurisdiction_of_office	_/location/administrative_division/first_level_division_of	_/base/biblioness/bibs_location/state
+-1
+-5.81006240845
+___
+/m/0157m	/m/09c7w0	/m/03v1s	/m/0sl2w
+/government/politician/government_positions_held./government/government_position_held/jurisdiction_of_office	_/location/administrative_division/first_level_division_of	_/base/biblioness/bibs_location/state
+-1
+-5.81006240845
+___
+/m/0157m	/m/09c7w0	/m/03v1s	/m/0sqc8
+/government/politician/government_positions_held./government/government_position_held/jurisdiction_of_office	_/location/administrative_division/first_level_division_of	_/base/biblioness/bibs_location/state
+-1
+-5.81006240845
+___
+/m/0157m	/m/063k3h	/m/01fx2g	/m/063k3h
+_/people/ethnicity/people	/people/ethnicity/people	_/people/ethnicity/people
+-1
+-5.84409934282
+___
+/m/0157m	/m/07hwkr	/m/0dl567	/m/04cr6qv
+_/people/ethnicity/people	/people/ethnicity/people	_/base/popstra/celebrity/breakup./base/popstra/breakup/participant
+-1
+-5.89703255892
+___
+/m/0157m	/m/07hwkr	/m/04gr35	/m/03q0r1
+_/people/ethnicity/people	/people/ethnicity/people	_/award/award_winning_work/awards_won./award/award_honor/award_winner
+-1
+-5.9075564146
+___
+/m/0157m	/m/07hwkr	/m/02m3sd	/m/07hwkr
+_/people/ethnicity/people	/people/ethnicity/people	_/people/ethnicity/people
+-1
+-5.91566735506
+___
+/m/0157m	/m/07hwkr	/m/0hwqz	/m/03_gx
+_/people/ethnicity/people	/people/ethnicity/people	/people/person/religion
+-1
+-5.95756363869
+___
+/m/0157m	/m/07hwkr	/m/01ksr1	/m/0c8wxp
+_/people/ethnicity/people	/people/ethnicity/people	/people/person/religion
+-1
+-5.95768523216
+___
+/m/0157m	/m/07hwkr	/m/0k9j_	/m/0c8wxp
+_/people/ethnicity/people	/people/ethnicity/people	/people/person/religion
+-1
+-5.9864897728
+___
+/m/0157m	/m/063k3h	/m/02f1c	/m/01hww_
+_/people/ethnicity/people	/people/ethnicity/people	_/music/instrument/instrumentalists
+-1
+-6.0008123517
+___
+/m/0157m	/m/063k3h	/m/02f1c	/m/0342h
+_/people/ethnicity/people	/people/ethnicity/people	_/music/instrument/instrumentalists
+-1
+-6.0008123517
+___
+/m/0157m	/m/07hwkr	/m/023kzp	/m/04pk9
+_/people/ethnicity/people	/people/ethnicity/people	/people/person/religion
+-1
+-6.01915419102
+___
+/m/0157m	/m/07hwkr	/m/0b25vg	/m/058x5
+_/people/ethnicity/people	/people/ethnicity/people	/people/person/religion
+-1
+-6.02128523588
+___
+/m/0157m	/m/07hwkr	/m/0261x8t	/m/0c8wxp
+_/people/ethnicity/people	/people/ethnicity/people	/people/person/religion
+-1
+-6.04567438364
+___
+/m/0157m	/m/063k3h	/m/06c97	/m/07wbk
+_/people/ethnicity/people	/people/ethnicity/people	_/government/political_party/politicians_in_this_party./government/political_party_tenure/politician
+-1
+-6.11123758554
+___
+/m/0157m	/m/07hwkr	/m/08gf93	/m/07hwkr
+_/people/ethnicity/people	/people/ethnicity/people	_/people/ethnicity/people
+-1
+-6.12792390585
+___
+/m/0157m	/m/07hwkr	/m/0jf1b	/m/0hv1t
+_/people/ethnicity/people	/people/ethnicity/people	/film/director/film
+-1
+-6.17827486992
+___
+/m/0157m	/m/07hwkr	/m/0jf1b	/m/01jc6q
+_/people/ethnicity/people	/people/ethnicity/people	/film/director/film
+-1
+-6.17827486992
+___
+/m/0157m	/m/063k3h	/m/043gj	/m/0631_
+_/people/ethnicity/people	/people/ethnicity/people	/people/person/religion
+-1
+-6.19170814753
+___
+/m/0157m	/m/063k3h	/m/043gj	/m/0c8wxp
+_/people/ethnicity/people	/people/ethnicity/people	/people/person/religion
+-1
+-6.19170814753
+___
+/m/0157m	/m/063k3h	/m/03h_fk5	/m/05r5c
+_/people/ethnicity/people	/people/ethnicity/people	_/music/instrument/instrumentalists
+-1
+-6.21792000532
+___
+/m/0157m	/m/063k3h	/m/03h_fk5	/m/0342h
+_/people/ethnicity/people	/people/ethnicity/people	_/music/instrument/instrumentalists
+-1
+-6.21792000532
+___
+/m/0157m	/m/063k3h	/m/03h_fk5	/m/04rzd
+_/people/ethnicity/people	/people/ethnicity/people	_/music/instrument/instrumentalists
+-1
+-6.21792000532
+___
+/m/0157m	/m/063k3h	/m/03h_fk5	/m/03qjg
+_/people/ethnicity/people	/people/ethnicity/people	_/music/instrument/instrumentalists
+-1
+-6.21792000532
+___
+/m/0157m	/m/07hwkr	/m/01tj34	/m/02h2vv
+_/people/ethnicity/people	/people/ethnicity/people	/tv/tv_producer/programs_produced./tv/tv_producer_term/program
+-1
+-6.22403895855
+___
+/m/0157m	/m/07hwkr	/m/018_lb	/m/0sxlb
+_/people/ethnicity/people	/people/ethnicity/people	_/award/award_winning_work/awards_won./award/award_honor/award_winner
+-1
+-6.22601747513
+___
+/m/0157m	/m/07hwkr	/m/0hsn_	/m/04pk9
+_/people/ethnicity/people	/people/ethnicity/people	/people/person/religion
+-1
+-6.22675210238
+___
+/m/0157m	/m/07hwkr	/m/042v2	/m/083shs
+_/people/ethnicity/people	/people/ethnicity/people	_/award/award_winning_work/awards_won./award/award_honor/award_winner
+-1
+-6.22715771198
+___
+/m/0157m	/m/07hwkr	/m/08gf93	/m/07bdd_
+_/people/ethnicity/people	/people/ethnicity/people	_/award/award_category/winners./award/award_honor/award_winner
+-1
+-6.28965657949
+___
+/m/0157m	/m/063k3h	/m/01vsgrn	/m/017d93
+_/people/ethnicity/people	/people/ethnicity/people	_/award/award_winning_work/awards_won./award/award_honor/award_winner
+-1
+-6.30768090487
+___
+/m/0157m	/m/07hwkr	/m/0gs5q	/m/09p4w8
+_/people/ethnicity/people	/people/ethnicity/people	_/film/film/produced_by
+-1
+-6.30961763859
+___
+/m/0157m	/m/063k3h	/m/01fx2g	/m/05lfwd
+_/people/ethnicity/people	/people/ethnicity/people	/award/award_nominee/award_nominations./award/award_nomination/nominated_for
+-1
+-6.32374435663
+___
+/m/0157m	/m/07hwkr	/m/01hcj2	/m/030cx
+_/people/ethnicity/people	/people/ethnicity/people	_/award/award_winning_work/awards_won./award/award_honor/award_winner
+-1
+-6.36821264029
+___
+/m/0157m	/m/07hwkr	/m/02jr26	/m/0f4vx
+_/people/ethnicity/people	/people/ethnicity/people	_/award/award_winning_work/awards_won./award/award_honor/award_winner
+-1
+-6.37219673395
+___
+/m/0157m	/m/063k3h	/m/02qhm3	/m/0bkmf
+_/people/ethnicity/people	/people/ethnicity/people	_/base/popstra/celebrity/dated./base/popstra/dated/participant
+-1
+-6.37702184916
+___
+/m/0157m	/m/07hwkr	/m/01vwllw	/m/0c8wxp
+_/people/ethnicity/people	/people/ethnicity/people	/people/person/religion
+-1
+-6.3917312026
+___
+/m/0157m	/m/07hwkr	/m/02m3sd	/m/04cf_l
+_/people/ethnicity/people	/people/ethnicity/people	/award/award_nominee/award_nominations./award/award_nomination/nominated_for
+-1
+-6.39531236887
+___
+/m/0157m	/m/063k3h	/m/01fx2g	/m/03jqw5
+_/people/ethnicity/people	/people/ethnicity/people	_/celebrities/celebrity/sexual_relationships./celebrities/romantic_relationship/celebrity
+-1
+-6.39768630266
+___
+/m/0157m	/m/07hwkr	/m/094xh	/m/05tgm
+_/people/ethnicity/people	/people/ethnicity/people	/people/person/religion
+-1
+-6.46773248911
+___
+/m/0157m	/m/07hwkr	/m/058s57	/m/05r5c
+_/people/ethnicity/people	/people/ethnicity/people	_/music/instrument/instrumentalists
+-1
+-6.47456723452
+___
+/m/0157m	/m/07hwkr	/m/058s57	/m/0342h
+_/people/ethnicity/people	/people/ethnicity/people	_/music/instrument/instrumentalists
+-1
+-6.47456723452
+___
+/m/0157m	/m/07hwkr	/m/044k8	/m/021_0p
+_/people/ethnicity/people	/people/ethnicity/people	/people/person/religion
+-1
+-6.48724883795
+___
+#####################
+/m/0cmpn	/m/014tss
+Reward:0
+/m/0cmpn	/m/052m7n	/m/05hks	/m/06bnz
+_/award/award_category/winners./award/award_honor/award_winner	/award/award_category/winners./award/award_honor/award_winner	/people/person/nationality
+-1
+-3.49769809016
+___
+/m/0cmpn	/m/052m7n	/m/0dj5q	/m/0f8l9c
+_/award/award_category/winners./award/award_honor/award_winner	/award/award_category/winners./award/award_honor/award_winner	/people/person/nationality
+-1
+-3.85607251525
+___
+/m/0cmpn	/m/052m7n	/m/0cmpn	/m/07ssc
+_/award/award_category/winners./award/award_honor/award_winner	/award/award_category/winners./award/award_honor/award_winner	/people/person/nationality
+-1
+-4.19042563438
+___
+/m/0cmpn	/m/052m7n	/m/0cmpn	/m/03rk0
+_/award/award_category/winners./award/award_honor/award_winner	/award/award_category/winners./award/award_honor/award_winner	/people/person/nationality
+-1
+-4.19042563438
+___
+/m/0cmpn	/m/07ssc	/m/082xp	/m/07ssc
+/people/person/nationality	_/people/person/nationality	/people/person/nationality
+-1
+-4.49027726971
+___
+/m/0cmpn	/m/07ssc	/m/016nvh	/m/07ssc
+/people/person/nationality	_/people/person/nationality	/people/person/nationality
+-1
+-4.49030145921
+___
+/m/0cmpn	/m/07ssc	/m/0g_92	/m/07ssc
+/people/person/nationality	_/people/person/nationality	/people/person/nationality
+-1
+-4.49033875516
+___
+/m/0cmpn	/m/07ssc	/m/0f0qfz	/m/07ssc
+/people/person/nationality	_/people/person/nationality	/people/person/nationality
+-1
+-4.49035138544
+___
+/m/0cmpn	/m/07ssc	/m/017vkx	/m/07ssc
+/people/person/nationality	_/people/person/nationality	/people/person/nationality
+-1
+-4.49043514632
+___
+/m/0cmpn	/m/07ssc	/m/02c0mv	/m/07ssc
+/people/person/nationality	_/people/person/nationality	/people/person/nationality
+-1
+-4.49049781339
+___
+/m/0cmpn	/m/07ssc	/m/01xsbh	/m/07ssc
+/people/person/nationality	_/people/person/nationality	/people/person/nationality
+-1
+-4.49058704171
+___
+/m/0cmpn	/m/07ssc	/m/04vmqg	/m/07ssc
+/people/person/nationality	_/people/person/nationality	/people/person/nationality
+-1
+-4.49060121749
+___
+/m/0cmpn	/m/07ssc	/m/02z2xdf	/m/07ssc
+/people/person/nationality	_/people/person/nationality	/people/person/nationality
+-1
+-4.49084646156
+___
+/m/0cmpn	/m/07ssc	/m/01wd02c	/m/07ssc
+/people/person/nationality	_/people/person/nationality	/people/person/nationality
+-1
+-4.49158706935
+___
+/m/0cmpn	/m/07ssc	/m/04r7jc	/m/07ssc
+/people/person/nationality	_/people/person/nationality	/people/person/nationality
+-1
+-4.49160242104
+___
+/m/0cmpn	/m/07ssc	/m/0l8v5	/m/07ssc
+/people/person/nationality	_/people/person/nationality	/people/person/nationality
+-1
+-4.49161515431
+___
+/m/0cmpn	/m/07ssc	/m/01bpn	/m/07ssc
+/people/person/nationality	_/people/person/nationality	/people/person/nationality
+-1
+-4.49170130817
+___
+/m/0cmpn	/m/07ssc	/m/03y1mlp	/m/07ssc
+/people/person/nationality	_/people/person/nationality	/people/person/nationality
+-1
+-4.49182945432
+___
+/m/0cmpn	/m/07ssc	/m/041c4	/m/07ssc
+/people/person/nationality	_/people/person/nationality	/people/person/nationality
+-1
+-4.49249669118
+___
+/m/0cmpn	/m/07ssc	/m/0cm03	/m/07ssc
+/people/person/nationality	_/people/person/nationality	/people/person/nationality
+-1
+-4.65199573338
+___
+/m/0cmpn	/m/052m7n	/m/0dj5q	/m/0f8l9c
+_/award/award_category/winners./award/award_honor/award_winner	/award/award_category/winners./award/award_honor/award_winner	/government/politician/government_positions_held./government/government_position_held/jurisdiction_of_office
+-1
+-4.69768917561
+___
+/m/0cmpn	/m/03rk0	/m/0627zr	/m/03rk0
+/people/person/nationality	_/people/person/nationality	/people/person/nationality
+-1
+-5.13809758425
+___
+/m/0cmpn	/m/03rk0	/m/03d63lb	/m/03rk0
+/people/person/nationality	_/people/person/nationality	/people/person/nationality
+-1
+-5.13810545202
+___
+/m/0cmpn	/m/03rk0	/m/0cm19f	/m/03rk0
+/people/person/nationality	_/people/person/nationality	/people/person/nationality
+-1
+-5.13810843222
+___
+/m/0cmpn	/m/03rk0	/m/090gk3	/m/03rk0
+/people/person/nationality	_/people/person/nationality	/people/person/nationality
+-1
+-5.13810878985
+___
+/m/0cmpn	/m/03rk0	/m/02ql_ms	/m/03rk0
+/people/person/nationality	_/people/person/nationality	/people/person/nationality
+-1
+-5.13810986272
+___
+/m/0cmpn	/m/03rk0	/m/05gc0h	/m/03rk0
+/people/person/nationality	_/people/person/nationality	/people/person/nationality
+-1
+-5.13811022034
+___
+/m/0cmpn	/m/03rk0	/m/087_wh	/m/03rk0
+/people/person/nationality	_/people/person/nationality	/people/person/nationality
+-1
+-5.13811057796
+___
+/m/0cmpn	/m/03rk0	/m/07jmgz	/m/03rk0
+/people/person/nationality	_/people/person/nationality	/people/person/nationality
+-1
+-5.13811069717
+___
+/m/0cmpn	/m/03rk0	/m/05qtcv	/m/03rk0
+/people/person/nationality	_/people/person/nationality	/people/person/nationality
+-1
+-5.13811868405
+___
+/m/0cmpn	/m/03rk0	/m/03t8v3	/m/03rk0
+/people/person/nationality	_/people/person/nationality	/people/person/nationality
+-1
+-5.13811928008
+___
+/m/0cmpn	/m/03rk0	/m/025tdwc	/m/03rk0
+/people/person/nationality	_/people/person/nationality	/people/person/nationality
+-1
+-5.13813251192
+___
+/m/0cmpn	/m/03rk0	/m/0561xh	/m/03rk0
+/people/person/nationality	_/people/person/nationality	/people/person/nationality
+-1
+-5.13814324031
+___
+/m/0cmpn	/m/03rk0	/m/026sv5l	/m/03rk0
+/people/person/nationality	_/people/person/nationality	/people/person/nationality
+-1
+-5.13816839198
+___
+/m/0cmpn	/m/03rk0	/m/03hzkq	/m/03rk0
+/people/person/nationality	_/people/person/nationality	/people/person/nationality
+-1
+-5.13818078878
+___
+/m/0cmpn	/m/03rk0	/m/06kl0k	/m/03rk0
+/people/person/nationality	_/people/person/nationality	/people/person/nationality
+-1
+-5.13819103986
+___
+/m/0cmpn	/m/03rk0	/m/0285xqh	/m/03rk0
+/people/person/nationality	_/people/person/nationality	/people/person/nationality
+-1
+-5.13819509259
+___
+/m/0cmpn	/m/03rk0	/m/04y0yc	/m/03rk0
+/people/person/nationality	_/people/person/nationality	/people/person/nationality
+-1
+-5.13820880021
+___
+/m/0cmpn	/m/03rk0	/m/087z12	/m/03rk0
+/people/person/nationality	_/people/person/nationality	/people/person/nationality
+-1
+-5.13826863476
+___
+/m/0cmpn	/m/03rk0	/m/081hvm	/m/03rk0
+/people/person/nationality	_/people/person/nationality	/people/person/nationality
+-1
+-5.13830951568
+___
+/m/0cmpn	/m/03rk0	/m/01n8_g	/m/03rk0
+/people/person/nationality	_/people/person/nationality	/people/person/nationality
+-1
+-5.13831964626
+___
+/m/0cmpn	/m/03rk0	/m/0k0q8q	/m/03rk0
+/people/person/nationality	_/people/person/nationality	/people/person/nationality
+-1
+-5.13833621251
+___
+/m/0cmpn	/m/03rk0	/m/03c_pqj	/m/03rk0
+/people/person/nationality	_/people/person/nationality	/people/person/nationality
+-1
+-5.13833788104
+___
+/m/0cmpn	/m/03rk0	/m/02qnk5c	/m/03rk0
+/people/person/nationality	_/people/person/nationality	/people/person/nationality
+-1
+-5.13834753461
+___
+/m/0cmpn	/m/03rk0	/m/028bs1p	/m/03rk0
+/people/person/nationality	_/people/person/nationality	/people/person/nationality
+-1
+-5.13834824969
+___
+/m/0cmpn	/m/03rk0	/m/0288crq	/m/03rk0
+/people/person/nationality	_/people/person/nationality	/people/person/nationality
+-1
+-5.13834884559
+___
+/m/0cmpn	/m/03rk0	/m/04cdxc	/m/03rk0
+/people/person/nationality	_/people/person/nationality	/people/person/nationality
+-1
+-5.13834932231
+___
+/m/0cmpn	/m/03rk0	/m/046rfv	/m/03rk0
+/people/person/nationality	_/people/person/nationality	/people/person/nationality
+-1
+-5.13835242097
+___
+/m/0cmpn	/m/03rk0	/m/03z_g7	/m/03rk0
+/people/person/nationality	_/people/person/nationality	/people/person/nationality
+-1
+-5.13835766481
+___
+/m/0cmpn	/m/03rk0	/m/07rn0z	/m/03rk0
+/people/person/nationality	_/people/person/nationality	/people/person/nationality
+-1
+-5.13835766481
+___
+/m/0cmpn	/m/03rk0	/m/0fg_hg	/m/03rk0
+/people/person/nationality	_/people/person/nationality	/people/person/nationality
+-1
+-5.13835826071
+___
+/m/0cmpn	/m/03rk0	/m/02qy3py	/m/03rk0
+/people/person/nationality	_/people/person/nationality	/people/person/nationality
+-1
+-5.1384370343
+___
+/m/0cmpn	/m/03rk0	/m/01rwcgb	/m/03rk0
+/people/person/nationality	_/people/person/nationality	/people/person/nationality
+-1
+-5.13845991445
+___
+/m/0cmpn	/m/03rk0	/m/067jsf	/m/03rk0
+/people/person/nationality	_/people/person/nationality	/people/person/nationality
+-1
+-5.13849649773
+___
+/m/0cmpn	/m/03rk0	/m/0dhqyw	/m/03rk0
+/people/person/nationality	_/people/person/nationality	/people/person/nationality
+-1
+-5.13849649773
+___
+/m/0cmpn	/m/03rk0	/m/03fwln	/m/03rk0
+/people/person/nationality	_/people/person/nationality	/people/person/nationality
+-1
+-5.13850889046
+___
+/m/0cmpn	/m/03rk0	/m/025p38	/m/03rk0
+/people/person/nationality	_/people/person/nationality	/people/person/nationality
+-1
+-5.13852342789
+___
+/m/0cmpn	/m/03rk0	/m/0265z9l	/m/03rk0
+/people/person/nationality	_/people/person/nationality	/people/person/nationality
+-1
+-5.13854654436
+___
+/m/0cmpn	/m/03rk0	/m/05wdgq	/m/03rk0
+/people/person/nationality	_/people/person/nationality	/people/person/nationality
+-1
+-5.13872514269
+___
+/m/0cmpn	/m/03rk0	/m/0cb1ky	/m/03rk0
+/people/person/nationality	_/people/person/nationality	/people/person/nationality
+-1
+-5.13924419554
+___
+/m/0cmpn	/m/03rk0	/m/07f0tw	/m/03rk0
+/people/person/nationality	_/people/person/nationality	/people/person/nationality
+-1
+-5.13941528823
+___
+/m/0cmpn	/m/03rk0	/m/0gp8sg	/m/03rk0
+/people/person/nationality	_/people/person/nationality	/people/person/nationality
+-1
+-5.1394648127
+___
+/m/0cmpn	/m/03rk0	/m/0cc63l	/m/03rk0
+/people/person/nationality	_/people/person/nationality	/people/person/nationality
+-1
+-5.13952564343
+___
+/m/0cmpn	/m/03rk0	/m/03d6wsd	/m/03rk0
+/people/person/nationality	_/people/person/nationality	/people/person/nationality
+-1
+-5.13953528565
+___
+/m/0cmpn	/m/03rk0	/m/03hfxx	/m/03rk0
+/people/person/nationality	_/people/person/nationality	/people/person/nationality
+-1
+-5.13958444702
+___
+/m/0cmpn	/m/03rk0	/m/02vmzp	/m/03rk0
+/people/person/nationality	_/people/person/nationality	/people/person/nationality
+-1
+-5.13960480131
+___
+/m/0cmpn	/m/03rk0	/m/043cl9	/m/03rk0
+/people/person/nationality	_/people/person/nationality	/people/person/nationality
+-1
+-5.13962920208
+___
+/m/0cmpn	/m/03rk0	/m/05nw9m	/m/03rk0
+/people/person/nationality	_/people/person/nationality	/people/person/nationality
+-1
+-5.13965431647
+___
+/m/0cmpn	/m/03rk0	/m/05xd8x	/m/03rk0
+/people/person/nationality	_/people/person/nationality	/people/person/nationality
+-1
+-5.13966598071
+___
+/m/0cmpn	/m/03rk0	/m/061zc_	/m/03rk0
+/people/person/nationality	_/people/person/nationality	/people/person/nationality
+-1
+-5.13977249991
+___
+/m/0cmpn	/m/03rk0	/m/021j72	/m/03rk0
+/people/person/nationality	_/people/person/nationality	/people/person/nationality
+-1
+-5.13977380923
+___
+/m/0cmpn	/m/03rk0	/m/02wyc0	/m/03rk0
+/people/person/nationality	_/people/person/nationality	/people/person/nationality
+-1
+-5.13991054171
+___
+/m/0cmpn	/m/03rk0	/m/05q9g1	/m/03rk0
+/people/person/nationality	_/people/person/nationality	/people/person/nationality
+-1
+-5.13991934713
+___
+/m/0cmpn	/m/03rk0	/m/03m3nzf	/m/03rk0
+/people/person/nationality	_/people/person/nationality	/people/person/nationality
+-1
+-5.13999514235
+___
+/m/0cmpn	/m/03rk0	/m/04fkg4	/m/03rk0
+/people/person/nationality	_/people/person/nationality	/people/person/nationality
+-1
+-5.14039900876
+___
+/m/0cmpn	/m/03rk0	/m/01x2tm8	/m/03rk0
+/people/person/nationality	_/people/person/nationality	/people/person/nationality
+-1
+-5.1405048552
+___
+/m/0cmpn	/m/03rk0	/m/049m19	/m/03rk0
+/people/person/nationality	_/people/person/nationality	/people/person/nationality
+-1
+-5.14094168134
+___
+/m/0cmpn	/m/03rk0	/m/02n1gr	/m/03rk0
+/people/person/nationality	_/people/person/nationality	/people/person/nationality
+-1
+-5.14188685012
+___
+/m/0cmpn	/m/03rk0	/m/0kvsb	/m/03rk0
+/people/person/nationality	_/people/person/nationality	/people/person/nationality
+-1
+-5.14855576213
+___
+/m/0cmpn	/m/07ssc	/m/058nh2	/m/07ssc
+/people/person/nationality	_/people/person/nationality	/people/person/nationality
+-1
+-5.18307584524
+___
+/m/0cmpn	/m/07ssc	/m/058nh2	/m/02jx1
+/people/person/nationality	_/people/person/nationality	/people/person/nationality
+-1
+-5.18307584524
+___
+/m/0cmpn	/m/07ssc	/m/03dq9	/m/02jx1
+/people/person/nationality	_/people/person/nationality	/people/person/nationality
+-1
+-5.18310791254
+___
+/m/0cmpn	/m/07ssc	/m/03dq9	/m/07ssc
+/people/person/nationality	_/people/person/nationality	/people/person/nationality
+-1
+-5.18310791254
+___
+/m/0cmpn	/m/07ssc	/m/080dyk	/m/05bcl
+/people/person/nationality	_/people/person/nationality	/people/person/nationality
+-1
+-5.18313878775
+___
+/m/0cmpn	/m/07ssc	/m/080dyk	/m/07ssc
+/people/person/nationality	_/people/person/nationality	/people/person/nationality
+-1
+-5.18313878775
+___
+/m/0cmpn	/m/07ssc	/m/01l_vgt	/m/0f8l9c
+/people/person/nationality	_/people/person/nationality	/people/person/nationality
+-1
+-5.18315607309
+___
+/m/0cmpn	/m/07ssc	/m/01l_vgt	/m/07ssc
+/people/person/nationality	_/people/person/nationality	/people/person/nationality
+-1
+-5.18315607309
+___
+/m/0cmpn	/m/07ssc	/m/02lq10	/m/07ssc
+/people/person/nationality	_/people/person/nationality	/people/person/nationality
+-1
+-5.18320518732
+___
+/m/0cmpn	/m/07ssc	/m/02lq10	/m/09c7w0
+/people/person/nationality	_/people/person/nationality	/people/person/nationality
+-1
+-5.18320518732
+___
+/m/0cmpn	/m/07ssc	/m/030tj5	/m/02jx1
+/people/person/nationality	_/people/person/nationality	/people/person/nationality
+-1
+-5.18327593803
+___
+/m/0cmpn	/m/07ssc	/m/030tj5	/m/07ssc
+/people/person/nationality	_/people/person/nationality	/people/person/nationality
+-1
+-5.18327593803
+___
+/m/0cmpn	/m/07ssc	/m/0f0kz	/m/02jx1
+/people/person/nationality	_/people/person/nationality	/people/person/nationality
+-1
+-5.18344587088
+___
+/m/0cmpn	/m/07ssc	/m/0f0kz	/m/07ssc
+/people/person/nationality	_/people/person/nationality	/people/person/nationality
+-1
+-5.18344587088
+___
+/m/0cmpn	/m/07ssc	/m/01wsl7c	/m/07ssc
+/people/person/nationality	_/people/person/nationality	/people/person/nationality
+-1
+-5.18362867832
+___
+/m/0cmpn	/m/07ssc	/m/01wsl7c	/m/06q1r
+/people/person/nationality	_/people/person/nationality	/people/person/nationality
+-1
+-5.18362867832
+___
+/m/0cmpn	/m/07ssc	/m/0lfbm	/m/07ssc
+/people/person/nationality	_/people/person/nationality	/people/person/nationality
+-1
+-5.18370610476
+___
+/m/0cmpn	/m/07ssc	/m/0lfbm	/m/09c7w0
+/people/person/nationality	_/people/person/nationality	/people/person/nationality
+-1
+-5.18370610476
+___
+/m/0cmpn	/m/07ssc	/m/01pcrw	/m/07ssc
+/people/person/nationality	_/people/person/nationality	/people/person/nationality
+-1
+-5.18377172947
+___
+/m/0cmpn	/m/07ssc	/m/01pcrw	/m/02jx1
+/people/person/nationality	_/people/person/nationality	/people/person/nationality
+-1
+-5.18377172947
+___
+/m/0cmpn	/m/07ssc	/m/01v_pj6	/m/02jx1
+/people/person/nationality	_/people/person/nationality	/people/person/nationality
+-1
+-5.18418681622
+___
+#####################

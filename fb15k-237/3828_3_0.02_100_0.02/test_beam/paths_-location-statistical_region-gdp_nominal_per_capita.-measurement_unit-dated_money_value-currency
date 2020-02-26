@@ -1,0 +1,1509 @@
+/m/0168t	/m/09nqf
+Reward:1
+/m/0168t	/m/0261m	/m/05r7t	/m/0fw4v
+_/location/location/contains	/location/location/contains	_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division
+-1
+-3.20659595594
+___
+/m/0168t	/m/0261m	/m/04chyn	/m/05jxkf
+_/location/location/contains	/location/location/contains	/education/educational_institution/school_type
+-1
+-3.20669827226
+___
+/m/0168t	/m/0261m	/m/0n3g	/m/09nqf
+_/location/location/contains	/location/location/contains	/location/statistical_region/gdp_nominal_per_capita./measurement_unit/dated_money_value/currency
+1
+-3.21284800535
+___
+/m/0168t	/m/0261m	/m/0162v	/m/09nqf
+_/location/location/contains	/location/location/contains	/location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency
+1
+-3.40446253121
+___
+/m/0168t	/m/0261m	/m/06ryl	/m/09nqf
+_/location/location/contains	/location/location/contains	/location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency
+1
+-3.40568177402
+___
+/m/0168t	/m/07ww5	/m/09nqf	/m/01jssp
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency	_/education/university/local_tuition./measurement_unit/dated_money_value/currency
+-1
+-3.53854142502
+___
+/m/0168t	/m/07ww5	/m/09nqf	/m/01wdl3
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency	_/education/university/local_tuition./measurement_unit/dated_money_value/currency
+-1
+-3.53854142502
+___
+/m/0168t	/m/07ww5	/m/09nqf	/m/01ymvk
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency	_/education/university/local_tuition./measurement_unit/dated_money_value/currency
+-1
+-3.53854142502
+___
+/m/0168t	/m/07ww5	/m/09nqf	/m/01swxv
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency	_/education/university/local_tuition./measurement_unit/dated_money_value/currency
+-1
+-3.53854142502
+___
+/m/0168t	/m/07ww5	/m/09nqf	/m/02zccd
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency	_/education/university/local_tuition./measurement_unit/dated_money_value/currency
+-1
+-3.53854142502
+___
+/m/0168t	/m/07ww5	/m/09nqf	/m/078bz
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency	_/education/university/local_tuition./measurement_unit/dated_money_value/currency
+-1
+-3.53854142502
+___
+/m/0168t	/m/07ww5	/m/09nqf	/m/019dwp
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency	_/education/university/local_tuition./measurement_unit/dated_money_value/currency
+-1
+-3.53854142502
+___
+/m/0168t	/m/07ww5	/m/09nqf	/m/012fvq
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency	_/education/university/local_tuition./measurement_unit/dated_money_value/currency
+-1
+-3.53854142502
+___
+/m/0168t	/m/07ww5	/m/09nqf	/m/05cwl_
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency	_/education/university/local_tuition./measurement_unit/dated_money_value/currency
+-1
+-3.53854142502
+___
+/m/0168t	/m/07ww5	/m/09nqf	/m/01y20v
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency	_/education/university/local_tuition./measurement_unit/dated_money_value/currency
+-1
+-3.53854142502
+___
+/m/0168t	/m/07ww5	/m/09nqf	/m/01p5xy
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency	_/education/university/local_tuition./measurement_unit/dated_money_value/currency
+-1
+-3.53854142502
+___
+/m/0168t	/m/07ww5	/m/09nqf	/m/0hd7j
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency	_/education/university/local_tuition./measurement_unit/dated_money_value/currency
+-1
+-3.53854142502
+___
+/m/0168t	/m/07ww5	/m/09nqf	/m/01q0kg
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency	_/education/university/local_tuition./measurement_unit/dated_money_value/currency
+-1
+-3.53854142502
+___
+/m/0168t	/m/0261m	/m/0168t	/m/0261m
+_/location/location/contains	/location/location/contains	_/location/location/contains
+-1
+-3.92440640926
+___
+/m/0168t	/m/0261m	/m/0168t	/m/07c5l
+_/location/location/contains	/location/location/contains	_/location/location/contains
+-1
+-3.92440640926
+___
+/m/0168t	/m/07c5l	/m/07fr_	/m/09nqf
+_/location/location/contains	/location/location/contains	/location/statistical_region/gdp_nominal_per_capita./measurement_unit/dated_money_value/currency
+1
+-4.92347037792
+___
+/m/0168t	/m/07c5l	/m/02wmy	/m/09nqf
+_/location/location/contains	/location/location/contains	/location/statistical_region/gdp_nominal_per_capita./measurement_unit/dated_money_value/currency
+1
+-4.92347049713
+___
+/m/0168t	/m/07c5l	/m/035v3	/m/09nqf
+_/location/location/contains	/location/location/contains	/location/statistical_region/gdp_nominal_per_capita./measurement_unit/dated_money_value/currency
+1
+-4.92347061634
+___
+/m/0168t	/m/0261m	/m/0162v	/m/09nqf
+_/location/location/contains	/location/location/contains	/location/statistical_region/gdp_nominal_per_capita./measurement_unit/dated_money_value/currency
+1
+-4.92420554161
+___
+/m/0168t	/m/07c5l	/m/05r7t	/m/0fw4v
+_/location/location/contains	/location/location/contains	_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division
+-1
+-4.92424410448
+___
+/m/0168t	/m/07c5l	/m/06nnj	/m/09nqf
+_/location/location/contains	/location/location/contains	/location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency
+1
+-4.92439060769
+___
+/m/0168t	/m/07c5l	/m/04vg8	/m/0f8l9c
+_/location/location/contains	/location/location/contains	/location/administrative_division/first_level_division_of
+-1
+-4.92494914809
+___
+/m/0168t	/m/0261m	/m/06ryl	/m/09nqf
+_/location/location/contains	/location/location/contains	/location/statistical_region/gdp_nominal_per_capita./measurement_unit/dated_money_value/currency
+1
+-4.92542469501
+___
+/m/0168t	/m/07c5l	/m/0164b	/m/09nqf
+_/location/location/contains	/location/location/contains	/location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency
+1
+-4.92567593837
+___
+/m/0168t	/m/07c5l	/m/06s0l	/m/09nqf
+_/location/location/contains	/location/location/contains	/location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency
+1
+-4.92596897995
+___
+/m/0168t	/m/07c5l	/m/07ww5	/m/09nqf
+_/location/location/contains	/location/location/contains	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency
+1
+-4.92682026397
+___
+/m/0168t	/m/07c5l	/m/03_r3	/m/09nqf
+_/location/location/contains	/location/location/contains	/location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency
+1
+-4.92734241881
+___
+/m/0168t	/m/07c5l	/m/07ylj	/m/09nqf
+_/location/location/contains	/location/location/contains	/location/statistical_region/gdp_nominal_per_capita./measurement_unit/dated_money_value/currency
+1
+-4.92784637958
+___
+/m/0168t	/m/07c5l	/m/0n3g	/m/09nqf
+_/location/location/contains	/location/location/contains	/location/statistical_region/gdp_nominal_per_capita./measurement_unit/dated_money_value/currency
+1
+-4.93049615389
+___
+/m/0168t	/m/07c5l	/m/01nty	/m/09nqf
+_/location/location/contains	/location/location/contains	/location/statistical_region/gdp_nominal_per_capita./measurement_unit/dated_money_value/currency
+1
+-4.93049615389
+___
+/m/0168t	/m/07c5l	/m/0165b	/m/09nqf
+_/location/location/contains	/location/location/contains	/location/statistical_region/gdp_nominal_per_capita./measurement_unit/dated_money_value/currency
+1
+-4.93182863761
+___
+/m/0168t	/m/07c5l	/m/0l3h	/m/09nqf
+_/location/location/contains	/location/location/contains	/location/statistical_region/gdp_nominal_per_capita./measurement_unit/dated_money_value/currency
+1
+-4.93491206411
+___
+/m/0168t	/m/07c5l	/m/01ls2	/m/09nqf
+_/location/location/contains	/location/location/contains	/location/statistical_region/gdp_nominal_per_capita./measurement_unit/dated_money_value/currency
+1
+-4.93513006717
+___
+/m/0168t	/m/07c5l	/m/027rn	/m/09nqf
+_/location/location/contains	/location/location/contains	/location/statistical_region/gdp_nominal_per_capita./measurement_unit/dated_money_value/currency
+1
+-4.94194642827
+___
+/m/0168t	/m/07c5l	/m/06s6l	/m/09nqf
+_/location/location/contains	/location/location/contains	/location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency
+1
+-5.12158383429
+___
+/m/0168t	/m/07c5l	/m/0165v	/m/09nqf
+_/location/location/contains	/location/location/contains	/location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency
+1
+-5.12209825218
+___
+/m/0168t	/m/07c5l	/m/03h2c	/m/09nqf
+_/location/location/contains	/location/location/contains	/location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency
+1
+-5.12284818292
+___
+/m/0168t	/m/07c5l	/m/05v10	/m/09nqf
+_/location/location/contains	/location/location/contains	/location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency
+1
+-5.12312121689
+___
+/m/0168t	/m/07c5l	/m/05c74	/m/09nqf
+_/location/location/contains	/location/location/contains	/location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency
+1
+-5.12312139571
+___
+/m/0168t	/m/07c5l	/m/02k1b	/m/09nqf
+_/location/location/contains	/location/location/contains	/location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency
+1
+-5.12314659357
+___
+/m/0168t	/m/07c5l	/m/06ryl	/m/09nqf
+_/location/location/contains	/location/location/contains	/location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency
+1
+-5.12332992256
+___
+/m/0168t	/m/07c5l	/m/027nb	/m/09nqf
+_/location/location/contains	/location/location/contains	/location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency
+1
+-5.12332992256
+___
+/m/0168t	/m/07c5l	/m/07twz	/m/09nqf
+_/location/location/contains	/location/location/contains	/location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency
+1
+-5.12336166203
+___
+/m/0168t	/m/07c5l	/m/035yg	/m/09nqf
+_/location/location/contains	/location/location/contains	/location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency
+1
+-5.12338712811
+___
+/m/0168t	/m/07c5l	/m/016wzw	/m/09nqf
+_/location/location/contains	/location/location/contains	/location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency
+1
+-5.12492911518
+___
+/m/0168t	/m/07c5l	/m/03gyl	/m/09nqf
+_/location/location/contains	/location/location/contains	/location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency
+1
+-5.12493778765
+___
+/m/0168t	/m/07c5l	/m/0j11	/m/09nqf
+_/location/location/contains	/location/location/contains	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency
+1
+-5.1447122097
+___
+/m/0168t	/m/07c5l	/m/0d04z6	/m/09nqf
+_/location/location/contains	/location/location/contains	/location/statistical_region/gdp_nominal_per_capita./measurement_unit/dated_money_value/currency
+1
+-5.21591731906
+___
+/m/0168t	/m/0261m	/m/0157g9	/m/01l3lx
+_/location/location/contains	/location/location/contains	_/location/location/contains
+-1
+-5.31236839294
+___
+/m/0168t	/m/0261m	/m/0157g9	/m/0261m
+_/location/location/contains	/location/location/contains	_/location/location/contains
+-1
+-5.31236839294
+___
+/m/0168t	/m/07c5l	/m/01p8s	/m/09nqf
+_/location/location/contains	/location/location/contains	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency
+1
+-5.41339743137
+___
+/m/0168t	/m/0261m	/m/0157g9	/m/06s0l
+_/location/location/contains	/location/location/contains	/location/location/contains
+-1
+-5.43055868149
+___
+/m/0168t	/m/0261m	/m/0157g9	/m/09lxtg
+_/location/location/contains	/location/location/contains	/location/location/contains
+-1
+-5.43055868149
+___
+/m/0168t	/m/0261m	/m/0157g9	/m/0j11
+_/location/location/contains	/location/location/contains	/location/location/contains
+-1
+-5.43055868149
+___
+/m/0168t	/m/0261m	/m/0157g9	/m/04vg8
+_/location/location/contains	/location/location/contains	/location/location/contains
+-1
+-5.43055868149
+___
+/m/0168t	/m/0261m	/m/0157g9	/m/027nb
+_/location/location/contains	/location/location/contains	/location/location/contains
+-1
+-5.43055868149
+___
+/m/0168t	/m/0261m	/m/0157g9	/m/06s6l
+_/location/location/contains	/location/location/contains	/location/location/contains
+-1
+-5.43055868149
+___
+/m/0168t	/m/0261m	/m/0157g9	/m/0162v
+_/location/location/contains	/location/location/contains	/location/location/contains
+-1
+-5.43055868149
+___
+/m/0168t	/m/07c5l	/m/0168t	/m/07c5l
+_/location/location/contains	/location/location/contains	_/location/location/contains
+-1
+-5.6420545578
+___
+/m/0168t	/m/07c5l	/m/0168t	/m/0261m
+_/location/location/contains	/location/location/contains	_/location/location/contains
+-1
+-5.6420545578
+___
+/m/0168t	/m/07c5l	/m/0d060g	/m/05j49
+_/location/location/contains	/location/location/contains	_/location/administrative_division/first_level_division_of
+-1
+-5.66523551941
+___
+/m/0168t	/m/07c5l	/m/0d060g	/m/059t8
+_/location/location/contains	/location/location/contains	_/location/administrative_division/first_level_division_of
+-1
+-5.66523551941
+___
+/m/0168t	/m/07ww5	/m/0h03fhx	/m/029j_
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	_/film/film/country	/film/film/release_date_s./film/film_regional_release_date/film_release_distribution_medium
+-1
+-5.68284466304
+___
+/m/0168t	/m/07ww5	/m/0gz6b6g	/m/029j_
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	_/film/film/country	/film/film/release_date_s./film/film_regional_release_date/film_release_distribution_medium
+-1
+-5.68534603342
+___
+/m/0168t	/m/07ww5	/m/09nqf	/m/01q0kg
+/location/location/adjoin_s./location/adjoining_relationship/adjoins	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency	_/education/university/local_tuition./measurement_unit/dated_money_value/currency
+-1
+-6.02554692328
+___
+/m/0168t	/m/07ww5	/m/09nqf	/m/01p5xy
+/location/location/adjoin_s./location/adjoining_relationship/adjoins	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency	_/education/university/local_tuition./measurement_unit/dated_money_value/currency
+-1
+-6.02554692328
+___
+/m/0168t	/m/07ww5	/m/09nqf	/m/05cwl_
+/location/location/adjoin_s./location/adjoining_relationship/adjoins	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency	_/education/university/local_tuition./measurement_unit/dated_money_value/currency
+-1
+-6.02554692328
+___
+/m/0168t	/m/07ww5	/m/09nqf	/m/01jssp
+/location/location/adjoin_s./location/adjoining_relationship/adjoins	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency	_/education/university/local_tuition./measurement_unit/dated_money_value/currency
+-1
+-6.02554692328
+___
+/m/0168t	/m/07ww5	/m/09nqf	/m/012fvq
+/location/location/adjoin_s./location/adjoining_relationship/adjoins	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency	_/education/university/local_tuition./measurement_unit/dated_money_value/currency
+-1
+-6.02554692328
+___
+/m/0168t	/m/07ww5	/m/09nqf	/m/019dwp
+/location/location/adjoin_s./location/adjoining_relationship/adjoins	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency	_/education/university/local_tuition./measurement_unit/dated_money_value/currency
+-1
+-6.02554692328
+___
+/m/0168t	/m/07ww5	/m/09nqf	/m/01ymvk
+/location/location/adjoin_s./location/adjoining_relationship/adjoins	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency	_/education/university/local_tuition./measurement_unit/dated_money_value/currency
+-1
+-6.02554692328
+___
+/m/0168t	/m/07ww5	/m/09nqf	/m/078bz
+/location/location/adjoin_s./location/adjoining_relationship/adjoins	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency	_/education/university/local_tuition./measurement_unit/dated_money_value/currency
+-1
+-6.02554692328
+___
+/m/0168t	/m/07ww5	/m/09nqf	/m/01y20v
+/location/location/adjoin_s./location/adjoining_relationship/adjoins	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency	_/education/university/local_tuition./measurement_unit/dated_money_value/currency
+-1
+-6.02554692328
+___
+/m/0168t	/m/07ww5	/m/09nqf	/m/01wdl3
+/location/location/adjoin_s./location/adjoining_relationship/adjoins	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency	_/education/university/local_tuition./measurement_unit/dated_money_value/currency
+-1
+-6.02554692328
+___
+/m/0168t	/m/07ww5	/m/09nqf	/m/01swxv
+/location/location/adjoin_s./location/adjoining_relationship/adjoins	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency	_/education/university/local_tuition./measurement_unit/dated_money_value/currency
+-1
+-6.02554692328
+___
+/m/0168t	/m/07ww5	/m/09nqf	/m/02zccd
+/location/location/adjoin_s./location/adjoining_relationship/adjoins	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency	_/education/university/local_tuition./measurement_unit/dated_money_value/currency
+-1
+-6.02554692328
+___
+/m/0168t	/m/07ww5	/m/09nqf	/m/0hd7j
+/location/location/adjoin_s./location/adjoining_relationship/adjoins	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency	_/education/university/local_tuition./measurement_unit/dated_money_value/currency
+-1
+-6.02554692328
+___
+/m/0168t	/m/07c5l	/m/0b90_r	/m/09nqf
+_/location/location/contains	/location/location/contains	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency
+1
+-6.12092196941
+___
+/m/0168t	/m/07c5l	/m/01p8s	/m/0hzc9wc
+_/location/location/contains	/location/location/contains	/base/aareas/schema/administrative_area/administrative_area_type
+-1
+-6.31382763386
+___
+/m/0168t	/m/07c5l	/m/0d04z6	/m/0d6hn
+_/location/location/contains	/location/location/contains	_/location/administrative_division/first_level_division_of
+-1
+-6.37038016319
+___
+/m/0168t	/m/07c5l	/m/0jgd	/m/01ly5m
+_/location/location/contains	/location/location/contains	_/location/administrative_division/country
+-1
+-6.46394240856
+___
+/m/0168t	/m/07c5l	/m/0jgd	/m/01ly8d
+_/location/location/contains	/location/location/contains	_/location/administrative_division/country
+-1
+-6.46394240856
+___
+/m/0168t	/m/07c5l	/m/06s6l	/m/09nqf
+_/location/location/contains	/location/location/contains	/location/statistical_region/gdp_nominal_per_capita./measurement_unit/dated_money_value/currency
+1
+-6.64132678509
+___
+/m/0168t	/m/07c5l	/m/0165v	/m/09nqf
+_/location/location/contains	/location/location/contains	/location/statistical_region/gdp_nominal_per_capita./measurement_unit/dated_money_value/currency
+1
+-6.64184117317
+___
+/m/0168t	/m/07c5l	/m/03h2c	/m/09nqf
+_/location/location/contains	/location/location/contains	/location/statistical_region/gdp_nominal_per_capita./measurement_unit/dated_money_value/currency
+1
+-6.64259111881
+___
+/m/0168t	/m/07c5l	/m/05v10	/m/09nqf
+_/location/location/contains	/location/location/contains	/location/statistical_region/gdp_nominal_per_capita./measurement_unit/dated_money_value/currency
+1
+-6.64286422729
+___
+/m/0168t	/m/07c5l	/m/05c74	/m/09nqf
+_/location/location/contains	/location/location/contains	/location/statistical_region/gdp_nominal_per_capita./measurement_unit/dated_money_value/currency
+1
+-6.6428643465
+___
+/m/0168t	/m/07c5l	/m/02k1b	/m/09nqf
+_/location/location/contains	/location/location/contains	/location/statistical_region/gdp_nominal_per_capita./measurement_unit/dated_money_value/currency
+1
+-6.64288961887
+___
+/m/0168t	/m/07c5l	/m/027nb	/m/09nqf
+_/location/location/contains	/location/location/contains	/location/statistical_region/gdp_nominal_per_capita./measurement_unit/dated_money_value/currency
+1
+-6.64307284355
+___
+/m/0168t	/m/07c5l	/m/06ryl	/m/09nqf
+_/location/location/contains	/location/location/contains	/location/statistical_region/gdp_nominal_per_capita./measurement_unit/dated_money_value/currency
+1
+-6.64307284355
+___
+/m/0168t	/m/07c5l	/m/07twz	/m/09nqf
+_/location/location/contains	/location/location/contains	/location/statistical_region/gdp_nominal_per_capita./measurement_unit/dated_money_value/currency
+1
+-6.64310467243
+___
+/m/0168t	/m/07c5l	/m/035yg	/m/09nqf
+_/location/location/contains	/location/location/contains	/location/statistical_region/gdp_nominal_per_capita./measurement_unit/dated_money_value/currency
+1
+-6.64313006401
+___
+/m/0168t	/m/07c5l	/m/016wzw	/m/09nqf
+_/location/location/contains	/location/location/contains	/location/statistical_region/gdp_nominal_per_capita./measurement_unit/dated_money_value/currency
+1
+-6.64467203617
+___
+/m/0168t	/m/07c5l	/m/03gyl	/m/09nqf
+_/location/location/contains	/location/location/contains	/location/statistical_region/gdp_nominal_per_capita./measurement_unit/dated_money_value/currency
+1
+-6.64468073845
+___
+/m/0168t	/m/07c5l	/m/0jgd	/m/01ly5m
+_/location/location/contains	/location/location/contains	_/base/aareas/schema/administrative_area/administrative_parent
+-1
+-6.65724933147
+___
+#####################
+/m/035hm	/m/09nqf
+Reward:0
+/m/035hm	/m/06mkj	/m/03z106	/m/029j_
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	_/film/film/runtime./film/film_cut/film_release_region	/film/film/release_date_s./film/film_regional_release_date/film_release_distribution_medium
+-1
+-3.0446448233
+___
+/m/035hm	/m/06mkj	/m/043h78	/m/029j_
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	_/film/film/runtime./film/film_cut/film_release_region	/film/film/release_date_s./film/film_regional_release_date/film_release_distribution_medium
+-1
+-3.0451805722
+___
+/m/035hm	/m/06mkj	/m/02gpkt	/m/029j_
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	_/film/film/runtime./film/film_cut/film_release_region	/film/film/release_date_s./film/film_regional_release_date/film_release_distribution_medium
+-1
+-3.04640507326
+___
+/m/035hm	/m/06mkj	/m/015ynm	/m/029j_
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	_/film/film/runtime./film/film_cut/film_release_region	/film/film/release_date_s./film/film_regional_release_date/film_release_distribution_medium
+-1
+-3.04945763946
+___
+/m/035hm	/m/03v9w	/m/05pq3_	/m/0jnh
+_/location/location/contains	/location/location/contains	_/military/military_conflict/combatants./military/military_combatant_group/combatants
+-1
+-3.87181729078
+___
+/m/035hm	/m/03v9w	/m/05pq3_	/m/0dr7s
+_/location/location/contains	/location/location/contains	_/military/military_conflict/combatants./military/military_combatant_group/combatants
+-1
+-3.87181729078
+___
+/m/035hm	/m/03v9w	/m/04llb	/m/05r4w
+_/location/location/contains	/location/location/contains	_/location/location/contains
+-1
+-3.87904280424
+___
+/m/035hm	/m/03v9w	/m/04llb	/m/03v9w
+_/location/location/contains	/location/location/contains	_/location/location/contains
+-1
+-3.87904280424
+___
+/m/035hm	/m/03v9w	/m/035hm	/m/07ssc
+_/location/location/contains	/location/location/contains	/location/administrative_division/country
+-1
+-3.91030049324
+___
+/m/035hm	/m/06mkj	/m/01f62	/m/0123_x
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	_/base/biblioness/bibs_location/country	/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division
+-1
+-4.20248098299
+___
+/m/035hm	/m/06mkj	/m/0123_x	/m/01f62
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	_/base/biblioness/bibs_location/country	_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division
+-1
+-4.43428270519
+___
+/m/035hm	/m/03v9w	/m/035hm	/m/02qkt
+_/location/location/contains	/location/location/contains	_/location/location/contains
+-1
+-4.94391846657
+___
+/m/035hm	/m/03v9w	/m/035hm	/m/03v9w
+_/location/location/contains	/location/location/contains	_/location/location/contains
+-1
+-4.94391846657
+___
+/m/035hm	/m/03v9w	/m/035hm	/m/02j9z
+_/location/location/contains	/location/location/contains	_/location/location/contains
+-1
+-4.94391846657
+___
+/m/035hm	/m/03v9w	/m/0285m87	/m/0py8j
+_/location/location/contains	/location/location/contains	_/military/military_conflict/combatants./military/military_combatant_group/combatants
+-1
+-5.00299882889
+___
+/m/035hm	/m/03v9w	/m/0285m87	/m/0ql7q
+_/location/location/contains	/location/location/contains	_/military/military_conflict/combatants./military/military_combatant_group/combatants
+-1
+-5.00299882889
+___
+/m/035hm	/m/03v9w	/m/0285m87	/m/0flry
+_/location/location/contains	/location/location/contains	_/military/military_conflict/combatants./military/military_combatant_group/combatants
+-1
+-5.00299882889
+___
+/m/035hm	/m/03v9w	/m/0285m87	/m/01_3rn
+_/location/location/contains	/location/location/contains	_/military/military_conflict/combatants./military/military_combatant_group/combatants
+-1
+-5.00299882889
+___
+/m/035hm	/m/03v9w	/m/0285m87	/m/01hwkn
+_/location/location/contains	/location/location/contains	_/military/military_conflict/combatants./military/military_combatant_group/combatants
+-1
+-5.00299882889
+___
+/m/035hm	/m/03v9w	/m/0285m87	/m/0845v
+_/location/location/contains	/location/location/contains	_/military/military_conflict/combatants./military/military_combatant_group/combatants
+-1
+-5.00299882889
+___
+/m/035hm	/m/02j9z	/m/04fh3	/m/09nqf
+_/location/location/contains	/base/locations/continents/countries_within	/location/statistical_region/gdp_nominal_per_capita./measurement_unit/dated_money_value/currency
+1
+-5.20404517651
+___
+/m/035hm	/m/02j9z	/m/03rj0	/m/09nqf
+_/location/location/contains	/base/locations/continents/countries_within	/location/statistical_region/gdp_nominal_per_capita./measurement_unit/dated_money_value/currency
+1
+-5.205822199
+___
+/m/035hm	/m/02j9z	/m/0163v	/m/09nqf
+_/location/location/contains	/base/locations/continents/countries_within	/location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency
+1
+-5.20697307657
+___
+/m/035hm	/m/02j9z	/m/04w4s	/m/09nqf
+_/location/location/contains	/base/locations/continents/countries_within	/location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency
+1
+-5.20738377492
+___
+/m/035hm	/m/02j9z	/m/0k6nt	/m/09nqf
+_/location/location/contains	/base/locations/continents/countries_within	/location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency
+1
+-5.21132956631
+___
+/m/035hm	/m/02j9z	/m/05r4w	/m/09nqf
+_/location/location/contains	/base/locations/continents/countries_within	/location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency
+1
+-5.21363981161
+___
+/m/035hm	/m/02j9z	/m/04j53	/m/09nqf
+_/location/location/contains	/base/locations/continents/countries_within	/location/statistical_region/gdp_nominal_per_capita./measurement_unit/dated_money_value/currency
+1
+-5.21543606464
+___
+/m/035hm	/m/02j9z	/m/0hg5	/m/09nqf
+_/location/location/contains	/base/locations/continents/countries_within	/location/statistical_region/gdp_nominal_per_capita./measurement_unit/dated_money_value/currency
+1
+-5.21544054337
+___
+/m/035hm	/m/02j9z	/m/0166b	/m/09nqf
+_/location/location/contains	/base/locations/continents/countries_within	/location/statistical_region/gdp_nominal_per_capita./measurement_unit/dated_money_value/currency
+1
+-5.21545716189
+___
+/m/035hm	/m/02j9z	/m/07ytt	/m/0hzc9wc
+_/location/location/contains	/base/locations/continents/countries_within	/base/aareas/schema/administrative_area/administrative_area_type
+-1
+-5.21915572416
+___
+/m/035hm	/m/02j9z	/m/0d0vqn	/m/09nqf
+_/location/location/contains	/base/locations/continents/countries_within	/location/statistical_region/gdp_nominal_per_capita./measurement_unit/dated_money_value/currency
+1
+-5.22102836892
+___
+/m/035hm	/m/02j9z	/m/01znc_	/m/09nqf
+_/location/location/contains	/base/locations/continents/countries_within	/location/statistical_region/gdp_nominal_per_capita./measurement_unit/dated_money_value/currency
+1
+-5.22436247021
+___
+/m/035hm	/m/02j9z	/m/03gj2	/m/09nqf
+_/location/location/contains	/base/locations/continents/countries_within	/location/statistical_region/gdp_nominal_per_capita./measurement_unit/dated_money_value/currency
+1
+-5.22661906108
+___
+/m/035hm	/m/02j9z	/m/05b4w	/m/05l64
+_/location/location/contains	/base/locations/continents/countries_within	_/base/aareas/schema/administrative_area/administrative_parent
+-1
+-5.22920263
+___
+/m/035hm	/m/02j9z	/m/01mjq	/m/09nqf
+_/location/location/contains	/base/locations/continents/countries_within	/location/statistical_region/gdp_nominal_per_capita./measurement_unit/dated_money_value/currency
+1
+-5.2367480956
+___
+/m/035hm	/m/02j9z	/m/015qh	/m/0ftjx
+_/location/location/contains	/base/locations/continents/countries_within	/base/aareas/schema/administrative_area/capital
+-1
+-5.24046107382
+___
+/m/035hm	/m/02j9z	/m/0h7x	/m/0fhp9
+_/location/location/contains	/base/locations/continents/countries_within	/base/aareas/schema/administrative_area/capital
+-1
+-5.24874498323
+___
+/m/035hm	/m/02j9z	/m/035qy	/m/09nqf
+_/location/location/contains	/base/locations/continents/countries_within	/location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency
+1
+-5.28114420921
+___
+/m/035hm	/m/02j9z	/m/05qhw	/m/09nqf
+_/location/location/contains	/base/locations/continents/countries_within	/location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency
+1
+-5.34581513703
+___
+/m/035hm	/m/07ssc	/m/01k0vq	/m/0gsy3b
+/location/administrative_division/country	_/film/film/runtime./film/film_cut/film_release_region	/film/film/genre
+-1
+-5.42148458958
+___
+/m/035hm	/m/07ssc	/m/01k0vq	/m/02l7c8
+/location/administrative_division/country	_/film/film/runtime./film/film_cut/film_release_region	/film/film/genre
+-1
+-5.42148458958
+___
+/m/035hm	/m/07ssc	/m/01k0vq	/m/0bbc17
+/location/administrative_division/country	_/film/film/runtime./film/film_cut/film_release_region	/film/film/genre
+-1
+-5.42148458958
+___
+/m/035hm	/m/07ssc	/m/01k0vq	/m/02b5_l
+/location/administrative_division/country	_/film/film/runtime./film/film_cut/film_release_region	/film/film/genre
+-1
+-5.42148458958
+___
+/m/035hm	/m/02j9z	/m/06mzp	/m/09nqf
+_/location/location/contains	/base/locations/continents/countries_within	/location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency
+1
+-5.43001702428
+___
+/m/035hm	/m/02j9z	/m/047lj	/m/09nqf
+_/location/location/contains	/base/locations/continents/countries_within	/location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency
+1
+-5.46078673005
+___
+/m/035hm	/m/02j9z	/m/077qn	/m/09nqf
+_/location/location/contains	/base/locations/continents/countries_within	/location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency
+1
+-5.46267786622
+___
+/m/035hm	/m/02j9z	/m/0d0kn	/m/09nqf
+_/location/location/contains	/base/locations/continents/countries_within	/location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency
+1
+-5.46289044619
+___
+/m/035hm	/m/02j9z	/m/06t8v	/m/09nqf
+_/location/location/contains	/base/locations/continents/countries_within	/location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency
+1
+-5.46399477124
+___
+/m/035hm	/m/02j9z	/m/04v3q	/m/09nqf
+_/location/location/contains	/base/locations/continents/countries_within	/location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency
+1
+-5.46547040343
+___
+/m/035hm	/m/02j9z	/m/01ppq	/m/09nqf
+_/location/location/contains	/base/locations/continents/countries_within	/location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency
+1
+-5.46585810184
+___
+/m/035hm	/m/02j9z	/m/06npd	/m/09nqf
+_/location/location/contains	/base/locations/continents/countries_within	/location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency
+1
+-5.4658793211
+___
+/m/035hm	/m/02j9z	/m/0jhd	/m/09nqf
+_/location/location/contains	/base/locations/continents/countries_within	/location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency
+1
+-5.46603390574
+___
+/m/035hm	/m/02j9z	/m/01pj7	/m/09nqf
+_/location/location/contains	/base/locations/continents/countries_within	/location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency
+1
+-5.46651950479
+___
+/m/035hm	/m/02j9z	/m/07t21	/m/09nqf
+_/location/location/contains	/base/locations/continents/countries_within	/location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency
+1
+-5.46763265133
+___
+/m/035hm	/m/02j9z	/m/06c1y	/m/09nqf
+_/location/location/contains	/base/locations/continents/countries_within	/location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency
+1
+-5.52321147919
+___
+/m/035hm	/m/02j9z	/m/06sff	/m/09nqf
+_/location/location/contains	/base/locations/continents/countries_within	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency
+1
+-5.52596777678
+___
+/m/035hm	/m/06mkj	/m/043h78	/m/029j_
+/location/location/adjoin_s./location/adjoining_relationship/adjoins	_/film/film/runtime./film/film_cut/film_release_region	/film/film/release_date_s./film/film_regional_release_date/film_release_distribution_medium
+-1
+-5.56128615141
+___
+/m/035hm	/m/02j9z	/m/0f8l9c	/m/0c9k8
+_/location/location/contains	/base/locations/continents/countries_within	_/film/film/language
+-1
+-5.65205720067
+___
+/m/035hm	/m/06mkj	/m/0123_x	/m/01f62
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	_/base/biblioness/bibs_location/country	/base/aareas/schema/administrative_area/capital
+-1
+-5.69621598721
+___
+/m/035hm	/m/03v9w	/m/056_y	/m/040fb
+_/location/location/contains	/location/location/contains	/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month
+-1
+-5.71964895725
+___
+/m/035hm	/m/03v9w	/m/056_y	/m/028kb
+_/location/location/contains	/location/location/contains	/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month
+-1
+-5.71964895725
+___
+/m/035hm	/m/03v9w	/m/056_y	/m/05cw8
+_/location/location/contains	/location/location/contains	/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month
+-1
+-5.71964895725
+___
+/m/035hm	/m/03v9w	/m/056_y	/m/04w_7
+_/location/location/contains	/location/location/contains	/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month
+-1
+-5.71964895725
+___
+/m/035hm	/m/03v9w	/m/056_y	/m/03_ly
+_/location/location/contains	/location/location/contains	/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month
+-1
+-5.71964895725
+___
+/m/035hm	/m/03v9w	/m/056_y	/m/0ll3
+_/location/location/contains	/location/location/contains	/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month
+-1
+-5.71964895725
+___
+/m/035hm	/m/03v9w	/m/056_y	/m/02xx5
+_/location/location/contains	/location/location/contains	/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month
+-1
+-5.71964895725
+___
+/m/035hm	/m/03v9w	/m/056_y	/m/04wzr
+_/location/location/contains	/location/location/contains	/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month
+-1
+-5.71964895725
+___
+/m/035hm	/m/03v9w	/m/056_y	/m/040fv
+_/location/location/contains	/location/location/contains	/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month
+-1
+-5.71964895725
+___
+/m/035hm	/m/07ssc	/m/06q1r	/m/01nv4h
+/location/administrative_division/country	_/base/biblioness/bibs_location/country	/location/statistical_region/gdp_nominal_per_capita./measurement_unit/dated_money_value/currency
+-1
+-5.72202135623
+___
+/m/035hm	/m/03v9w	/m/056_y	/m/03v9w
+_/location/location/contains	/location/location/contains	_/location/location/contains
+-1
+-5.80533134937
+___
+/m/035hm	/m/03v9w	/m/056_y	/m/06mkj
+_/location/location/contains	/location/location/contains	_/location/location/contains
+-1
+-5.80533134937
+___
+/m/035hm	/m/06mkj	/m/03z106	/m/029j_
+/location/location/adjoin_s./location/adjoining_relationship/adjoins	_/film/film/runtime./film/film_cut/film_release_region	/film/film/release_date_s./film/film_regional_release_date/film_release_distribution_medium
+-1
+-5.86708879471
+___
+/m/035hm	/m/06mkj	/m/015ynm	/m/029j_
+/location/location/adjoin_s./location/adjoining_relationship/adjoins	_/film/film/runtime./film/film_cut/film_release_region	/film/film/release_date_s./film/film_regional_release_date/film_release_distribution_medium
+-1
+-5.89018130302
+___
+/m/035hm	/m/06mkj	/m/02gpkt	/m/029j_
+/location/location/adjoin_s./location/adjoining_relationship/adjoins	_/film/film/runtime./film/film_cut/film_release_region	/film/film/release_date_s./film/film_regional_release_date/film_release_distribution_medium
+-1
+-5.91281867027
+___
+/m/035hm	/m/03v9w	/m/056_y	/m/06l22
+_/location/location/contains	/location/location/contains	/location/location/contains
+-1
+-5.92352163792
+___
+/m/035hm	/m/03v9w	/m/056_y	/m/01hlq3
+_/location/location/contains	/location/location/contains	/location/location/contains
+-1
+-5.92352163792
+___
+/m/035hm	/m/02qkt	/m/02lx0	/m/09nqf
+_/location/location/contains	/location/location/contains	/location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency
+1
+-5.94937493105
+___
+/m/035hm	/m/02qkt	/m/03rj0	/m/09nqf
+_/location/location/contains	/location/location/contains	/location/statistical_region/gdp_nominal_per_capita./measurement_unit/dated_money_value/currency
+1
+-5.94995273231
+___
+/m/035hm	/m/02qkt	/m/0163v	/m/09nqf
+_/location/location/contains	/location/location/contains	/location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency
+1
+-5.95028940088
+___
+/m/035hm	/m/02qkt	/m/04w4s	/m/09nqf
+_/location/location/contains	/location/location/contains	/location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency
+1
+-5.95091483439
+___
+/m/035hm	/m/02qkt	/m/0k6nt	/m/09nqf
+_/location/location/contains	/location/location/contains	/location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency
+1
+-5.95271057263
+___
+/m/035hm	/m/02qkt	/m/01z215	/m/09nqf
+_/location/location/contains	/location/location/contains	/location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency
+1
+-5.95314610098
+___
+/m/035hm	/m/02qkt	/m/04ty8	/m/09nqf
+_/location/location/contains	/location/location/contains	/location/statistical_region/gdp_nominal_per_capita./measurement_unit/dated_money_value/currency
+1
+-5.95846167952
+___
+/m/035hm	/m/02qkt	/m/03rt9	/m/09nqf
+_/location/location/contains	/location/location/contains	/location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency
+1
+-5.95858629793
+___
+/m/035hm	/m/02qkt	/m/07dvs	/m/09nqf
+_/location/location/contains	/location/location/contains	/location/statistical_region/gdp_nominal_per_capita./measurement_unit/dated_money_value/currency
+1
+-5.95978684817
+___
+/m/035hm	/m/02qkt	/m/0167v	/m/09nqf
+_/location/location/contains	/location/location/contains	/location/statistical_region/gdp_nominal_per_capita./measurement_unit/dated_money_value/currency
+1
+-5.95978696644
+___
+/m/035hm	/m/02qkt	/m/05l8y	/m/09nqf
+_/location/location/contains	/location/location/contains	/location/statistical_region/gdp_nominal_per_capita./measurement_unit/dated_money_value/currency
+1
+-5.95978708379
+___
+/m/035hm	/m/02qkt	/m/01znc_	/m/09nqf
+_/location/location/contains	/location/location/contains	/location/statistical_region/gdp_nominal_per_capita./measurement_unit/dated_money_value/currency
+1
+-5.96017760038
+___
+/m/035hm	/m/02qkt	/m/06f32	/m/09nqf
+_/location/location/contains	/location/location/contains	/location/statistical_region/gdp_nominal_per_capita./measurement_unit/dated_money_value/currency
+1
+-5.96542848833
+___
+/m/035hm	/m/02qkt	/m/03gj2	/m/09nqf
+_/location/location/contains	/location/location/contains	/location/statistical_region/gdp_nominal_per_capita./measurement_unit/dated_money_value/currency
+1
+-5.96616668254
+___
+/m/035hm	/m/02qkt	/m/07f1x	/m/09nqf
+_/location/location/contains	/location/location/contains	/location/statistical_region/gdp_nominal_per_capita./measurement_unit/dated_money_value/currency
+1
+-5.97333441675
+___
+/m/035hm	/m/02j9z	/m/06bnz	/m/04swd
+_/location/location/contains	/base/locations/continents/countries_within	_/base/biblioness/bibs_location/country
+-1
+-5.97672152519
+___
+/m/035hm	/m/02qkt	/m/015qh	/m/0ftjx
+_/location/location/contains	/location/location/contains	/base/aareas/schema/administrative_area/capital
+-1
+-6.01197721064
+___
+/m/035hm	/m/02j9z	/m/059j2	/m/0d8rs
+_/location/location/contains	/base/locations/continents/countries_within	_/location/administrative_division/first_level_division_of
+-1
+-6.01951146126
+___
+/m/035hm	/m/02j9z	/m/059j2	/m/0fcrg
+_/location/location/contains	/base/locations/continents/countries_within	_/location/administrative_division/first_level_division_of
+-1
+-6.01951146126
+___
+/m/035hm	/m/02qkt	/m/0h7x	/m/0fhp9
+_/location/location/contains	/location/location/contains	/base/aareas/schema/administrative_area/capital
+-1
+-6.02487936616
+___
+/m/035hm	/m/02qkt	/m/0162b	/m/0fnb4
+_/location/location/contains	/location/location/contains	/base/aareas/schema/administrative_area/capital
+-1
+-6.02558843046
+___
+/m/035hm	/m/06mkj	/m/0b85mm	/m/03rjj
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	_/film/film/runtime./film/film_cut/film_release_region	/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+-6.04406487942
+___
+/m/035hm	/m/06mkj	/m/0b85mm	/m/082fr
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	_/film/film/runtime./film/film_cut/film_release_region	/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+-6.04406487942
+___
+/m/035hm	/m/06mkj	/m/0b85mm	/m/06mkj
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	_/film/film/runtime./film/film_cut/film_release_region	/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+-6.04406487942
+___
+#####################
+/m/0chghy	/m/0kz1h
+Reward:0
+/m/0chghy	/m/09nqf	/m/01y20v	/m/01rs41
+/location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency	_/education/university/local_tuition./measurement_unit/dated_money_value/currency	/education/educational_institution/school_type
+-1
+-2.6045481503
+___
+/m/0chghy	/m/09nqf	/m/01q0kg	/m/05jxkf
+/location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency	_/education/university/local_tuition./measurement_unit/dated_money_value/currency	/education/educational_institution/school_type
+-1
+-2.62953572124
+___
+/m/0chghy	/m/09nqf	/m/01jssp	/m/09g7thr
+/location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency	_/education/university/local_tuition./measurement_unit/dated_money_value/currency	/award/ranked_item/appears_in_ranked_lists./award/ranking/list
+-1
+-2.78029766082
+___
+/m/0chghy	/m/09nqf	/m/019dwp	/m/01_9fk
+/location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency	_/education/university/local_tuition./measurement_unit/dated_money_value/currency	/education/educational_institution/school_type
+-1
+-2.95685822665
+___
+/m/0chghy	/m/09nqf	/m/01wdl3	/m/05jxkf
+/location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency	_/education/university/local_tuition./measurement_unit/dated_money_value/currency	/education/educational_institution/school_type
+-1
+-3.00001759231
+___
+/m/0chghy	/m/09nqf	/m/078bz	/m/05pcjw
+/location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency	_/education/university/local_tuition./measurement_unit/dated_money_value/currency	/education/educational_institution/school_type
+-1
+-3.02713824212
+___
+/m/0chghy	/m/09nqf	/m/01p5xy	/m/01rs41
+/location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency	_/education/university/local_tuition./measurement_unit/dated_money_value/currency	/education/educational_institution/school_type
+-1
+-3.19540379345
+___
+/m/0chghy	/m/09nqf	/m/012fvq	/m/01rs41
+/location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency	_/education/university/local_tuition./measurement_unit/dated_money_value/currency	/education/educational_institution/school_type
+-1
+-3.28263584673
+___
+/m/0chghy	/m/09nqf	/m/02zccd	/m/01_srz
+/location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency	_/education/university/local_tuition./measurement_unit/dated_money_value/currency	/education/educational_institution/school_type
+-1
+-3.29117832481
+___
+/m/0chghy	/m/09nqf	/m/02zccd	/m/05jxkf
+/location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency	_/education/university/local_tuition./measurement_unit/dated_money_value/currency	/education/educational_institution/school_type
+-1
+-3.29117832481
+___
+/m/0chghy	/m/09nqf	/m/0hd7j	/m/05jxkf
+/location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency	_/education/university/local_tuition./measurement_unit/dated_money_value/currency	/education/educational_institution/school_type
+-1
+-3.31622330248
+___
+/m/0chghy	/m/09nqf	/m/0hd7j	/m/01_srz
+/location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency	_/education/university/local_tuition./measurement_unit/dated_money_value/currency	/education/educational_institution/school_type
+-1
+-3.31622330248
+___
+/m/0chghy	/m/09nqf	/m/01p5xy	/m/03z19
+/location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency	_/education/university/local_tuition./measurement_unit/dated_money_value/currency	/organization/non_profit_organization/registered_with./organization/non_profit_registration/registering_agency
+-1
+-3.43962399065
+___
+/m/0chghy	/m/09nqf	/m/012fvq	/m/03z19
+/location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency	_/education/university/local_tuition./measurement_unit/dated_money_value/currency	/organization/non_profit_organization/registered_with./organization/non_profit_registration/registering_agency
+-1
+-3.52685604393
+___
+/m/0chghy	/m/09nqf	/m/05cwl_	/m/01rs41
+/location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency	_/education/university/local_tuition./measurement_unit/dated_money_value/currency	/education/educational_institution/school_type
+-1
+-3.59421513378
+___
+/m/0chghy	/m/09nqf	/m/05cwl_	/m/05pcjw
+/location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency	_/education/university/local_tuition./measurement_unit/dated_money_value/currency	/education/educational_institution/school_type
+-1
+-3.59421513378
+___
+/m/0chghy	/m/09nqf	/m/01swxv	/m/01rs41
+/location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency	_/education/university/local_tuition./measurement_unit/dated_money_value/currency	/education/educational_institution/school_type
+-1
+-3.76397226154
+___
+/m/0chghy	/m/09nqf	/m/01swxv	/m/01_9fk
+/location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency	_/education/university/local_tuition./measurement_unit/dated_money_value/currency	/education/educational_institution/school_type
+-1
+-3.76397226154
+___
+/m/0chghy	/m/09nqf	/m/05cwl_	/m/03z19
+/location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency	_/education/university/local_tuition./measurement_unit/dated_money_value/currency	/organization/non_profit_organization/registered_with./organization/non_profit_registration/registering_agency
+-1
+-3.83843539059
+___
+/m/0chghy	/m/09nqf	/m/019dwp	/m/035tlh
+/location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency	_/education/university/local_tuition./measurement_unit/dated_money_value/currency	/education/university/fraternities_and_sororities
+-1
+-3.84142229854
+___
+/m/0chghy	/m/09nqf	/m/01wdl3	/m/035tlh
+/location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency	_/education/university/local_tuition./measurement_unit/dated_money_value/currency	/education/university/fraternities_and_sororities
+-1
+-3.8845816642
+___
+/m/0chghy	/m/09nqf	/m/078bz	/m/035tlh
+/location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency	_/education/university/local_tuition./measurement_unit/dated_money_value/currency	/education/university/fraternities_and_sororities
+-1
+-3.91170225441
+___
+/m/0chghy	/m/09nqf	/m/01swxv	/m/03z19
+/location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency	_/education/university/local_tuition./measurement_unit/dated_money_value/currency	/organization/non_profit_organization/registered_with./organization/non_profit_registration/registering_agency
+-1
+-4.00819251835
+___
+/m/0chghy	/m/09nqf	/m/01ymvk	/m/07z1m
+/location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency	_/education/university/local_tuition./measurement_unit/dated_money_value/currency	/organization/organization/headquarters./location/mailing_address/state_province_region
+-1
+-4.34999571144
+___
+/m/0chghy	/m/09nqf	/m/01ymvk	/m/083jv
+/location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency	_/education/university/local_tuition./measurement_unit/dated_money_value/currency	/education/educational_institution/colors
+-1
+-4.36164818107
+___
+/m/0chghy	/m/09nqf	/m/01ymvk	/m/06fvc
+/location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency	_/education/university/local_tuition./measurement_unit/dated_money_value/currency	/education/educational_institution/colors
+-1
+-4.36164818107
+___
+/m/0chghy	/m/09nqf	/m/01ymvk	/m/088fh
+/location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency	_/education/university/local_tuition./measurement_unit/dated_money_value/currency	/education/educational_institution/colors
+-1
+-4.36164818107
+___
+/m/0chghy	/m/09nqf	/m/01ymvk	/m/019v9k
+/location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency	_/education/university/local_tuition./measurement_unit/dated_money_value/currency	_/education/educational_degree/people_with_this_degree./education/education/institution
+-1
+-4.36571536362
+___
+/m/0chghy	/m/09nqf	/m/01ymvk	/m/02h4rq6
+/location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency	_/education/university/local_tuition./measurement_unit/dated_money_value/currency	_/education/educational_degree/people_with_this_degree./education/education/institution
+-1
+-4.36571536362
+___
+/m/0chghy	/m/09nqf	/m/01jssp	/m/0325pb
+/location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency	_/education/university/local_tuition./measurement_unit/dated_money_value/currency	/education/university/fraternities_and_sororities
+-1
+-4.48986134827
+___
+/m/0chghy	/m/09nqf	/m/01swxv	/m/035tlh
+/location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency	_/education/university/local_tuition./measurement_unit/dated_money_value/currency	/education/university/fraternities_and_sororities
+-1
+-4.64853642284
+___
+/m/0chghy	/m/09nqf	/m/012fvq	/m/060c4
+/location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency	_/education/university/local_tuition./measurement_unit/dated_money_value/currency	_/business/job_title/people_with_this_title./business/employment_tenure/company
+-1
+-4.77372930347
+___
+/m/0chghy	/m/09nqf	/m/01y20v	/m/03v0t
+/location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency	_/education/university/local_tuition./measurement_unit/dated_money_value/currency	/organization/organization/headquarters./location/mailing_address/state_province_region
+-1
+-6.92810795605
+___
+/m/0chghy	/m/09nqf	/m/01y20v	/m/01g5v
+/location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency	_/education/university/local_tuition./measurement_unit/dated_money_value/currency	/education/educational_institution/colors
+-1
+-6.93976042568
+___
+/m/0chghy	/m/09nqf	/m/01y20v	/m/016t_3
+/location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency	_/education/university/local_tuition./measurement_unit/dated_money_value/currency	_/education/educational_degree/people_with_this_degree./education/education/institution
+-1
+-6.94382784664
+___
+/m/0chghy	/m/09nqf	/m/01q0kg	/m/01l849
+/location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency	_/education/university/local_tuition./measurement_unit/dated_money_value/currency	/education/educational_institution/colors
+-1
+-6.96474812328
+___
+/m/0chghy	/m/09nqf	/m/01q0kg	/m/03bwzr4
+/location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency	_/education/university/local_tuition./measurement_unit/dated_money_value/currency	_/education/educational_degree/people_with_this_degree./education/education/institution
+-1
+-6.96881554424
+___
+/m/0chghy	/m/09nqf	/m/01q0kg	/m/019v9k
+/location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency	_/education/university/local_tuition./measurement_unit/dated_money_value/currency	_/education/educational_degree/people_with_this_degree./education/education/institution
+-1
+-6.96881554424
+___
+/m/0chghy	/m/09nqf	/m/01q0kg	/m/0bkj86
+/location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency	_/education/university/local_tuition./measurement_unit/dated_money_value/currency	_/education/educational_degree/people_with_this_degree./education/education/institution
+-1
+-6.96881554424
+___
+/m/0chghy	/m/09nqf	/m/01q0kg	/m/02h4rq6
+/location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency	_/education/university/local_tuition./measurement_unit/dated_money_value/currency	_/education/educational_degree/people_with_this_degree./education/education/institution
+-1
+-6.96881554424
+___
+/m/0chghy	/m/09nqf	/m/019dwp	/m/081mh
+/location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency	_/education/university/local_tuition./measurement_unit/dated_money_value/currency	/organization/organization/headquarters./location/mailing_address/state_province_region
+-1
+-7.28041813671
+___
+/m/0chghy	/m/09nqf	/m/019dwp	/m/01g5v
+/location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency	_/education/university/local_tuition./measurement_unit/dated_money_value/currency	/education/educational_institution/colors
+-1
+-7.29207060635
+___
+/m/0chghy	/m/09nqf	/m/019dwp	/m/067z2v
+/location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency	_/education/university/local_tuition./measurement_unit/dated_money_value/currency	/education/educational_institution/colors
+-1
+-7.29207060635
+___
+/m/0chghy	/m/09nqf	/m/019dwp	/m/02_xgp2
+/location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency	_/education/university/local_tuition./measurement_unit/dated_money_value/currency	_/education/educational_degree/people_with_this_degree./education/education/institution
+-1
+-7.2961380273
+___
+/m/0chghy	/m/09nqf	/m/019dwp	/m/019v9k
+/location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency	_/education/university/local_tuition./measurement_unit/dated_money_value/currency	_/education/educational_degree/people_with_this_degree./education/education/institution
+-1
+-7.2961380273
+___
+/m/0chghy	/m/09nqf	/m/01wdl3	/m/0gyh
+/location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency	_/education/university/local_tuition./measurement_unit/dated_money_value/currency	/organization/organization/headquarters./location/mailing_address/state_province_region
+-1
+-7.32357714474
+___
+/m/0chghy	/m/09nqf	/m/01wdl3	/m/083jv
+/location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency	_/education/university/local_tuition./measurement_unit/dated_money_value/currency	/education/educational_institution/colors
+-1
+-7.33522961437
+___
+/m/0chghy	/m/09nqf	/m/01wdl3	/m/01jnf1
+/location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency	_/education/university/local_tuition./measurement_unit/dated_money_value/currency	/education/educational_institution/colors
+-1
+-7.33522961437
+___
+/m/0chghy	/m/09nqf	/m/01wdl3	/m/019v9k
+/location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency	_/education/university/local_tuition./measurement_unit/dated_money_value/currency	_/education/educational_degree/people_with_this_degree./education/education/institution
+-1
+-7.33929703533
+___
+/m/0chghy	/m/09nqf	/m/01wdl3	/m/022h5x
+/location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency	_/education/university/local_tuition./measurement_unit/dated_money_value/currency	_/education/educational_degree/people_with_this_degree./education/education/institution
+-1
+-7.33929703533
+___
+/m/0chghy	/m/09nqf	/m/01wdl3	/m/02h4rq6
+/location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency	_/education/university/local_tuition./measurement_unit/dated_money_value/currency	_/education/educational_degree/people_with_this_degree./education/education/institution
+-1
+-7.33929703533
+___
+/m/0chghy	/m/09nqf	/m/01wdl3	/m/016t_3
+/location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency	_/education/university/local_tuition./measurement_unit/dated_money_value/currency	_/education/educational_degree/people_with_this_degree./education/education/institution
+-1
+-7.33929703533
+___
+/m/0chghy	/m/09nqf	/m/01wdl3	/m/014mlp
+/location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency	_/education/university/local_tuition./measurement_unit/dated_money_value/currency	_/education/educational_degree/people_with_this_degree./education/education/institution
+-1
+-7.33929703533
+___
+/m/0chghy	/m/09nqf	/m/01wdl3	/m/07s6fsf
+/location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency	_/education/university/local_tuition./measurement_unit/dated_money_value/currency	_/education/educational_degree/people_with_this_degree./education/education/institution
+-1
+-7.33929703533
+___
+/m/0chghy	/m/09nqf	/m/01wdl3	/m/03bwzr4
+/location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency	_/education/university/local_tuition./measurement_unit/dated_money_value/currency	_/education/educational_degree/people_with_this_degree./education/education/institution
+-1
+-7.33929703533
+___
+/m/0chghy	/m/09nqf	/m/078bz	/m/059rby
+/location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency	_/education/university/local_tuition./measurement_unit/dated_money_value/currency	/organization/organization/headquarters./location/mailing_address/state_province_region
+-1
+-7.35069821178
+___
+/m/0chghy	/m/09nqf	/m/078bz	/m/0jc_p
+/location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency	_/education/university/local_tuition./measurement_unit/dated_money_value/currency	/education/educational_institution/colors
+-1
+-7.36235068142
+___
+/m/0chghy	/m/09nqf	/m/078bz	/m/014mlp
+/location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency	_/education/university/local_tuition./measurement_unit/dated_money_value/currency	_/education/educational_degree/people_with_this_degree./education/education/institution
+-1
+-7.36641810238
+___
+/m/0chghy	/m/09nqf	/m/078bz	/m/02h4rq6
+/location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency	_/education/university/local_tuition./measurement_unit/dated_money_value/currency	_/education/educational_degree/people_with_this_degree./education/education/institution
+-1
+-7.36641810238
+___
+/m/0chghy	/m/09nqf	/m/078bz	/m/028dcg
+/location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency	_/education/university/local_tuition./measurement_unit/dated_money_value/currency	_/education/educational_degree/people_with_this_degree./education/education/institution
+-1
+-7.36641810238
+___
+/m/0chghy	/m/09nqf	/m/078bz	/m/03bwzr4
+/location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency	_/education/university/local_tuition./measurement_unit/dated_money_value/currency	_/education/educational_degree/people_with_this_degree./education/education/institution
+-1
+-7.36641810238
+___
+/m/0chghy	/m/09nqf	/m/078bz	/m/013zdg
+/location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency	_/education/university/local_tuition./measurement_unit/dated_money_value/currency	_/education/educational_degree/people_with_this_degree./education/education/institution
+-1
+-7.36641810238
+___
+/m/0chghy	/m/09nqf	/m/078bz	/m/07s6fsf
+/location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency	_/education/university/local_tuition./measurement_unit/dated_money_value/currency	_/education/educational_degree/people_with_this_degree./education/education/institution
+-1
+-7.36641810238
+___
+/m/0chghy	/m/09nqf	/m/078bz	/m/0bkj86
+/location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency	_/education/university/local_tuition./measurement_unit/dated_money_value/currency	_/education/educational_degree/people_with_this_degree./education/education/institution
+-1
+-7.36641810238
+___
+/m/0chghy	/m/09nqf	/m/078bz	/m/016t_3
+/location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency	_/education/university/local_tuition./measurement_unit/dated_money_value/currency	_/education/educational_degree/people_with_this_degree./education/education/institution
+-1
+-7.36641810238
+___
+/m/0chghy	/m/09nqf	/m/078bz	/m/03mkk4
+/location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency	_/education/university/local_tuition./measurement_unit/dated_money_value/currency	_/education/educational_degree/people_with_this_degree./education/education/institution
+-1
+-7.36641810238
+___
+/m/0chghy	/m/09nqf	/m/078bz	/m/019v9k
+/location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency	_/education/university/local_tuition./measurement_unit/dated_money_value/currency	_/education/educational_degree/people_with_this_degree./education/education/institution
+-1
+-7.36641810238
+___
+/m/0chghy	/m/09nqf	/m/078bz	/m/02_xgp2
+/location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency	_/education/university/local_tuition./measurement_unit/dated_money_value/currency	_/education/educational_degree/people_with_this_degree./education/education/institution
+-1
+-7.36641810238
+___
+/m/0chghy	/m/09nqf	/m/01p5xy	/m/05k7sb
+/location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency	_/education/university/local_tuition./measurement_unit/dated_money_value/currency	/organization/organization/headquarters./location/mailing_address/state_province_region
+-1
+-7.5189635545
+___
+/m/0chghy	/m/09nqf	/m/01p5xy	/m/083jv
+/location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency	_/education/university/local_tuition./measurement_unit/dated_money_value/currency	/education/educational_institution/colors
+-1
+-7.53061602413
+___
+/m/0chghy	/m/09nqf	/m/01p5xy	/m/04d18d
+/location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency	_/education/university/local_tuition./measurement_unit/dated_money_value/currency	/education/educational_institution/colors
+-1
+-7.53061602413
+___
+/m/0chghy	/m/09nqf	/m/01p5xy	/m/07s6fsf
+/location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency	_/education/university/local_tuition./measurement_unit/dated_money_value/currency	_/education/educational_degree/people_with_this_degree./education/education/institution
+-1
+-7.53468344509
+___
+/m/0chghy	/m/09nqf	/m/01p5xy	/m/02_xgp2
+/location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency	_/education/university/local_tuition./measurement_unit/dated_money_value/currency	_/education/educational_degree/people_with_this_degree./education/education/institution
+-1
+-7.53468344509
+___
+/m/0chghy	/m/09nqf	/m/01p5xy	/m/0bkj86
+/location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency	_/education/university/local_tuition./measurement_unit/dated_money_value/currency	_/education/educational_degree/people_with_this_degree./education/education/institution
+-1
+-7.53468344509
+___
+/m/0chghy	/m/09nqf	/m/01p5xy	/m/04zx3q1
+/location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency	_/education/university/local_tuition./measurement_unit/dated_money_value/currency	_/education/educational_degree/people_with_this_degree./education/education/institution
+-1
+-7.53468344509
+___
+/m/0chghy	/m/09nqf	/m/012fvq	/m/05tbn
+/location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency	_/education/university/local_tuition./measurement_unit/dated_money_value/currency	/organization/organization/headquarters./location/mailing_address/state_province_region
+-1
+-7.60619566738
+___
+/m/0chghy	/m/09nqf	/m/02zccd	/m/04ly1
+/location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency	_/education/university/local_tuition./measurement_unit/dated_money_value/currency	/organization/organization/headquarters./location/mailing_address/state_province_region
+-1
+-7.61473820507
+___
+/m/0chghy	/m/09nqf	/m/012fvq	/m/036k5h
+/location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency	_/education/university/local_tuition./measurement_unit/dated_money_value/currency	/education/educational_institution/colors
+-1
+-7.61784813702
+___
+/m/0chghy	/m/09nqf	/m/012fvq	/m/014mlp
+/location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency	_/education/university/local_tuition./measurement_unit/dated_money_value/currency	_/education/educational_degree/people_with_this_degree./education/education/institution
+-1
+-7.62191555797
+___
+/m/0chghy	/m/09nqf	/m/02zccd	/m/083jv
+/location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency	_/education/university/local_tuition./measurement_unit/dated_money_value/currency	/education/educational_institution/colors
+-1
+-7.6263906747
+___
+/m/0chghy	/m/09nqf	/m/02zccd	/m/014mlp
+/location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency	_/education/university/local_tuition./measurement_unit/dated_money_value/currency	_/education/educational_degree/people_with_this_degree./education/education/institution
+-1
+-7.63045809566
+___
+/m/0chghy	/m/09nqf	/m/02zccd	/m/03bwzr4
+/location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency	_/education/university/local_tuition./measurement_unit/dated_money_value/currency	_/education/educational_degree/people_with_this_degree./education/education/institution
+-1
+-7.63045809566
+___
+/m/0chghy	/m/09nqf	/m/02zccd	/m/028dcg
+/location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency	_/education/university/local_tuition./measurement_unit/dated_money_value/currency	_/education/educational_degree/people_with_this_degree./education/education/institution
+-1
+-7.63045809566
+___
+/m/0chghy	/m/09nqf	/m/0hd7j	/m/04tgp
+/location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency	_/education/university/local_tuition./measurement_unit/dated_money_value/currency	/organization/organization/headquarters./location/mailing_address/state_province_region
+-1
+-7.63978312313
+___
+/m/0chghy	/m/09nqf	/m/0hd7j	/m/01jnf1
+/location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency	_/education/university/local_tuition./measurement_unit/dated_money_value/currency	/education/educational_institution/colors
+-1
+-7.65143559276
+___
+/m/0chghy	/m/09nqf	/m/0hd7j	/m/02h4rq6
+/location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency	_/education/university/local_tuition./measurement_unit/dated_money_value/currency	_/education/educational_degree/people_with_this_degree./education/education/institution
+-1
+-7.65550301372
+___
+/m/0chghy	/m/09nqf	/m/0hd7j	/m/013zdg
+/location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency	_/education/university/local_tuition./measurement_unit/dated_money_value/currency	_/education/educational_degree/people_with_this_degree./education/education/institution
+-1
+-7.65550301372
+___
+/m/0chghy	/m/09nqf	/m/0hd7j	/m/014mlp
+/location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency	_/education/university/local_tuition./measurement_unit/dated_money_value/currency	_/education/educational_degree/people_with_this_degree./education/education/institution
+-1
+-7.65550301372
+___
+/m/0chghy	/m/09nqf	/m/0hd7j	/m/028dcg
+/location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency	_/education/university/local_tuition./measurement_unit/dated_money_value/currency	_/education/educational_degree/people_with_this_degree./education/education/institution
+-1
+-7.65550301372
+___
+/m/0chghy	/m/09nqf	/m/0hd7j	/m/04zx3q1
+/location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency	_/education/university/local_tuition./measurement_unit/dated_money_value/currency	_/education/educational_degree/people_with_this_degree./education/education/institution
+-1
+-7.65550301372
+___
+/m/0chghy	/m/09nqf	/m/0hd7j	/m/016t_3
+/location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency	_/education/university/local_tuition./measurement_unit/dated_money_value/currency	_/education/educational_degree/people_with_this_degree./education/education/institution
+-1
+-7.65550301372
+___
+/m/0chghy	/m/09nqf	/m/0hd7j	/m/03bwzr4
+/location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency	_/education/university/local_tuition./measurement_unit/dated_money_value/currency	_/education/educational_degree/people_with_this_degree./education/education/institution
+-1
+-7.65550301372
+___
+/m/0chghy	/m/09nqf	/m/05cwl_	/m/01n7q
+/location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency	_/education/university/local_tuition./measurement_unit/dated_money_value/currency	/organization/organization/headquarters./location/mailing_address/state_province_region
+-1
+-7.91777489483
+___
+/m/0chghy	/m/09nqf	/m/01jssp	/m/05tbn
+/location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency	_/education/university/local_tuition./measurement_unit/dated_money_value/currency	/organization/organization/headquarters./location/mailing_address/state_province_region
+-1
+-7.92885706722
+___
+/m/0chghy	/m/09nqf	/m/01jssp	/m/01l849
+/location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency	_/education/university/local_tuition./measurement_unit/dated_money_value/currency	/education/educational_institution/colors
+-1
+-7.94050953686
+___
+/m/0chghy	/m/09nqf	/m/01jssp	/m/014mlp
+/location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency	_/education/university/local_tuition./measurement_unit/dated_money_value/currency	_/education/educational_degree/people_with_this_degree./education/education/institution
+-1
+-7.94457648098
+___
+/m/0chghy	/m/09nqf	/m/01jssp	/m/02h4rq6
+/location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency	_/education/university/local_tuition./measurement_unit/dated_money_value/currency	_/education/educational_degree/people_with_this_degree./education/education/institution
+-1
+-7.94457648098
+___
+/m/0chghy	/m/09nqf	/m/01jssp	/m/027f2w
+/location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency	_/education/university/local_tuition./measurement_unit/dated_money_value/currency	_/education/educational_degree/people_with_this_degree./education/education/institution
+-1
+-7.94457648098
+___
+/m/0chghy	/m/09nqf	/m/01jssp	/m/07s6fsf
+/location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency	_/education/university/local_tuition./measurement_unit/dated_money_value/currency	_/education/educational_degree/people_with_this_degree./education/education/institution
+-1
+-7.94457648098
+___
+/m/0chghy	/m/09nqf	/m/01jssp	/m/019v9k
+/location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency	_/education/university/local_tuition./measurement_unit/dated_money_value/currency	_/education/educational_degree/people_with_this_degree./education/education/institution
+-1
+-7.94457648098
+___
+#####################

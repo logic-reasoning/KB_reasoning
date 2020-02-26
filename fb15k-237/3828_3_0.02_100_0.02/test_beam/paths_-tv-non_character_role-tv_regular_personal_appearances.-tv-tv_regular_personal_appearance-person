@@ -1,0 +1,3521 @@
+/m/09jwl	/m/016k62
+Reward:0
+/m/09jwl	/m/014y6	/m/0bdg5	/m/0143hl
+_/people/person/profession	/people/person/places_lived./people/place_lived/location	_/organization/organization/headquarters./location/mailing_address/citytown
+-1
+-8.58121013641
+___
+/m/09jwl	/m/01twmp	/m/0nlh7	/m/0j95
+_/people/person/profession	/people/person/place_of_birth	_/base/aareas/schema/administrative_area/capital
+-1
+-9.3513572216
+___
+/m/09jwl	/m/03m6pk	/m/0m4yg	/m/01nv4h
+_/people/person/profession	_/education/educational_institution/students_graduates./education/education/student	/education/university/domestic_tuition./measurement_unit/dated_money_value/currency
+-1
+-9.82162928581
+___
+/m/09jwl	/m/014y6	/m/053mhx	/m/04jpl
+_/people/person/profession	_/education/educational_institution/students_graduates./education/education/student	/organization/organization/headquarters./location/mailing_address/citytown
+-1
+-9.87659955025
+___
+/m/09jwl	/m/014y6	/m/0bdg5	/m/040dv
+_/people/person/profession	/people/person/places_lived./people/place_lived/location	_/people/person/places_lived./people/place_lived/location
+-1
+-9.96200323105
+___
+/m/09jwl	/m/014y6	/m/0bdg5	/m/07rzf
+_/people/person/profession	/people/person/places_lived./people/place_lived/location	_/people/person/places_lived./people/place_lived/location
+-1
+-9.96200323105
+___
+/m/09jwl	/m/014y6	/m/0bdg5	/m/014y6
+_/people/person/profession	/people/person/places_lived./people/place_lived/location	_/people/person/places_lived./people/place_lived/location
+-1
+-9.96200323105
+___
+/m/09jwl	/m/08n9ng	/m/0d060g	/m/05j49
+_/people/person/profession	/people/person/nationality	_/location/administrative_division/first_level_division_of
+-1
+-10.0138912201
+___
+/m/09jwl	/m/08n9ng	/m/0d060g	/m/059t8
+_/people/person/profession	/people/person/nationality	_/location/administrative_division/first_level_division_of
+-1
+-10.0138912201
+___
+/m/09jwl	/m/08n9ng	/m/080h2	/m/059wk
+_/people/person/profession	/people/person/places_lived./people/place_lived/location	_/organization/organization/headquarters./location/mailing_address/citytown
+-1
+-10.0547511578
+___
+/m/09jwl	/m/08n9ng	/m/080h2	/m/017cy9
+_/people/person/profession	/people/person/places_lived./people/place_lived/location	_/organization/organization/headquarters./location/mailing_address/citytown
+-1
+-10.0547511578
+___
+/m/09jwl	/m/08n9ng	/m/080h2	/m/08t9df
+_/people/person/profession	/people/person/places_lived./people/place_lived/location	_/organization/organization/headquarters./location/mailing_address/citytown
+-1
+-10.0547511578
+___
+/m/09jwl	/m/08n9ng	/m/080h2	/m/06rfy5
+_/people/person/profession	/people/person/places_lived./people/place_lived/location	_/organization/organization/headquarters./location/mailing_address/citytown
+-1
+-10.0547511578
+___
+/m/09jwl	/m/01twmp	/m/0nlh7	/m/02s_qz
+_/people/person/profession	/people/person/place_of_birth	_/people/person/places_lived./people/place_lived/location
+-1
+-10.1288309097
+___
+/m/09jwl	/m/01twmp	/m/0nlh7	/m/0fb7c
+_/people/person/profession	/people/person/place_of_birth	_/people/person/places_lived./people/place_lived/location
+-1
+-10.1288309097
+___
+/m/09jwl	/m/01twmp	/m/0nlh7	/m/01twmp
+_/people/person/profession	/people/person/place_of_birth	_/people/person/places_lived./people/place_lived/location
+-1
+-10.1288309097
+___
+/m/09jwl	/m/01twmp	/m/0nlh7	/m/0hz_1
+_/people/person/profession	/people/person/place_of_birth	_/people/person/places_lived./people/place_lived/location
+-1
+-10.1288309097
+___
+/m/09jwl	/m/014y6	/m/0bdg5	/m/016lv3
+_/people/person/profession	/people/person/places_lived./people/place_lived/location	_/people/person/place_of_birth
+-1
+-10.1831974983
+___
+/m/09jwl	/m/01twmp	/m/0nlh7	/m/0841zn
+_/people/person/profession	/people/person/place_of_birth	_/people/person/place_of_birth
+-1
+-10.2226815224
+___
+/m/09jwl	/m/01twmp	/m/0nlh7	/m/0hz_1
+_/people/person/profession	/people/person/place_of_birth	_/people/person/place_of_birth
+-1
+-10.2226815224
+___
+/m/09jwl	/m/01twmp	/m/0nlh7	/m/02s_qz
+_/people/person/profession	/people/person/place_of_birth	_/people/person/place_of_birth
+-1
+-10.2226815224
+___
+/m/09jwl	/m/01twmp	/m/0nlh7	/m/01twmp
+_/people/person/profession	/people/person/place_of_birth	_/people/person/place_of_birth
+-1
+-10.2226815224
+___
+/m/09jwl	/m/01twmp	/m/0nlh7	/m/01hgwkr
+_/people/person/profession	/people/person/place_of_birth	_/music/artist/origin
+-1
+-10.4158723354
+___
+/m/09jwl	/m/03m6pk	/m/0m4yg	/m/01nv4h
+_/people/person/profession	_/education/educational_institution/students_graduates./education/education/student	/education/university/international_tuition./measurement_unit/dated_money_value/currency
+-1
+-10.5175192356
+___
+/m/09jwl	/m/014y6	/m/053mhx	/m/04z542
+_/people/person/profession	_/education/educational_institution/students_graduates./education/education/student	/education/educational_institution/students_graduates./education/education/student
+-1
+-10.5850551128
+___
+/m/09jwl	/m/014y6	/m/053mhx	/m/0kryqm
+_/people/person/profession	_/education/educational_institution/students_graduates./education/education/student	/education/educational_institution/students_graduates./education/education/student
+-1
+-10.5850551128
+___
+/m/09jwl	/m/014y6	/m/053mhx	/m/01nwwl
+_/people/person/profession	_/education/educational_institution/students_graduates./education/education/student	/education/educational_institution/students_graduates./education/education/student
+-1
+-10.5850551128
+___
+/m/09jwl	/m/014y6	/m/053mhx	/m/0219q
+_/people/person/profession	_/education/educational_institution/students_graduates./education/education/student	/education/educational_institution/students_graduates./education/education/student
+-1
+-10.5850551128
+___
+/m/09jwl	/m/014y6	/m/053mhx	/m/0ywqc
+_/people/person/profession	_/education/educational_institution/students_graduates./education/education/student	/education/educational_institution/students_graduates./education/education/student
+-1
+-10.5850551128
+___
+/m/09jwl	/m/014y6	/m/053mhx	/m/03w4sh
+_/people/person/profession	_/education/educational_institution/students_graduates./education/education/student	/education/educational_institution/students_graduates./education/education/student
+-1
+-10.5850551128
+___
+/m/09jwl	/m/014y6	/m/053mhx	/m/021vwt
+_/people/person/profession	_/education/educational_institution/students_graduates./education/education/student	/education/educational_institution/students_graduates./education/education/student
+-1
+-10.5850551128
+___
+/m/09jwl	/m/014y6	/m/053mhx	/m/02rf1y
+_/people/person/profession	_/education/educational_institution/students_graduates./education/education/student	/education/educational_institution/students_graduates./education/education/student
+-1
+-10.5850551128
+___
+/m/09jwl	/m/014y6	/m/053mhx	/m/01p85y
+_/people/person/profession	_/education/educational_institution/students_graduates./education/education/student	/education/educational_institution/students_graduates./education/education/student
+-1
+-10.5850551128
+___
+/m/09jwl	/m/014y6	/m/053mhx	/m/01c65z
+_/people/person/profession	_/education/educational_institution/students_graduates./education/education/student	/education/educational_institution/students_graduates./education/education/student
+-1
+-10.5850551128
+___
+/m/09jwl	/m/014y6	/m/053mhx	/m/05qsxy
+_/people/person/profession	_/education/educational_institution/students_graduates./education/education/student	/education/educational_institution/students_graduates./education/education/student
+-1
+-10.5850551128
+___
+/m/09jwl	/m/014y6	/m/053mhx	/m/01yk13
+_/people/person/profession	_/education/educational_institution/students_graduates./education/education/student	/education/educational_institution/students_graduates./education/education/student
+-1
+-10.5850551128
+___
+/m/09jwl	/m/014y6	/m/053mhx	/m/01v42g
+_/people/person/profession	_/education/educational_institution/students_graduates./education/education/student	/education/educational_institution/students_graduates./education/education/student
+-1
+-10.5850551128
+___
+/m/09jwl	/m/014y6	/m/053mhx	/m/05typm
+_/people/person/profession	_/education/educational_institution/students_graduates./education/education/student	/education/educational_institution/students_graduates./education/education/student
+-1
+-10.5850551128
+___
+/m/09jwl	/m/014y6	/m/053mhx	/m/02xs5v
+_/people/person/profession	_/education/educational_institution/students_graduates./education/education/student	/education/educational_institution/students_graduates./education/education/student
+-1
+-10.5850551128
+___
+/m/09jwl	/m/014y6	/m/053mhx	/m/014y6
+_/people/person/profession	_/education/educational_institution/students_graduates./education/education/student	/education/educational_institution/students_graduates./education/education/student
+-1
+-10.5850551128
+___
+/m/09jwl	/m/014y6	/m/053mhx	/m/031v3p
+_/people/person/profession	_/education/educational_institution/students_graduates./education/education/student	/education/educational_institution/students_graduates./education/education/student
+-1
+-10.5850551128
+___
+/m/09jwl	/m/014y6	/m/053mhx	/m/02hsgn
+_/people/person/profession	_/education/educational_institution/students_graduates./education/education/student	/education/educational_institution/students_graduates./education/education/student
+-1
+-10.5850551128
+___
+/m/09jwl	/m/03h_yfh	/m/06ch55	/m/014g91
+_/people/person/profession	_/music/instrument/instrumentalists	/music/instrument/instrumentalists
+-1
+-10.7025854588
+___
+/m/09jwl	/m/03h_yfh	/m/06ch55	/m/0197tq
+_/people/person/profession	_/music/instrument/instrumentalists	/music/instrument/instrumentalists
+-1
+-10.7025854588
+___
+/m/09jwl	/m/03h_yfh	/m/06ch55	/m/03f4k
+_/people/person/profession	_/music/instrument/instrumentalists	/music/instrument/instrumentalists
+-1
+-10.7025854588
+___
+/m/09jwl	/m/03h_yfh	/m/06ch55	/m/09hnb
+_/people/person/profession	_/music/instrument/instrumentalists	/music/instrument/instrumentalists
+-1
+-10.7025854588
+___
+/m/09jwl	/m/03h_yfh	/m/06ch55	/m/02pbrn
+_/people/person/profession	_/music/instrument/instrumentalists	/music/instrument/instrumentalists
+-1
+-10.7025854588
+___
+/m/09jwl	/m/03h_yfh	/m/06ch55	/m/03f3_p3
+_/people/person/profession	_/music/instrument/instrumentalists	/music/instrument/instrumentalists
+-1
+-10.7025854588
+___
+/m/09jwl	/m/03h_yfh	/m/06ch55	/m/02ryx0
+_/people/person/profession	_/music/instrument/instrumentalists	/music/instrument/instrumentalists
+-1
+-10.7025854588
+___
+/m/09jwl	/m/03h_yfh	/m/06ch55	/m/026ps1
+_/people/person/profession	_/music/instrument/instrumentalists	/music/instrument/instrumentalists
+-1
+-10.7025854588
+___
+/m/09jwl	/m/03h_yfh	/m/06ch55	/m/0p3sf
+_/people/person/profession	_/music/instrument/instrumentalists	/music/instrument/instrumentalists
+-1
+-10.7025854588
+___
+/m/09jwl	/m/03h_yfh	/m/06ch55	/m/07s3vqk
+_/people/person/profession	_/music/instrument/instrumentalists	/music/instrument/instrumentalists
+-1
+-10.7025854588
+___
+/m/09jwl	/m/03h_yfh	/m/06ch55	/m/0bdlj
+_/people/person/profession	_/music/instrument/instrumentalists	/music/instrument/instrumentalists
+-1
+-10.7025854588
+___
+/m/09jwl	/m/03h_yfh	/m/06ch55	/m/024zq
+_/people/person/profession	_/music/instrument/instrumentalists	/music/instrument/instrumentalists
+-1
+-10.7025854588
+___
+/m/09jwl	/m/03h_yfh	/m/06ch55	/m/01nn3m
+_/people/person/profession	_/music/instrument/instrumentalists	/music/instrument/instrumentalists
+-1
+-10.7025854588
+___
+/m/09jwl	/m/03h_yfh	/m/06ch55	/m/01wg6y
+_/people/person/profession	_/music/instrument/instrumentalists	/music/instrument/instrumentalists
+-1
+-10.7025854588
+___
+/m/09jwl	/m/03h_yfh	/m/06ch55	/m/0cj2w
+_/people/person/profession	_/music/instrument/instrumentalists	/music/instrument/instrumentalists
+-1
+-10.7025854588
+___
+/m/09jwl	/m/03h_yfh	/m/06ch55	/m/028q6
+_/people/person/profession	_/music/instrument/instrumentalists	/music/instrument/instrumentalists
+-1
+-10.7025854588
+___
+/m/09jwl	/m/03h_yfh	/m/06ch55	/m/01dhjz
+_/people/person/profession	_/music/instrument/instrumentalists	/music/instrument/instrumentalists
+-1
+-10.7025854588
+___
+/m/09jwl	/m/03h_yfh	/m/06ch55	/m/03kts
+_/people/person/profession	_/music/instrument/instrumentalists	/music/instrument/instrumentalists
+-1
+-10.7025854588
+___
+/m/09jwl	/m/03h_yfh	/m/06ch55	/m/0fpjd_g
+_/people/person/profession	_/music/instrument/instrumentalists	/music/instrument/instrumentalists
+-1
+-10.7025854588
+___
+/m/09jwl	/m/03h_yfh	/m/06ch55	/m/0b_j2
+_/people/person/profession	_/music/instrument/instrumentalists	/music/instrument/instrumentalists
+-1
+-10.7025854588
+___
+/m/09jwl	/m/03h_yfh	/m/06ch55	/m/03h_yfh
+_/people/person/profession	_/music/instrument/instrumentalists	/music/instrument/instrumentalists
+-1
+-10.7025854588
+___
+/m/09jwl	/m/03h_yfh	/m/06ch55	/m/012ky3
+_/people/person/profession	_/music/instrument/instrumentalists	/music/instrument/instrumentalists
+-1
+-10.7025854588
+___
+/m/09jwl	/m/03m6pk	/m/0m4yg	/m/01nv4h
+_/people/person/profession	_/education/educational_institution/students_graduates./education/education/student	/education/university/local_tuition./measurement_unit/dated_money_value/currency
+-1
+-10.7389509678
+___
+/m/09jwl	/m/03m6pk	/m/0m4yg	/m/0w7c
+_/people/person/profession	_/education/educational_institution/students_graduates./education/education/student	/education/educational_institution/students_graduates./education/education/major_field_of_study
+-1
+-10.9073030949
+___
+/m/09jwl	/m/03m6pk	/m/0m4yg	/m/04rlf
+_/people/person/profession	_/education/educational_institution/students_graduates./education/education/student	/education/educational_institution/students_graduates./education/education/major_field_of_study
+-1
+-10.9073030949
+___
+/m/09jwl	/m/014y6	/m/0bdg5	/m/0pqc5
+_/people/person/profession	/people/person/places_lived./people/place_lived/location	_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office
+-1
+-11.0616095066
+___
+/m/09jwl	/m/08n9ng	/m/080h2	/m/01d26y
+_/people/person/profession	/people/person/places_lived./people/place_lived/location	_/location/location/adjoin_s./location/adjoining_relationship/adjoins
+-1
+-11.089086771
+___
+/m/09jwl	/m/08n9ng	/m/080h2	/m/01d26y
+_/people/person/profession	/people/person/places_lived./people/place_lived/location	/location/location/adjoin_s./location/adjoining_relationship/adjoins
+-1
+-11.2197809219
+___
+/m/09jwl	/m/08n9ng	/m/080h2	/m/0179q0
+_/people/person/profession	/people/person/places_lived./people/place_lived/location	/location/location/adjoin_s./location/adjoining_relationship/adjoins
+-1
+-11.2197809219
+___
+/m/09jwl	/m/03m6pk	/m/0m4yg	/m/01vwbts
+_/people/person/profession	_/education/educational_institution/students_graduates./education/education/student	/education/educational_institution/students_graduates./education/education/student
+-1
+-11.2251377106
+___
+/m/09jwl	/m/03m6pk	/m/0m4yg	/m/07rhpg
+_/people/person/profession	_/education/educational_institution/students_graduates./education/education/student	/education/educational_institution/students_graduates./education/education/student
+-1
+-11.2251377106
+___
+/m/09jwl	/m/03m6pk	/m/0m4yg	/m/01r93l
+_/people/person/profession	_/education/educational_institution/students_graduates./education/education/student	/education/educational_institution/students_graduates./education/education/student
+-1
+-11.2251377106
+___
+/m/09jwl	/m/03m6pk	/m/0m4yg	/m/04shbh
+_/people/person/profession	_/education/educational_institution/students_graduates./education/education/student	/education/educational_institution/students_graduates./education/education/student
+-1
+-11.2251377106
+___
+/m/09jwl	/m/03m6pk	/m/0m4yg	/m/0m31m
+_/people/person/profession	_/education/educational_institution/students_graduates./education/education/student	/education/educational_institution/students_graduates./education/education/student
+-1
+-11.2251377106
+___
+/m/09jwl	/m/03m6pk	/m/0m4yg	/m/02fx3c
+_/people/person/profession	_/education/educational_institution/students_graduates./education/education/student	/education/educational_institution/students_graduates./education/education/student
+-1
+-11.2251377106
+___
+/m/09jwl	/m/03m6pk	/m/0m4yg	/m/02wgln
+_/people/person/profession	_/education/educational_institution/students_graduates./education/education/student	/education/educational_institution/students_graduates./education/education/student
+-1
+-11.2251377106
+___
+/m/09jwl	/m/03m6pk	/m/0m4yg	/m/04pf4r
+_/people/person/profession	_/education/educational_institution/students_graduates./education/education/student	/education/educational_institution/students_graduates./education/education/student
+-1
+-11.2251377106
+___
+/m/09jwl	/m/03m6pk	/m/0m4yg	/m/03p9hl
+_/people/person/profession	_/education/educational_institution/students_graduates./education/education/student	/education/educational_institution/students_graduates./education/education/student
+-1
+-11.2251377106
+___
+/m/09jwl	/m/03m6pk	/m/0m4yg	/m/071ynp
+_/people/person/profession	_/education/educational_institution/students_graduates./education/education/student	/education/educational_institution/students_graduates./education/education/student
+-1
+-11.2251377106
+___
+/m/09jwl	/m/03m6pk	/m/0m4yg	/m/03m6pk
+_/people/person/profession	_/education/educational_institution/students_graduates./education/education/student	/education/educational_institution/students_graduates./education/education/student
+-1
+-11.2251377106
+___
+/m/09jwl	/m/03m6pk	/m/0m4yg	/m/0k269
+_/people/person/profession	_/education/educational_institution/students_graduates./education/education/student	/education/educational_institution/students_graduates./education/education/student
+-1
+-11.2251377106
+___
+/m/09jwl	/m/03m6pk	/m/0m4yg	/m/0cj2w
+_/people/person/profession	_/education/educational_institution/students_graduates./education/education/student	/education/educational_institution/students_graduates./education/education/student
+-1
+-11.2251377106
+___
+/m/09jwl	/m/03m6pk	/m/0m4yg	/m/03jj93
+_/people/person/profession	_/education/educational_institution/students_graduates./education/education/student	/education/educational_institution/students_graduates./education/education/student
+-1
+-11.2251377106
+___
+/m/09jwl	/m/03m6pk	/m/0m4yg	/m/09wj5
+_/people/person/profession	_/education/educational_institution/students_graduates./education/education/student	/education/educational_institution/students_graduates./education/education/student
+-1
+-11.2251377106
+___
+/m/09jwl	/m/03m6pk	/m/0m4yg	/m/0151zx
+_/people/person/profession	_/education/educational_institution/students_graduates./education/education/student	/education/educational_institution/students_graduates./education/education/student
+-1
+-11.2251377106
+___
+/m/09jwl	/m/03m6pk	/m/0m4yg	/m/01xsbh
+_/people/person/profession	_/education/educational_institution/students_graduates./education/education/student	/education/educational_institution/students_graduates./education/education/student
+-1
+-11.2251377106
+___
+/m/09jwl	/m/03m6pk	/m/0m4yg	/m/044mz_
+_/people/person/profession	_/education/educational_institution/students_graduates./education/education/student	/education/educational_institution/students_graduates./education/education/student
+-1
+-11.2251377106
+___
+/m/09jwl	/m/03m6pk	/m/0m4yg	/m/0k7pf
+_/people/person/profession	_/education/educational_institution/students_graduates./education/education/student	/education/educational_institution/students_graduates./education/education/student
+-1
+-11.2251377106
+___
+/m/09jwl	/m/08n9ng	/m/0d060g	/m/015jr
+_/people/person/profession	/people/person/nationality	_/base/aareas/schema/administrative_area/administrative_parent
+-1
+-11.2705874443
+___
+/m/09jwl	/m/08n9ng	/m/0d060g	/m/059t8
+_/people/person/profession	/people/person/nationality	_/base/aareas/schema/administrative_area/administrative_parent
+-1
+-11.2705874443
+___
+/m/09jwl	/m/01twmp	/m/0nlh7	/m/0j95
+_/people/person/profession	/people/person/place_of_birth	/base/biblioness/bibs_location/state
+-1
+-11.3157560825
+___
+/m/09jwl	/m/01twmp	/m/0nlh7	/m/0j95
+_/people/person/profession	/people/person/place_of_birth	/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division
+-1
+-11.3476150036
+___
+/m/09jwl	/m/014y6	/m/030qb3t	/m/024rgt
+_/people/person/profession	/people/person/places_lived./people/place_lived/location	_/organization/organization/headquarters./location/mailing_address/citytown
+-1
+-11.4335291386
+___
+/m/09jwl	/m/014y6	/m/030qb3t	/m/0kc6x
+_/people/person/profession	/people/person/places_lived./people/place_lived/location	_/organization/organization/headquarters./location/mailing_address/citytown
+-1
+-11.4335291386
+___
+/m/09jwl	/m/014y6	/m/030qb3t	/m/0cjdk
+_/people/person/profession	/people/person/places_lived./people/place_lived/location	_/organization/organization/headquarters./location/mailing_address/citytown
+-1
+-11.4335291386
+___
+/m/09jwl	/m/014y6	/m/030qb3t	/m/01bzw5
+_/people/person/profession	/people/person/places_lived./people/place_lived/location	_/organization/organization/headquarters./location/mailing_address/citytown
+-1
+-11.4335291386
+___
+/m/09jwl	/m/014y6	/m/030qb3t	/m/01dtcb
+_/people/person/profession	/people/person/places_lived./people/place_lived/location	_/organization/organization/headquarters./location/mailing_address/citytown
+-1
+-11.4335291386
+___
+/m/09jwl	/m/014y6	/m/030qb3t	/m/05cwl_
+_/people/person/profession	/people/person/places_lived./people/place_lived/location	_/organization/organization/headquarters./location/mailing_address/citytown
+-1
+-11.4335291386
+___
+#####################
+/m/02k13d	/m/05sj55
+Reward:0
+/m/02k13d	/m/04j_gs	/m/09c7b	/m/09c7b
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	/people/person/employment_history./business/employment_tenure/company	NO_OP
+-1
+-6.13284659386
+___
+/m/02k13d	/m/054fvj	/m/05ll37	/m/0frmb1
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	_/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person
+-1
+-6.57122337818
+___
+/m/02k13d	/m/054fvj	/m/05ll37	/m/01svq8
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	_/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person
+-1
+-6.57122337818
+___
+/m/02k13d	/m/01gl9g	/m/01gl9g	/m/0m7yy
+/business/job_title/people_with_this_title./business/employment_tenure/company	NO_OP	_/award/award_category/winners./award/award_honor/award_winner
+-1
+-6.79523742199
+___
+/m/02k13d	/m/01_8w2	/m/0gsgr	/m/02h40lc
+/business/job_title/people_with_this_title./business/employment_tenure/company	_/award/award_winner/awards_won./award/award_honor/award_winner	/base/schemastaging/organization_extra/phone_number./base/schemastaging/phone_sandbox/service_language
+-1
+-7.08870351315
+___
+/m/02k13d	/m/01gl9g	/m/02_l39	/m/02h40lc
+/business/job_title/people_with_this_title./business/employment_tenure/company	_/organization/organization/child./organization/organization_relationship/child	/base/schemastaging/organization_extra/phone_number./base/schemastaging/phone_sandbox/service_language
+-1
+-7.11533260345
+___
+/m/02k13d	/m/01gl9g	/m/01gl9g	/m/02k13d
+/business/job_title/people_with_this_title./business/employment_tenure/company	NO_OP	_/business/job_title/people_with_this_title./business/employment_tenure/company
+-1
+-7.16529238224
+___
+/m/02k13d	/m/054fvj	/m/0747nrk	/m/01hb6v
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	/people/person/profession	_/people/person/profession
+-1
+-7.31075763702
+___
+/m/02k13d	/m/054fvj	/m/0747nrk	/m/08f3b1
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	/people/person/profession	_/people/person/profession
+-1
+-7.31075763702
+___
+/m/02k13d	/m/054fvj	/m/0747nrk	/m/01n4f8
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	/people/person/profession	_/people/person/profession
+-1
+-7.31075763702
+___
+/m/02k13d	/m/054fvj	/m/0747nrk	/m/01j7rd
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	/people/person/profession	_/people/person/profession
+-1
+-7.31075763702
+___
+/m/02k13d	/m/054fvj	/m/0747nrk	/m/01lct6
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	/people/person/profession	_/people/person/profession
+-1
+-7.31075763702
+___
+/m/02k13d	/m/054fvj	/m/0747nrk	/m/03n69x
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	/people/person/profession	_/people/person/profession
+-1
+-7.31075763702
+___
+/m/02k13d	/m/054fvj	/m/0747nrk	/m/0dn44
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	/people/person/profession	_/people/person/profession
+-1
+-7.31075763702
+___
+/m/02k13d	/m/054fvj	/m/0747nrk	/m/01svq8
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	/people/person/profession	_/people/person/profession
+-1
+-7.31075763702
+___
+/m/02k13d	/m/054fvj	/m/0747nrk	/m/01n1gc
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	/people/person/profession	_/people/person/profession
+-1
+-7.31075763702
+___
+/m/02k13d	/m/054fvj	/m/0747nrk	/m/01x4r3
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	/people/person/profession	_/people/person/profession
+-1
+-7.31075763702
+___
+/m/02k13d	/m/054fvj	/m/05ll37	/m/01s7z0
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	_/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	_/people/person/profession
+-1
+-7.41850793362
+___
+/m/02k13d	/m/054fvj	/m/05ll37	/m/08f3b1
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	_/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	_/people/person/profession
+-1
+-7.41850793362
+___
+/m/02k13d	/m/01gl9g	/m/02k13d	/m/0300cp
+/business/job_title/people_with_this_title./business/employment_tenure/company	_/business/job_title/people_with_this_title./business/employment_tenure/company	/business/job_title/people_with_this_title./business/employment_tenure/company
+-1
+-7.43374681473
+___
+/m/02k13d	/m/01gl9g	/m/02k13d	/m/07l1c
+/business/job_title/people_with_this_title./business/employment_tenure/company	_/business/job_title/people_with_this_title./business/employment_tenure/company	/business/job_title/people_with_this_title./business/employment_tenure/company
+-1
+-7.43374681473
+___
+/m/02k13d	/m/01gl9g	/m/02k13d	/m/0gsgr
+/business/job_title/people_with_this_title./business/employment_tenure/company	_/business/job_title/people_with_this_title./business/employment_tenure/company	/business/job_title/people_with_this_title./business/employment_tenure/company
+-1
+-7.43374681473
+___
+/m/02k13d	/m/01gl9g	/m/02k13d	/m/01gl9g
+/business/job_title/people_with_this_title./business/employment_tenure/company	_/business/job_title/people_with_this_title./business/employment_tenure/company	/business/job_title/people_with_this_title./business/employment_tenure/company
+-1
+-7.43374681473
+___
+/m/02k13d	/m/01gl9g	/m/02k13d	/m/05gnf
+/business/job_title/people_with_this_title./business/employment_tenure/company	_/business/job_title/people_with_this_title./business/employment_tenure/company	/business/job_title/people_with_this_title./business/employment_tenure/company
+-1
+-7.43374681473
+___
+/m/02k13d	/m/01gl9g	/m/02k13d	/m/01_8w2
+/business/job_title/people_with_this_title./business/employment_tenure/company	_/business/job_title/people_with_this_title./business/employment_tenure/company	/business/job_title/people_with_this_title./business/employment_tenure/company
+-1
+-7.43374681473
+___
+/m/02k13d	/m/01gl9g	/m/02k13d	/m/0gsg7
+/business/job_title/people_with_this_title./business/employment_tenure/company	_/business/job_title/people_with_this_title./business/employment_tenure/company	/business/job_title/people_with_this_title./business/employment_tenure/company
+-1
+-7.43374681473
+___
+/m/02k13d	/m/01gl9g	/m/02k13d	/m/0cv_2
+/business/job_title/people_with_this_title./business/employment_tenure/company	_/business/job_title/people_with_this_title./business/employment_tenure/company	/business/job_title/people_with_this_title./business/employment_tenure/company
+-1
+-7.43374681473
+___
+/m/02k13d	/m/01gl9g	/m/01gl9g	/m/05fjf
+/business/job_title/people_with_this_title./business/employment_tenure/company	NO_OP	/organization/organization/headquarters./location/mailing_address/state_province_region
+-1
+-7.50355160236
+___
+/m/02k13d	/m/054fvj	/m/029cr	/m/02bjhv
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	/people/person/place_of_birth	_/organization/organization/headquarters./location/mailing_address/citytown
+-1
+-7.56292486191
+___
+/m/02k13d	/m/054fvj	/m/02k13d	/m/05gnf
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	_/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	/business/job_title/people_with_this_title./business/employment_tenure/company
+-1
+-7.56648516655
+___
+/m/02k13d	/m/054fvj	/m/02k13d	/m/0cv_2
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	_/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	/business/job_title/people_with_this_title./business/employment_tenure/company
+-1
+-7.56648516655
+___
+/m/02k13d	/m/054fvj	/m/02k13d	/m/01_8w2
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	_/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	/business/job_title/people_with_this_title./business/employment_tenure/company
+-1
+-7.56648516655
+___
+/m/02k13d	/m/054fvj	/m/02k13d	/m/01gl9g
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	_/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	/business/job_title/people_with_this_title./business/employment_tenure/company
+-1
+-7.56648516655
+___
+/m/02k13d	/m/054fvj	/m/02k13d	/m/0300cp
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	_/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	/business/job_title/people_with_this_title./business/employment_tenure/company
+-1
+-7.56648516655
+___
+/m/02k13d	/m/054fvj	/m/02k13d	/m/0gsg7
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	_/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	/business/job_title/people_with_this_title./business/employment_tenure/company
+-1
+-7.56648516655
+___
+/m/02k13d	/m/054fvj	/m/02k13d	/m/07l1c
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	_/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	/business/job_title/people_with_this_title./business/employment_tenure/company
+-1
+-7.56648516655
+___
+/m/02k13d	/m/054fvj	/m/02k13d	/m/0gsgr
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	_/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	/business/job_title/people_with_this_title./business/employment_tenure/company
+-1
+-7.56648516655
+___
+/m/02k13d	/m/02dh86	/m/0275kr	/m/0ckd1
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	/tv/tv_personality/tv_regular_appearances./tv/tv_regular_personal_appearance/program	/tv/tv_program/tv_producer./tv/tv_producer_term/producer_type
+-1
+-7.76887404919
+___
+/m/02k13d	/m/02dh86	/m/0275kr	/m/02h40lc
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	/tv/tv_personality/tv_regular_appearances./tv/tv_regular_personal_appearance/program	/tv/tv_program/languages
+-1
+-7.82470607758
+___
+/m/02k13d	/m/054fvj	/m/054fvj	/m/0747nrk
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	NO_OP	/people/person/profession
+-1
+-7.82579660416
+___
+/m/02k13d	/m/054fvj	/m/029cr	/m/02bjhv
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	/people/person/places_lived./people/place_lived/location	_/organization/organization/headquarters./location/mailing_address/citytown
+-1
+-7.8438065052
+___
+/m/02k13d	/m/01_8w2	/m/02k13d	/m/01gl9g
+/business/job_title/people_with_this_title./business/employment_tenure/company	_/business/job_title/people_with_this_title./business/employment_tenure/company	/business/job_title/people_with_this_title./business/employment_tenure/company
+-1
+-7.87615013123
+___
+/m/02k13d	/m/01_8w2	/m/02k13d	/m/0gsg7
+/business/job_title/people_with_this_title./business/employment_tenure/company	_/business/job_title/people_with_this_title./business/employment_tenure/company	/business/job_title/people_with_this_title./business/employment_tenure/company
+-1
+-7.87615013123
+___
+/m/02k13d	/m/01_8w2	/m/02k13d	/m/05gnf
+/business/job_title/people_with_this_title./business/employment_tenure/company	_/business/job_title/people_with_this_title./business/employment_tenure/company	/business/job_title/people_with_this_title./business/employment_tenure/company
+-1
+-7.87615013123
+___
+/m/02k13d	/m/01_8w2	/m/02k13d	/m/0300cp
+/business/job_title/people_with_this_title./business/employment_tenure/company	_/business/job_title/people_with_this_title./business/employment_tenure/company	/business/job_title/people_with_this_title./business/employment_tenure/company
+-1
+-7.87615013123
+___
+/m/02k13d	/m/01_8w2	/m/02k13d	/m/0cv_2
+/business/job_title/people_with_this_title./business/employment_tenure/company	_/business/job_title/people_with_this_title./business/employment_tenure/company	/business/job_title/people_with_this_title./business/employment_tenure/company
+-1
+-7.87615013123
+___
+/m/02k13d	/m/01_8w2	/m/02k13d	/m/01_8w2
+/business/job_title/people_with_this_title./business/employment_tenure/company	_/business/job_title/people_with_this_title./business/employment_tenure/company	/business/job_title/people_with_this_title./business/employment_tenure/company
+-1
+-7.87615013123
+___
+/m/02k13d	/m/01_8w2	/m/02k13d	/m/0gsgr
+/business/job_title/people_with_this_title./business/employment_tenure/company	_/business/job_title/people_with_this_title./business/employment_tenure/company	/business/job_title/people_with_this_title./business/employment_tenure/company
+-1
+-7.87615013123
+___
+/m/02k13d	/m/01_8w2	/m/02k13d	/m/07l1c
+/business/job_title/people_with_this_title./business/employment_tenure/company	_/business/job_title/people_with_this_title./business/employment_tenure/company	/business/job_title/people_with_this_title./business/employment_tenure/company
+-1
+-7.87615013123
+___
+/m/02k13d	/m/054fvj	/m/029cr	/m/01gn36
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	/people/person/place_of_birth	_/people/person/places_lived./people/place_lived/location
+-1
+-7.94661426544
+___
+/m/02k13d	/m/054fvj	/m/029cr	/m/01ggc9
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	/people/person/place_of_birth	_/people/person/places_lived./people/place_lived/location
+-1
+-7.94661426544
+___
+/m/02k13d	/m/054fvj	/m/029cr	/m/029ql
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	/people/person/place_of_birth	_/people/person/places_lived./people/place_lived/location
+-1
+-7.94661426544
+___
+/m/02k13d	/m/054fvj	/m/029cr	/m/0c8hct
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	/people/person/place_of_birth	_/people/person/places_lived./people/place_lived/location
+-1
+-7.94661426544
+___
+/m/02k13d	/m/01gl9g	/m/02_l39	/m/02_286
+/business/job_title/people_with_this_title./business/employment_tenure/company	_/organization/organization/child./organization/organization_relationship/child	/organization/organization/headquarters./location/mailing_address/citytown
+-1
+-7.96997857094
+___
+/m/02k13d	/m/01gl9g	/m/05fjf	/m/0xpp5
+/business/job_title/people_with_this_title./business/employment_tenure/company	/organization/organization/headquarters./location/mailing_address/state_province_region	_/base/biblioness/bibs_location/state
+-1
+-7.97998321056
+___
+/m/02k13d	/m/01gl9g	/m/05fjf	/m/0r2l7
+/business/job_title/people_with_this_title./business/employment_tenure/company	/organization/organization/headquarters./location/mailing_address/state_province_region	_/base/biblioness/bibs_location/state
+-1
+-7.97998321056
+___
+/m/02k13d	/m/01gl9g	/m/05fjf	/m/0xkq4
+/business/job_title/people_with_this_title./business/employment_tenure/company	/organization/organization/headquarters./location/mailing_address/state_province_region	_/base/biblioness/bibs_location/state
+-1
+-7.97998321056
+___
+/m/02k13d	/m/01gl9g	/m/05fjf	/m/0hptm
+/business/job_title/people_with_this_title./business/employment_tenure/company	/organization/organization/headquarters./location/mailing_address/state_province_region	_/base/biblioness/bibs_location/state
+-1
+-7.97998321056
+___
+/m/02k13d	/m/01gl9g	/m/05fjf	/m/0fvxz
+/business/job_title/people_with_this_title./business/employment_tenure/company	/organization/organization/headquarters./location/mailing_address/state_province_region	_/base/biblioness/bibs_location/state
+-1
+-7.97998321056
+___
+/m/02k13d	/m/01gl9g	/m/05fjf	/m/0ljsz
+/business/job_title/people_with_this_title./business/employment_tenure/company	/organization/organization/headquarters./location/mailing_address/state_province_region	_/base/biblioness/bibs_location/state
+-1
+-7.97998321056
+___
+/m/02k13d	/m/02dh86	/m/02k13d	/m/0gsg7
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	_/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	/business/job_title/people_with_this_title./business/employment_tenure/company
+-1
+-8.03341174126
+___
+/m/02k13d	/m/02dh86	/m/02k13d	/m/01_8w2
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	_/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	/business/job_title/people_with_this_title./business/employment_tenure/company
+-1
+-8.03341174126
+___
+/m/02k13d	/m/02dh86	/m/02k13d	/m/0cv_2
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	_/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	/business/job_title/people_with_this_title./business/employment_tenure/company
+-1
+-8.03341174126
+___
+/m/02k13d	/m/02dh86	/m/02k13d	/m/07l1c
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	_/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	/business/job_title/people_with_this_title./business/employment_tenure/company
+-1
+-8.03341174126
+___
+/m/02k13d	/m/02dh86	/m/02k13d	/m/05gnf
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	_/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	/business/job_title/people_with_this_title./business/employment_tenure/company
+-1
+-8.03341174126
+___
+/m/02k13d	/m/02dh86	/m/02k13d	/m/0gsgr
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	_/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	/business/job_title/people_with_this_title./business/employment_tenure/company
+-1
+-8.03341174126
+___
+/m/02k13d	/m/02dh86	/m/02k13d	/m/0300cp
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	_/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	/business/job_title/people_with_this_title./business/employment_tenure/company
+-1
+-8.03341174126
+___
+/m/02k13d	/m/02dh86	/m/02k13d	/m/01gl9g
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	_/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	/business/job_title/people_with_this_title./business/employment_tenure/company
+-1
+-8.03341174126
+___
+/m/02k13d	/m/01_8w2	/m/0gsgr	/m/013yq
+/business/job_title/people_with_this_title./business/employment_tenure/company	_/award/award_winner/awards_won./award/award_honor/award_winner	/organization/organization/headquarters./location/mailing_address/citytown
+-1
+-8.06148934364
+___
+/m/02k13d	/m/04j_gs	/m/02k13d	/m/07l1c
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	_/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	/business/job_title/people_with_this_title./business/employment_tenure/company
+-1
+-8.06689763069
+___
+/m/02k13d	/m/04j_gs	/m/02k13d	/m/0gsg7
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	_/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	/business/job_title/people_with_this_title./business/employment_tenure/company
+-1
+-8.06689763069
+___
+/m/02k13d	/m/04j_gs	/m/02k13d	/m/0gsgr
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	_/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	/business/job_title/people_with_this_title./business/employment_tenure/company
+-1
+-8.06689763069
+___
+/m/02k13d	/m/04j_gs	/m/02k13d	/m/0300cp
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	_/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	/business/job_title/people_with_this_title./business/employment_tenure/company
+-1
+-8.06689763069
+___
+/m/02k13d	/m/04j_gs	/m/02k13d	/m/0cv_2
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	_/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	/business/job_title/people_with_this_title./business/employment_tenure/company
+-1
+-8.06689763069
+___
+/m/02k13d	/m/04j_gs	/m/02k13d	/m/01_8w2
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	_/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	/business/job_title/people_with_this_title./business/employment_tenure/company
+-1
+-8.06689763069
+___
+/m/02k13d	/m/04j_gs	/m/02k13d	/m/05gnf
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	_/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	/business/job_title/people_with_this_title./business/employment_tenure/company
+-1
+-8.06689763069
+___
+/m/02k13d	/m/04j_gs	/m/02k13d	/m/01gl9g
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	_/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	/business/job_title/people_with_this_title./business/employment_tenure/company
+-1
+-8.06689763069
+___
+/m/02k13d	/m/054fvj	/m/054fvj	/m/0jm_
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	NO_OP	_/sports/sport/pro_athletes./sports/pro_sports_played/athlete
+-1
+-8.09585499763
+___
+/m/02k13d	/m/054fvj	/m/029cr	/m/0hvb2
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	/people/person/place_of_birth	_/people/person/place_of_birth
+-1
+-8.10718941689
+___
+/m/02k13d	/m/054fvj	/m/029cr	/m/0c8hct
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	/people/person/place_of_birth	_/people/person/place_of_birth
+-1
+-8.10718941689
+___
+/m/02k13d	/m/01gl9g	/m/02_l39	/m/03qh03g
+/business/job_title/people_with_this_title./business/employment_tenure/company	_/organization/organization/child./organization/organization_relationship/child	/business/business_operation/industry
+-1
+-8.12673091888
+___
+/m/02k13d	/m/054fvj	/m/029cr	/m/01gn36
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	/people/person/places_lived./people/place_lived/location	_/people/person/places_lived./people/place_lived/location
+-1
+-8.13156604767
+___
+/m/02k13d	/m/054fvj	/m/029cr	/m/0c8hct
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	/people/person/places_lived./people/place_lived/location	_/people/person/places_lived./people/place_lived/location
+-1
+-8.13156604767
+___
+/m/02k13d	/m/054fvj	/m/029cr	/m/01ggc9
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	/people/person/places_lived./people/place_lived/location	_/people/person/places_lived./people/place_lived/location
+-1
+-8.13156604767
+___
+/m/02k13d	/m/054fvj	/m/029cr	/m/029ql
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	/people/person/places_lived./people/place_lived/location	_/people/person/places_lived./people/place_lived/location
+-1
+-8.13156604767
+___
+/m/02k13d	/m/02dh86	/m/0225bv	/m/09nqf
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	_/education/educational_institution/students_graduates./education/education/student	/education/university/domestic_tuition./measurement_unit/dated_money_value/currency
+-1
+-8.15120959282
+___
+/m/02k13d	/m/054fvj	/m/029cr	/m/029cr
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	/people/person/place_of_birth	_/location/hud_county_place/place
+-1
+-8.17105436325
+___
+/m/02k13d	/m/02dh86	/m/0275kr	/m/09c7w0
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	/tv/tv_personality/tv_regular_appearances./tv/tv_regular_personal_appearance/program	/tv/tv_program/country_of_origin
+-1
+-8.20621132851
+___
+/m/02k13d	/m/01gl9g	/m/02_l39	/m/09nqf
+/business/job_title/people_with_this_title./business/employment_tenure/company	_/organization/organization/child./organization/organization_relationship/child	/business/business_operation/revenue./measurement_unit/dated_money_value/currency
+-1
+-8.24762177467
+___
+/m/02k13d	/m/02dh86	/m/0225bv	/m/019sc
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	_/education/educational_institution/students_graduates./education/education/student	/education/educational_institution/colors
+-1
+-8.2518029213
+___
+/m/02k13d	/m/02dh86	/m/0225bv	/m/06fvc
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	_/education/educational_institution/students_graduates./education/education/student	/education/educational_institution/colors
+-1
+-8.2518029213
+___
+/m/02k13d	/m/054fvj	/m/029cr	/m/0c8hct
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	/people/person/places_lived./people/place_lived/location	_/people/person/place_of_birth
+-1
+-8.25548100471
+___
+/m/02k13d	/m/054fvj	/m/029cr	/m/0hvb2
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	/people/person/places_lived./people/place_lived/location	_/people/person/place_of_birth
+-1
+-8.25548100471
+___
+/m/02k13d	/m/04crrxr	/m/02k13d	/m/05gnf
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	_/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	/business/job_title/people_with_this_title./business/employment_tenure/company
+-1
+-8.27982020378
+___
+/m/02k13d	/m/04crrxr	/m/02k13d	/m/01gl9g
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	_/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	/business/job_title/people_with_this_title./business/employment_tenure/company
+-1
+-8.27982020378
+___
+/m/02k13d	/m/04crrxr	/m/02k13d	/m/0cv_2
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	_/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	/business/job_title/people_with_this_title./business/employment_tenure/company
+-1
+-8.27982020378
+___
+/m/02k13d	/m/04crrxr	/m/02k13d	/m/01_8w2
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	_/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	/business/job_title/people_with_this_title./business/employment_tenure/company
+-1
+-8.27982020378
+___
+/m/02k13d	/m/04crrxr	/m/02k13d	/m/0gsgr
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	_/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	/business/job_title/people_with_this_title./business/employment_tenure/company
+-1
+-8.27982020378
+___
+/m/02k13d	/m/04crrxr	/m/02k13d	/m/0gsg7
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	_/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	/business/job_title/people_with_this_title./business/employment_tenure/company
+-1
+-8.27982020378
+___
+/m/02k13d	/m/04crrxr	/m/02k13d	/m/0300cp
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	_/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	/business/job_title/people_with_this_title./business/employment_tenure/company
+-1
+-8.27982020378
+___
+#####################
+/m/043q4d	/m/0163t3
+Reward:0
+/m/043q4d	/m/035wq7	/m/043q4d	/m/043q4d
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	_/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	NO_OP
+-1
+-6.38460063934
+___
+/m/043q4d	/m/0hfml	/m/0htp	/m/0sxgv
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	/people/person/profession	/film/film_subject/films
+-1
+-6.72247189283
+___
+/m/043q4d	/m/0hfml	/m/04qy5	/m/0bymv
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	_/award/award_category/winners./award/award_honor/award_winner	/award/award_category/winners./award/award_honor/award_winner
+-1
+-7.91176629066
+___
+/m/043q4d	/m/0hfml	/m/04qy5	/m/08_hns
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	_/award/award_category/winners./award/award_honor/award_winner	/award/award_category/winners./award/award_honor/award_winner
+-1
+-7.91176629066
+___
+/m/043q4d	/m/0hfml	/m/04qy5	/m/012vct
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	_/award/award_category/winners./award/award_honor/award_winner	/award/award_category/winners./award/award_honor/award_winner
+-1
+-7.91176629066
+___
+/m/043q4d	/m/010p3	/m/019x4f	/m/0c0k1
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	/people/person/profession	_/people/person/profession
+-1
+-7.99955952168
+___
+/m/043q4d	/m/010p3	/m/019x4f	/m/02nb2s
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	/people/person/profession	_/people/person/profession
+-1
+-7.99955952168
+___
+/m/043q4d	/m/010p3	/m/019x4f	/m/045m1_
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	/people/person/profession	_/people/person/profession
+-1
+-7.99955952168
+___
+/m/043q4d	/m/010p3	/m/019x4f	/m/04n7gc6
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	/people/person/profession	_/people/person/profession
+-1
+-7.99955952168
+___
+/m/043q4d	/m/035wq7	/m/06hwzy	/m/0ckd1
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	/tv/tv_personality/tv_regular_appearances./tv/tv_regular_personal_appearance/program	/tv/tv_program/tv_producer./tv/tv_producer_term/producer_type
+-1
+-8.20149803162
+___
+/m/043q4d	/m/0hfml	/m/0htp	/m/0htp
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	/people/person/profession	NO_OP
+-1
+-8.20165252686
+___
+/m/043q4d	/m/035wq7	/m/06hwzy	/m/02h40lc
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	/tv/tv_personality/tv_regular_appearances./tv/tv_regular_personal_appearance/program	/tv/tv_program/languages
+-1
+-8.25733006001
+___
+/m/043q4d	/m/035wq7	/m/035wq7	/m/04ztj
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	NO_OP	/people/person/spouse_s./people/marriage/type_of_union
+-1
+-8.54697394371
+___
+/m/043q4d	/m/035wq7	/m/035wq7	/m/02hrh1q
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	NO_OP	/people/person/profession
+-1
+-8.60264027119
+___
+/m/043q4d	/m/035wq7	/m/06hwzy	/m/09c7w0
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	/tv/tv_personality/tv_regular_appearances./tv/tv_regular_personal_appearance/program	/tv/tv_program/country_of_origin
+-1
+-8.63883519173
+___
+/m/043q4d	/m/035wq7	/m/06hwzy	/m/06ntj
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	/tv/tv_personality/tv_regular_appearances./tv/tv_regular_personal_appearance/program	/tv/tv_program/genre
+-1
+-8.74169945717
+___
+/m/043q4d	/m/035wq7	/m/02dq8f	/m/09nqf
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	_/education/educational_institution/students_graduates./education/education/student	/education/university/domestic_tuition./measurement_unit/dated_money_value/currency
+-1
+-8.96756887436
+___
+/m/043q4d	/m/035wq7	/m/06wzvr	/m/02h40lc
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	/film/actor/film./film/performance/film	/film/film/language
+-1
+-8.99611592293
+___
+/m/043q4d	/m/035wq7	/m/06hwzy	/m/0gsg7
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	/tv/tv_personality/tv_regular_appearances./tv/tv_regular_personal_appearance/program	_/tv/tv_network/programs./tv/tv_network_duration/program
+-1
+-9.01247096062
+___
+/m/043q4d	/m/035wq7	/m/06hwzy	/m/0hm10
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	/tv/tv_personality/tv_regular_appearances./tv/tv_regular_personal_appearance/program	_/tv/tv_network/programs./tv/tv_network_duration/program
+-1
+-9.01247096062
+___
+/m/043q4d	/m/035wq7	/m/0gxsh4	/m/0ckd1
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	/award/award_nominee/award_nominations./award/award_nomination/nominated_for	/tv/tv_program/tv_producer./tv/tv_producer_term/producer_type
+-1
+-9.03152275085
+___
+/m/043q4d	/m/012_53	/m/06fc0b	/m/01d_h8
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	_/base/popstra/celebrity/canoodled./base/popstra/canoodled/participant	/people/person/profession
+-1
+-9.05462956429
+___
+/m/043q4d	/m/035wq7	/m/02dq8f	/m/09ggk
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	_/education/educational_institution/students_graduates./education/education/student	/education/educational_institution/colors
+-1
+-9.06816220284
+___
+/m/043q4d	/m/035wq7	/m/02dq8f	/m/01l849
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	_/education/educational_institution/students_graduates./education/education/student	/education/educational_institution/colors
+-1
+-9.06816220284
+___
+/m/043q4d	/m/01yznp	/m/03sbb	/m/019r_1
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	/people/person/profession	_/people/person/profession
+-1
+-9.07036566734
+___
+/m/043q4d	/m/01yznp	/m/03sbb	/m/07bty
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	/people/person/profession	_/people/person/profession
+-1
+-9.07036566734
+___
+/m/043q4d	/m/01yznp	/m/03sbb	/m/05d1y
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	/people/person/profession	_/people/person/profession
+-1
+-9.07036566734
+___
+/m/043q4d	/m/01yznp	/m/03sbb	/m/06bng
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	/people/person/profession	_/people/person/profession
+-1
+-9.07036566734
+___
+/m/043q4d	/m/01yznp	/m/03sbb	/m/07cbs
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	/people/person/profession	_/people/person/profession
+-1
+-9.07036566734
+___
+/m/043q4d	/m/01yznp	/m/03sbb	/m/01vsksr
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	/people/person/profession	_/people/person/profession
+-1
+-9.07036566734
+___
+/m/043q4d	/m/01yznp	/m/03sbb	/m/0klw
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	/people/person/profession	_/people/person/profession
+-1
+-9.07036566734
+___
+/m/043q4d	/m/01yznp	/m/03sbb	/m/03_gd
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	/people/person/profession	_/people/person/profession
+-1
+-9.07036566734
+___
+/m/043q4d	/m/01yznp	/m/03sbb	/m/06y3r
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	/people/person/profession	_/people/person/profession
+-1
+-9.07036566734
+___
+/m/043q4d	/m/01yznp	/m/03sbb	/m/071jrc
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	/people/person/profession	_/people/person/profession
+-1
+-9.07036566734
+___
+/m/043q4d	/m/01yznp	/m/03sbb	/m/04lg6
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	/people/person/profession	_/people/person/profession
+-1
+-9.07036566734
+___
+/m/043q4d	/m/012_53	/m/06fc0b	/m/04fzk
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	_/base/popstra/celebrity/canoodled./base/popstra/canoodled/participant	_/base/popstra/celebrity/canoodled./base/popstra/canoodled/participant
+-1
+-9.14605402946
+___
+/m/043q4d	/m/012_53	/m/06fc0b	/m/0227vl
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	_/base/popstra/celebrity/canoodled./base/popstra/canoodled/participant	_/base/popstra/celebrity/canoodled./base/popstra/canoodled/participant
+-1
+-9.14605402946
+___
+/m/043q4d	/m/012_53	/m/06fc0b	/m/01pgzn_
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	_/base/popstra/celebrity/canoodled./base/popstra/canoodled/participant	_/base/popstra/celebrity/canoodled./base/popstra/canoodled/participant
+-1
+-9.14605402946
+___
+/m/043q4d	/m/035wq7	/m/035wq7	/m/043q4d
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	NO_OP	_/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person
+-1
+-9.15082335472
+___
+/m/043q4d	/m/035wq7	/m/035wq7	/m/02dq8f
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	NO_OP	_/education/educational_institution/students_graduates./education/education/student
+-1
+-9.20949029922
+___
+/m/043q4d	/m/0253b6	/m/0641kkh	/m/01vs_v8
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	/award/award_nominee/award_nominations./award/award_nomination/award	_/award/award_nominee/award_nominations./award/award_nomination/award
+-1
+-9.2324898243
+___
+/m/043q4d	/m/0253b6	/m/0641kkh	/m/01hcj2
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	/award/award_nominee/award_nominations./award/award_nomination/award	_/award/award_nominee/award_nominations./award/award_nomination/award
+-1
+-9.2324898243
+___
+/m/043q4d	/m/0253b6	/m/0641kkh	/m/0btpx
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	/award/award_nominee/award_nominations./award/award_nomination/award	_/award/award_nominee/award_nominations./award/award_nomination/award
+-1
+-9.2324898243
+___
+/m/043q4d	/m/0253b6	/m/0641kkh	/m/0gbwp
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	/award/award_nominee/award_nominations./award/award_nomination/award	_/award/award_nominee/award_nominations./award/award_nomination/award
+-1
+-9.2324898243
+___
+/m/043q4d	/m/0253b6	/m/0641kkh	/m/0j5q3
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	/award/award_nominee/award_nominations./award/award_nomination/award	_/award/award_nominee/award_nominations./award/award_nomination/award
+-1
+-9.2324898243
+___
+/m/043q4d	/m/0253b6	/m/0641kkh	/m/03knl
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	/award/award_nominee/award_nominations./award/award_nomination/award	_/award/award_nominee/award_nominations./award/award_nomination/award
+-1
+-9.2324898243
+___
+/m/043q4d	/m/0253b6	/m/0641kkh	/m/0bksh
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	/award/award_nominee/award_nominations./award/award_nomination/award	_/award/award_nominee/award_nominations./award/award_nomination/award
+-1
+-9.2324898243
+___
+/m/043q4d	/m/0253b6	/m/0641kkh	/m/046zh
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	/award/award_nominee/award_nominations./award/award_nomination/award	_/award/award_nominee/award_nominations./award/award_nomination/award
+-1
+-9.2324898243
+___
+/m/043q4d	/m/035wq7	/m/06wzvr	/m/07bdd_
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	/film/actor/film./film/performance/film	/award/award_winning_work/awards_won./award/award_honor/award
+-1
+-9.23680782318
+___
+/m/043q4d	/m/035wq7	/m/06wzvr	/m/09nqf
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	/film/actor/film./film/performance/film	/film/film/estimated_budget./measurement_unit/dated_money_value/currency
+-1
+-9.26750254631
+___
+/m/043q4d	/m/012_53	/m/06fc0b	/m/01d_h8
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	/base/popstra/celebrity/canoodled./base/popstra/canoodled/participant	/people/person/profession
+-1
+-9.33321619034
+___
+/m/043q4d	/m/035wq7	/m/06wzvr	/m/05b1610
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	/film/actor/film./film/performance/film	_/award/award_category/nominees./award/award_nomination/nominated_for
+-1
+-9.33763885498
+___
+/m/043q4d	/m/035wq7	/m/06wzvr	/m/05f4m9q
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	/film/actor/film./film/performance/film	_/award/award_category/nominees./award/award_nomination/nominated_for
+-1
+-9.33763885498
+___
+/m/043q4d	/m/035wq7	/m/06wzvr	/m/05b4l5x
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	/film/actor/film./film/performance/film	_/award/award_category/nominees./award/award_nomination/nominated_for
+-1
+-9.33763885498
+___
+/m/043q4d	/m/035wq7	/m/06wzvr	/m/07cbcy
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	/film/actor/film./film/performance/film	_/award/award_category/nominees./award/award_nomination/nominated_for
+-1
+-9.33763885498
+___
+/m/043q4d	/m/035wq7	/m/06wzvr	/m/03c7tr1
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	/film/actor/film./film/performance/film	_/award/award_category/nominees./award/award_nomination/nominated_for
+-1
+-9.33763885498
+___
+/m/043q4d	/m/035wq7	/m/02dq8f	/m/05jxkf
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	_/education/educational_institution/students_graduates./education/education/student	/education/educational_institution/school_type
+-1
+-9.35601878166
+___
+/m/043q4d	/m/012_53	/m/06fc0b	/m/01pgzn_
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	/base/popstra/celebrity/canoodled./base/popstra/canoodled/participant	_/base/popstra/celebrity/canoodled./base/popstra/canoodled/participant
+-1
+-9.35728621483
+___
+/m/043q4d	/m/012_53	/m/06fc0b	/m/04fzk
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	/base/popstra/celebrity/canoodled./base/popstra/canoodled/participant	_/base/popstra/celebrity/canoodled./base/popstra/canoodled/participant
+-1
+-9.35728621483
+___
+/m/043q4d	/m/012_53	/m/06fc0b	/m/0227vl
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	/base/popstra/celebrity/canoodled./base/popstra/canoodled/participant	_/base/popstra/celebrity/canoodled./base/popstra/canoodled/participant
+-1
+-9.35728621483
+___
+/m/043q4d	/m/012_53	/m/06fc0b	/m/04fzk
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	_/base/popstra/celebrity/canoodled./base/popstra/canoodled/participant	/base/popstra/celebrity/canoodled./base/popstra/canoodled/participant
+-1
+-9.38268518448
+___
+/m/043q4d	/m/012_53	/m/06fc0b	/m/01pgzn_
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	_/base/popstra/celebrity/canoodled./base/popstra/canoodled/participant	/base/popstra/celebrity/canoodled./base/popstra/canoodled/participant
+-1
+-9.38268518448
+___
+/m/043q4d	/m/035wq7	/m/035wq7	/m/0cr3d
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	NO_OP	/people/person/places_lived./people/place_lived/location
+-1
+-9.39606308937
+___
+/m/043q4d	/m/035wq7	/m/06wzvr	/m/026z9
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	/film/actor/film./film/performance/film	_/media_common/netflix_genre/titles
+-1
+-9.41711139679
+___
+/m/043q4d	/m/035wq7	/m/06wzvr	/m/04t36
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	/film/actor/film./film/performance/film	_/media_common/netflix_genre/titles
+-1
+-9.41711139679
+___
+/m/043q4d	/m/035wq7	/m/035wq7	/m/06hwzy
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	NO_OP	/tv/tv_personality/tv_regular_appearances./tv/tv_regular_personal_appearance/program
+-1
+-9.42693448067
+___
+/m/043q4d	/m/012_53	/m/06fc0b	/m/09nqf
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	_/base/popstra/celebrity/canoodled./base/popstra/canoodled/participant	/base/schemastaging/person_extra/net_worth./measurement_unit/dated_money_value/currency
+-1
+-9.43743348122
+___
+/m/043q4d	/m/012_53	/m/06fc0b	/m/04fzk
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	/base/popstra/celebrity/canoodled./base/popstra/canoodled/participant	/base/popstra/celebrity/canoodled./base/popstra/canoodled/participant
+-1
+-9.46073317528
+___
+/m/043q4d	/m/012_53	/m/06fc0b	/m/01pgzn_
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	/base/popstra/celebrity/canoodled./base/popstra/canoodled/participant	/base/popstra/celebrity/canoodled./base/popstra/canoodled/participant
+-1
+-9.46073317528
+___
+/m/043q4d	/m/035wq7	/m/035wq7	/m/09c7w0
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	NO_OP	/people/person/nationality
+-1
+-9.46284604073
+___
+/m/043q4d	/m/035wq7	/m/0gxsh4	/m/0pr6f
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	/award/award_nominee/award_nominations./award/award_nomination/nominated_for	/tv/tv_program/genre
+-1
+-9.47616624832
+___
+/m/043q4d	/m/035wq7	/m/02dq8f	/m/09nqf
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	_/education/educational_institution/students_graduates./education/education/student	/education/university/local_tuition./measurement_unit/dated_money_value/currency
+-1
+-9.4807035923
+___
+/m/043q4d	/m/035wq7	/m/02dq8f	/m/09nqf
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	_/education/educational_institution/students_graduates./education/education/student	/organization/endowed_organization/endowment./measurement_unit/dated_money_value/currency
+-1
+-9.49207401276
+___
+/m/043q4d	/m/035wq7	/m/0gxsh4	/m/09c7w0
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	/award/award_nominee/award_nominations./award/award_nomination/nominated_for	/tv/tv_program/country_of_origin
+-1
+-9.49481391907
+___
+/m/043q4d	/m/03xx9l	/m/09lvl1	/m/02gyl0
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	/award/award_nominee/award_nominations./award/award_nomination/award	_/award/award_nominee/award_nominations./award/award_nomination/award
+-1
+-9.51351714134
+___
+/m/043q4d	/m/03xx9l	/m/09lvl1	/m/02t__l
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	/award/award_nominee/award_nominations./award/award_nomination/award	_/award/award_nominee/award_nominations./award/award_nomination/award
+-1
+-9.51351714134
+___
+/m/043q4d	/m/03xx9l	/m/09lvl1	/m/01v6480
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	/award/award_nominee/award_nominations./award/award_nomination/award	_/award/award_nominee/award_nominations./award/award_nomination/award
+-1
+-9.51351714134
+___
+/m/043q4d	/m/03xx9l	/m/09lvl1	/m/03pmzt
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	/award/award_nominee/award_nominations./award/award_nomination/award	_/award/award_nominee/award_nominations./award/award_nomination/award
+-1
+-9.51351714134
+___
+/m/043q4d	/m/03xx9l	/m/09lvl1	/m/05dbyt
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	/award/award_nominee/award_nominations./award/award_nomination/award	_/award/award_nominee/award_nominations./award/award_nomination/award
+-1
+-9.51351714134
+___
+/m/043q4d	/m/03xx9l	/m/09lvl1	/m/02sjf5
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	/award/award_nominee/award_nominations./award/award_nomination/award	_/award/award_nominee/award_nominations./award/award_nomination/award
+-1
+-9.51351714134
+___
+/m/043q4d	/m/03xx9l	/m/09lvl1	/m/01wb8bs
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	/award/award_nominee/award_nominations./award/award_nomination/award	_/award/award_nominee/award_nominations./award/award_nomination/award
+-1
+-9.51351714134
+___
+/m/043q4d	/m/03xx9l	/m/09lvl1	/m/04twmk
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	/award/award_nominee/award_nominations./award/award_nomination/award	_/award/award_nominee/award_nominations./award/award_nomination/award
+-1
+-9.51351714134
+___
+/m/043q4d	/m/03xx9l	/m/09lvl1	/m/01d0b1
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	/award/award_nominee/award_nominations./award/award_nomination/award	_/award/award_nominee/award_nominations./award/award_nomination/award
+-1
+-9.51351714134
+___
+/m/043q4d	/m/03xx9l	/m/09lvl1	/m/01nvmd_
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	/award/award_nominee/award_nominations./award/award_nomination/award	_/award/award_nominee/award_nominations./award/award_nomination/award
+-1
+-9.51351714134
+___
+/m/043q4d	/m/03xx9l	/m/09lvl1	/m/01vh18t
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	/award/award_nominee/award_nominations./award/award_nomination/award	_/award/award_nominee/award_nominations./award/award_nomination/award
+-1
+-9.51351714134
+___
+/m/043q4d	/m/03xx9l	/m/09lvl1	/m/01gbn6
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	/award/award_nominee/award_nominations./award/award_nomination/award	_/award/award_nominee/award_nominations./award/award_nomination/award
+-1
+-9.51351714134
+___
+/m/043q4d	/m/03xx9l	/m/09lvl1	/m/01vb403
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	/award/award_nominee/award_nominations./award/award_nomination/award	_/award/award_nominee/award_nominations./award/award_nomination/award
+-1
+-9.51351714134
+___
+/m/043q4d	/m/035wq7	/m/02dq8f	/m/0dq16
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	_/education/educational_institution/students_graduates./education/education/student	/organization/organization/headquarters./location/mailing_address/citytown
+-1
+-9.52662062645
+___
+/m/043q4d	/m/035wq7	/m/06wzvr	/m/01q03
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	/film/actor/film./film/performance/film	/film/film/genre
+-1
+-9.54060173035
+___
+/m/043q4d	/m/035wq7	/m/06wzvr	/m/05p553
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	/film/actor/film./film/performance/film	/film/film/genre
+-1
+-9.54060173035
+___
+/m/043q4d	/m/035wq7	/m/06wzvr	/m/09c7w0
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	/film/actor/film./film/performance/film	/film/film/country
+-1
+-9.56245017052
+___
+/m/043q4d	/m/035wq7	/m/035wq7	/m/05zppz
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	NO_OP	/people/person/gender
+-1
+-9.56485438347
+___
+/m/043q4d	/m/035wq7	/m/035wq7	/m/06wzvr
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	NO_OP	/film/actor/film./film/performance/film
+-1
+-9.56520390511
+___
+/m/043q4d	/m/012_53	/m/06fc0b	/m/01d34b
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	_/base/popstra/celebrity/canoodled./base/popstra/canoodled/participant	_/education/educational_institution/students_graduates./education/education/student
+-1
+-9.58201122284
+___
+/m/043q4d	/m/035wq7	/m/06hwzy	/m/06hwzy
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	/tv/tv_personality/tv_regular_appearances./tv/tv_regular_personal_appearance/program	NO_OP
+-1
+-9.606310606
+___
+/m/043q4d	/m/035wq7	/m/035wq7	/m/048z7l
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	NO_OP	_/people/ethnicity/people
+-1
+-9.60715675354
+___
+/m/043q4d	/m/035wq7	/m/02dq8f	/m/02jfc
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	_/education/educational_institution/students_graduates./education/education/student	/education/educational_institution/students_graduates./education/education/major_field_of_study
+-1
+-9.61980891228
+___
+/m/043q4d	/m/035wq7	/m/02dq8f	/m/06ms6
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	_/education/educational_institution/students_graduates./education/education/student	/education/educational_institution/students_graduates./education/education/major_field_of_study
+-1
+-9.61980891228
+___
+/m/043q4d	/m/035wq7	/m/02dq8f	/m/01mkq
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	_/education/educational_institution/students_graduates./education/education/student	/education/educational_institution/students_graduates./education/education/major_field_of_study
+-1
+-9.61980891228
+___
+/m/043q4d	/m/035wq7	/m/02dq8f	/m/04rjg
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	_/education/educational_institution/students_graduates./education/education/student	/education/educational_institution/students_graduates./education/education/major_field_of_study
+-1
+-9.61980891228
+___
+#####################
+/m/043q4d	/m/0ck91
+Reward:0
+/m/043q4d	/m/035wq7	/m/043q4d	/m/043q4d
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	_/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	NO_OP
+-1
+-6.38460063934
+___
+/m/043q4d	/m/0hfml	/m/0htp	/m/0sxgv
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	/people/person/profession	/film/film_subject/films
+-1
+-6.72247189283
+___
+/m/043q4d	/m/0hfml	/m/04qy5	/m/08_hns
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	_/award/award_category/winners./award/award_honor/award_winner	/award/award_category/winners./award/award_honor/award_winner
+-1
+-7.91176629066
+___
+/m/043q4d	/m/0hfml	/m/04qy5	/m/012vct
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	_/award/award_category/winners./award/award_honor/award_winner	/award/award_category/winners./award/award_honor/award_winner
+-1
+-7.91176629066
+___
+/m/043q4d	/m/0hfml	/m/04qy5	/m/0bymv
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	_/award/award_category/winners./award/award_honor/award_winner	/award/award_category/winners./award/award_honor/award_winner
+-1
+-7.91176629066
+___
+/m/043q4d	/m/010p3	/m/019x4f	/m/0c0k1
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	/people/person/profession	_/people/person/profession
+-1
+-7.99955952168
+___
+/m/043q4d	/m/010p3	/m/019x4f	/m/04n7gc6
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	/people/person/profession	_/people/person/profession
+-1
+-7.99955952168
+___
+/m/043q4d	/m/010p3	/m/019x4f	/m/045m1_
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	/people/person/profession	_/people/person/profession
+-1
+-7.99955952168
+___
+/m/043q4d	/m/010p3	/m/019x4f	/m/02nb2s
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	/people/person/profession	_/people/person/profession
+-1
+-7.99955952168
+___
+/m/043q4d	/m/035wq7	/m/06hwzy	/m/0ckd1
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	/tv/tv_personality/tv_regular_appearances./tv/tv_regular_personal_appearance/program	/tv/tv_program/tv_producer./tv/tv_producer_term/producer_type
+-1
+-8.20149803162
+___
+/m/043q4d	/m/0hfml	/m/0htp	/m/0htp
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	/people/person/profession	NO_OP
+-1
+-8.20165252686
+___
+/m/043q4d	/m/035wq7	/m/06hwzy	/m/02h40lc
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	/tv/tv_personality/tv_regular_appearances./tv/tv_regular_personal_appearance/program	/tv/tv_program/languages
+-1
+-8.25733006001
+___
+/m/043q4d	/m/035wq7	/m/035wq7	/m/04ztj
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	NO_OP	/people/person/spouse_s./people/marriage/type_of_union
+-1
+-8.54697394371
+___
+/m/043q4d	/m/035wq7	/m/035wq7	/m/02hrh1q
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	NO_OP	/people/person/profession
+-1
+-8.60264027119
+___
+/m/043q4d	/m/035wq7	/m/06hwzy	/m/09c7w0
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	/tv/tv_personality/tv_regular_appearances./tv/tv_regular_personal_appearance/program	/tv/tv_program/country_of_origin
+-1
+-8.63883519173
+___
+/m/043q4d	/m/035wq7	/m/06hwzy	/m/06ntj
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	/tv/tv_personality/tv_regular_appearances./tv/tv_regular_personal_appearance/program	/tv/tv_program/genre
+-1
+-8.74169945717
+___
+/m/043q4d	/m/035wq7	/m/02dq8f	/m/09nqf
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	_/education/educational_institution/students_graduates./education/education/student	/education/university/domestic_tuition./measurement_unit/dated_money_value/currency
+-1
+-8.96756887436
+___
+/m/043q4d	/m/035wq7	/m/06wzvr	/m/02h40lc
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	/film/actor/film./film/performance/film	/film/film/language
+-1
+-8.99611592293
+___
+/m/043q4d	/m/035wq7	/m/06hwzy	/m/0hm10
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	/tv/tv_personality/tv_regular_appearances./tv/tv_regular_personal_appearance/program	_/tv/tv_network/programs./tv/tv_network_duration/program
+-1
+-9.01247096062
+___
+/m/043q4d	/m/035wq7	/m/06hwzy	/m/0gsg7
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	/tv/tv_personality/tv_regular_appearances./tv/tv_regular_personal_appearance/program	_/tv/tv_network/programs./tv/tv_network_duration/program
+-1
+-9.01247096062
+___
+/m/043q4d	/m/035wq7	/m/0gxsh4	/m/0ckd1
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	/award/award_nominee/award_nominations./award/award_nomination/nominated_for	/tv/tv_program/tv_producer./tv/tv_producer_term/producer_type
+-1
+-9.03152275085
+___
+/m/043q4d	/m/012_53	/m/06fc0b	/m/01d_h8
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	_/base/popstra/celebrity/canoodled./base/popstra/canoodled/participant	/people/person/profession
+-1
+-9.05462956429
+___
+/m/043q4d	/m/035wq7	/m/02dq8f	/m/09ggk
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	_/education/educational_institution/students_graduates./education/education/student	/education/educational_institution/colors
+-1
+-9.06816220284
+___
+/m/043q4d	/m/035wq7	/m/02dq8f	/m/01l849
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	_/education/educational_institution/students_graduates./education/education/student	/education/educational_institution/colors
+-1
+-9.06816220284
+___
+/m/043q4d	/m/01yznp	/m/03sbb	/m/071jrc
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	/people/person/profession	_/people/person/profession
+-1
+-9.07036566734
+___
+/m/043q4d	/m/01yznp	/m/03sbb	/m/01vsksr
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	/people/person/profession	_/people/person/profession
+-1
+-9.07036566734
+___
+/m/043q4d	/m/01yznp	/m/03sbb	/m/0klw
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	/people/person/profession	_/people/person/profession
+-1
+-9.07036566734
+___
+/m/043q4d	/m/01yznp	/m/03sbb	/m/04lg6
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	/people/person/profession	_/people/person/profession
+-1
+-9.07036566734
+___
+/m/043q4d	/m/01yznp	/m/03sbb	/m/07cbs
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	/people/person/profession	_/people/person/profession
+-1
+-9.07036566734
+___
+/m/043q4d	/m/01yznp	/m/03sbb	/m/07bty
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	/people/person/profession	_/people/person/profession
+-1
+-9.07036566734
+___
+/m/043q4d	/m/01yznp	/m/03sbb	/m/06y3r
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	/people/person/profession	_/people/person/profession
+-1
+-9.07036566734
+___
+/m/043q4d	/m/01yznp	/m/03sbb	/m/05d1y
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	/people/person/profession	_/people/person/profession
+-1
+-9.07036566734
+___
+/m/043q4d	/m/01yznp	/m/03sbb	/m/03_gd
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	/people/person/profession	_/people/person/profession
+-1
+-9.07036566734
+___
+/m/043q4d	/m/01yznp	/m/03sbb	/m/06bng
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	/people/person/profession	_/people/person/profession
+-1
+-9.07036566734
+___
+/m/043q4d	/m/01yznp	/m/03sbb	/m/019r_1
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	/people/person/profession	_/people/person/profession
+-1
+-9.07036566734
+___
+/m/043q4d	/m/012_53	/m/06fc0b	/m/04fzk
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	_/base/popstra/celebrity/canoodled./base/popstra/canoodled/participant	_/base/popstra/celebrity/canoodled./base/popstra/canoodled/participant
+-1
+-9.14605402946
+___
+/m/043q4d	/m/012_53	/m/06fc0b	/m/0227vl
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	_/base/popstra/celebrity/canoodled./base/popstra/canoodled/participant	_/base/popstra/celebrity/canoodled./base/popstra/canoodled/participant
+-1
+-9.14605402946
+___
+/m/043q4d	/m/012_53	/m/06fc0b	/m/01pgzn_
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	_/base/popstra/celebrity/canoodled./base/popstra/canoodled/participant	_/base/popstra/celebrity/canoodled./base/popstra/canoodled/participant
+-1
+-9.14605402946
+___
+/m/043q4d	/m/035wq7	/m/035wq7	/m/043q4d
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	NO_OP	_/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person
+-1
+-9.15082335472
+___
+/m/043q4d	/m/035wq7	/m/035wq7	/m/02dq8f
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	NO_OP	_/education/educational_institution/students_graduates./education/education/student
+-1
+-9.20949029922
+___
+/m/043q4d	/m/0253b6	/m/0641kkh	/m/0btpx
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	/award/award_nominee/award_nominations./award/award_nomination/award	_/award/award_nominee/award_nominations./award/award_nomination/award
+-1
+-9.2324898243
+___
+/m/043q4d	/m/0253b6	/m/0641kkh	/m/01hcj2
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	/award/award_nominee/award_nominations./award/award_nomination/award	_/award/award_nominee/award_nominations./award/award_nomination/award
+-1
+-9.2324898243
+___
+/m/043q4d	/m/0253b6	/m/0641kkh	/m/0bksh
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	/award/award_nominee/award_nominations./award/award_nomination/award	_/award/award_nominee/award_nominations./award/award_nomination/award
+-1
+-9.2324898243
+___
+/m/043q4d	/m/0253b6	/m/0641kkh	/m/0j5q3
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	/award/award_nominee/award_nominations./award/award_nomination/award	_/award/award_nominee/award_nominations./award/award_nomination/award
+-1
+-9.2324898243
+___
+/m/043q4d	/m/0253b6	/m/0641kkh	/m/03knl
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	/award/award_nominee/award_nominations./award/award_nomination/award	_/award/award_nominee/award_nominations./award/award_nomination/award
+-1
+-9.2324898243
+___
+/m/043q4d	/m/0253b6	/m/0641kkh	/m/01vs_v8
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	/award/award_nominee/award_nominations./award/award_nomination/award	_/award/award_nominee/award_nominations./award/award_nomination/award
+-1
+-9.2324898243
+___
+/m/043q4d	/m/0253b6	/m/0641kkh	/m/046zh
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	/award/award_nominee/award_nominations./award/award_nomination/award	_/award/award_nominee/award_nominations./award/award_nomination/award
+-1
+-9.2324898243
+___
+/m/043q4d	/m/0253b6	/m/0641kkh	/m/0gbwp
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	/award/award_nominee/award_nominations./award/award_nomination/award	_/award/award_nominee/award_nominations./award/award_nomination/award
+-1
+-9.2324898243
+___
+/m/043q4d	/m/035wq7	/m/06wzvr	/m/07bdd_
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	/film/actor/film./film/performance/film	/award/award_winning_work/awards_won./award/award_honor/award
+-1
+-9.23680782318
+___
+/m/043q4d	/m/035wq7	/m/06wzvr	/m/09nqf
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	/film/actor/film./film/performance/film	/film/film/estimated_budget./measurement_unit/dated_money_value/currency
+-1
+-9.26750254631
+___
+/m/043q4d	/m/012_53	/m/06fc0b	/m/01d_h8
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	/base/popstra/celebrity/canoodled./base/popstra/canoodled/participant	/people/person/profession
+-1
+-9.33321619034
+___
+/m/043q4d	/m/035wq7	/m/06wzvr	/m/05b4l5x
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	/film/actor/film./film/performance/film	_/award/award_category/nominees./award/award_nomination/nominated_for
+-1
+-9.33763885498
+___
+/m/043q4d	/m/035wq7	/m/06wzvr	/m/03c7tr1
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	/film/actor/film./film/performance/film	_/award/award_category/nominees./award/award_nomination/nominated_for
+-1
+-9.33763885498
+___
+/m/043q4d	/m/035wq7	/m/06wzvr	/m/05b1610
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	/film/actor/film./film/performance/film	_/award/award_category/nominees./award/award_nomination/nominated_for
+-1
+-9.33763885498
+___
+/m/043q4d	/m/035wq7	/m/06wzvr	/m/07cbcy
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	/film/actor/film./film/performance/film	_/award/award_category/nominees./award/award_nomination/nominated_for
+-1
+-9.33763885498
+___
+/m/043q4d	/m/035wq7	/m/06wzvr	/m/05f4m9q
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	/film/actor/film./film/performance/film	_/award/award_category/nominees./award/award_nomination/nominated_for
+-1
+-9.33763885498
+___
+/m/043q4d	/m/035wq7	/m/02dq8f	/m/05jxkf
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	_/education/educational_institution/students_graduates./education/education/student	/education/educational_institution/school_type
+-1
+-9.35601878166
+___
+/m/043q4d	/m/012_53	/m/06fc0b	/m/04fzk
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	/base/popstra/celebrity/canoodled./base/popstra/canoodled/participant	_/base/popstra/celebrity/canoodled./base/popstra/canoodled/participant
+-1
+-9.35728621483
+___
+/m/043q4d	/m/012_53	/m/06fc0b	/m/0227vl
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	/base/popstra/celebrity/canoodled./base/popstra/canoodled/participant	_/base/popstra/celebrity/canoodled./base/popstra/canoodled/participant
+-1
+-9.35728621483
+___
+/m/043q4d	/m/012_53	/m/06fc0b	/m/01pgzn_
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	/base/popstra/celebrity/canoodled./base/popstra/canoodled/participant	_/base/popstra/celebrity/canoodled./base/popstra/canoodled/participant
+-1
+-9.35728621483
+___
+/m/043q4d	/m/012_53	/m/06fc0b	/m/01pgzn_
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	_/base/popstra/celebrity/canoodled./base/popstra/canoodled/participant	/base/popstra/celebrity/canoodled./base/popstra/canoodled/participant
+-1
+-9.38268518448
+___
+/m/043q4d	/m/012_53	/m/06fc0b	/m/04fzk
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	_/base/popstra/celebrity/canoodled./base/popstra/canoodled/participant	/base/popstra/celebrity/canoodled./base/popstra/canoodled/participant
+-1
+-9.38268518448
+___
+/m/043q4d	/m/035wq7	/m/035wq7	/m/0cr3d
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	NO_OP	/people/person/places_lived./people/place_lived/location
+-1
+-9.39606308937
+___
+/m/043q4d	/m/035wq7	/m/06wzvr	/m/04t36
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	/film/actor/film./film/performance/film	_/media_common/netflix_genre/titles
+-1
+-9.41711139679
+___
+/m/043q4d	/m/035wq7	/m/06wzvr	/m/026z9
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	/film/actor/film./film/performance/film	_/media_common/netflix_genre/titles
+-1
+-9.41711139679
+___
+/m/043q4d	/m/035wq7	/m/035wq7	/m/06hwzy
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	NO_OP	/tv/tv_personality/tv_regular_appearances./tv/tv_regular_personal_appearance/program
+-1
+-9.42693448067
+___
+/m/043q4d	/m/012_53	/m/06fc0b	/m/09nqf
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	_/base/popstra/celebrity/canoodled./base/popstra/canoodled/participant	/base/schemastaging/person_extra/net_worth./measurement_unit/dated_money_value/currency
+-1
+-9.43743348122
+___
+/m/043q4d	/m/012_53	/m/06fc0b	/m/01pgzn_
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	/base/popstra/celebrity/canoodled./base/popstra/canoodled/participant	/base/popstra/celebrity/canoodled./base/popstra/canoodled/participant
+-1
+-9.46073317528
+___
+/m/043q4d	/m/012_53	/m/06fc0b	/m/04fzk
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	/base/popstra/celebrity/canoodled./base/popstra/canoodled/participant	/base/popstra/celebrity/canoodled./base/popstra/canoodled/participant
+-1
+-9.46073317528
+___
+/m/043q4d	/m/035wq7	/m/035wq7	/m/09c7w0
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	NO_OP	/people/person/nationality
+-1
+-9.46284604073
+___
+/m/043q4d	/m/035wq7	/m/0gxsh4	/m/0pr6f
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	/award/award_nominee/award_nominations./award/award_nomination/nominated_for	/tv/tv_program/genre
+-1
+-9.47616624832
+___
+/m/043q4d	/m/035wq7	/m/02dq8f	/m/09nqf
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	_/education/educational_institution/students_graduates./education/education/student	/education/university/local_tuition./measurement_unit/dated_money_value/currency
+-1
+-9.4807035923
+___
+/m/043q4d	/m/035wq7	/m/02dq8f	/m/09nqf
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	_/education/educational_institution/students_graduates./education/education/student	/organization/endowed_organization/endowment./measurement_unit/dated_money_value/currency
+-1
+-9.49207401276
+___
+/m/043q4d	/m/035wq7	/m/0gxsh4	/m/09c7w0
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	/award/award_nominee/award_nominations./award/award_nomination/nominated_for	/tv/tv_program/country_of_origin
+-1
+-9.49481391907
+___
+/m/043q4d	/m/03xx9l	/m/09lvl1	/m/01d0b1
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	/award/award_nominee/award_nominations./award/award_nomination/award	_/award/award_nominee/award_nominations./award/award_nomination/award
+-1
+-9.51351714134
+___
+/m/043q4d	/m/03xx9l	/m/09lvl1	/m/05dbyt
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	/award/award_nominee/award_nominations./award/award_nomination/award	_/award/award_nominee/award_nominations./award/award_nomination/award
+-1
+-9.51351714134
+___
+/m/043q4d	/m/03xx9l	/m/09lvl1	/m/01nvmd_
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	/award/award_nominee/award_nominations./award/award_nomination/award	_/award/award_nominee/award_nominations./award/award_nomination/award
+-1
+-9.51351714134
+___
+/m/043q4d	/m/03xx9l	/m/09lvl1	/m/01vh18t
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	/award/award_nominee/award_nominations./award/award_nomination/award	_/award/award_nominee/award_nominations./award/award_nomination/award
+-1
+-9.51351714134
+___
+/m/043q4d	/m/03xx9l	/m/09lvl1	/m/01v6480
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	/award/award_nominee/award_nominations./award/award_nomination/award	_/award/award_nominee/award_nominations./award/award_nomination/award
+-1
+-9.51351714134
+___
+/m/043q4d	/m/03xx9l	/m/09lvl1	/m/01wb8bs
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	/award/award_nominee/award_nominations./award/award_nomination/award	_/award/award_nominee/award_nominations./award/award_nomination/award
+-1
+-9.51351714134
+___
+/m/043q4d	/m/03xx9l	/m/09lvl1	/m/02gyl0
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	/award/award_nominee/award_nominations./award/award_nomination/award	_/award/award_nominee/award_nominations./award/award_nomination/award
+-1
+-9.51351714134
+___
+/m/043q4d	/m/03xx9l	/m/09lvl1	/m/04twmk
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	/award/award_nominee/award_nominations./award/award_nomination/award	_/award/award_nominee/award_nominations./award/award_nomination/award
+-1
+-9.51351714134
+___
+/m/043q4d	/m/03xx9l	/m/09lvl1	/m/03pmzt
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	/award/award_nominee/award_nominations./award/award_nomination/award	_/award/award_nominee/award_nominations./award/award_nomination/award
+-1
+-9.51351714134
+___
+/m/043q4d	/m/03xx9l	/m/09lvl1	/m/02t__l
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	/award/award_nominee/award_nominations./award/award_nomination/award	_/award/award_nominee/award_nominations./award/award_nomination/award
+-1
+-9.51351714134
+___
+/m/043q4d	/m/03xx9l	/m/09lvl1	/m/01gbn6
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	/award/award_nominee/award_nominations./award/award_nomination/award	_/award/award_nominee/award_nominations./award/award_nomination/award
+-1
+-9.51351714134
+___
+/m/043q4d	/m/03xx9l	/m/09lvl1	/m/01vb403
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	/award/award_nominee/award_nominations./award/award_nomination/award	_/award/award_nominee/award_nominations./award/award_nomination/award
+-1
+-9.51351714134
+___
+/m/043q4d	/m/03xx9l	/m/09lvl1	/m/02sjf5
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	/award/award_nominee/award_nominations./award/award_nomination/award	_/award/award_nominee/award_nominations./award/award_nomination/award
+-1
+-9.51351714134
+___
+/m/043q4d	/m/035wq7	/m/02dq8f	/m/0dq16
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	_/education/educational_institution/students_graduates./education/education/student	/organization/organization/headquarters./location/mailing_address/citytown
+-1
+-9.52662062645
+___
+/m/043q4d	/m/035wq7	/m/06wzvr	/m/01q03
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	/film/actor/film./film/performance/film	/film/film/genre
+-1
+-9.54060173035
+___
+/m/043q4d	/m/035wq7	/m/06wzvr	/m/05p553
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	/film/actor/film./film/performance/film	/film/film/genre
+-1
+-9.54060173035
+___
+/m/043q4d	/m/035wq7	/m/06wzvr	/m/09c7w0
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	/film/actor/film./film/performance/film	/film/film/country
+-1
+-9.56245017052
+___
+/m/043q4d	/m/035wq7	/m/035wq7	/m/05zppz
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	NO_OP	/people/person/gender
+-1
+-9.56485438347
+___
+/m/043q4d	/m/035wq7	/m/035wq7	/m/06wzvr
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	NO_OP	/film/actor/film./film/performance/film
+-1
+-9.56520390511
+___
+/m/043q4d	/m/012_53	/m/06fc0b	/m/01d34b
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	_/base/popstra/celebrity/canoodled./base/popstra/canoodled/participant	_/education/educational_institution/students_graduates./education/education/student
+-1
+-9.58201122284
+___
+/m/043q4d	/m/035wq7	/m/06hwzy	/m/06hwzy
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	/tv/tv_personality/tv_regular_appearances./tv/tv_regular_personal_appearance/program	NO_OP
+-1
+-9.606310606
+___
+/m/043q4d	/m/035wq7	/m/035wq7	/m/048z7l
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	NO_OP	_/people/ethnicity/people
+-1
+-9.60715675354
+___
+/m/043q4d	/m/035wq7	/m/02dq8f	/m/06ms6
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	_/education/educational_institution/students_graduates./education/education/student	/education/educational_institution/students_graduates./education/education/major_field_of_study
+-1
+-9.61980891228
+___
+/m/043q4d	/m/035wq7	/m/02dq8f	/m/04sh3
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	_/education/educational_institution/students_graduates./education/education/student	/education/educational_institution/students_graduates./education/education/major_field_of_study
+-1
+-9.61980891228
+___
+/m/043q4d	/m/035wq7	/m/02dq8f	/m/01mkq
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	_/education/educational_institution/students_graduates./education/education/student	/education/educational_institution/students_graduates./education/education/major_field_of_study
+-1
+-9.61980891228
+___
+/m/043q4d	/m/035wq7	/m/02dq8f	/m/02jfc
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	_/education/educational_institution/students_graduates./education/education/student	/education/educational_institution/students_graduates./education/education/major_field_of_study
+-1
+-9.61980891228
+___
+#####################
+/m/043q4d	/m/02w5q6
+Reward:0
+/m/043q4d	/m/035wq7	/m/043q4d	/m/043q4d
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	_/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	NO_OP
+-1
+-6.38460063934
+___
+/m/043q4d	/m/0hfml	/m/0htp	/m/0sxgv
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	/people/person/profession	/film/film_subject/films
+-1
+-6.72247189283
+___
+/m/043q4d	/m/0hfml	/m/04qy5	/m/08_hns
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	_/award/award_category/winners./award/award_honor/award_winner	/award/award_category/winners./award/award_honor/award_winner
+-1
+-7.91176629066
+___
+/m/043q4d	/m/0hfml	/m/04qy5	/m/012vct
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	_/award/award_category/winners./award/award_honor/award_winner	/award/award_category/winners./award/award_honor/award_winner
+-1
+-7.91176629066
+___
+/m/043q4d	/m/0hfml	/m/04qy5	/m/0bymv
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	_/award/award_category/winners./award/award_honor/award_winner	/award/award_category/winners./award/award_honor/award_winner
+-1
+-7.91176629066
+___
+/m/043q4d	/m/010p3	/m/019x4f	/m/0c0k1
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	/people/person/profession	_/people/person/profession
+-1
+-7.99955952168
+___
+/m/043q4d	/m/010p3	/m/019x4f	/m/04n7gc6
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	/people/person/profession	_/people/person/profession
+-1
+-7.99955952168
+___
+/m/043q4d	/m/010p3	/m/019x4f	/m/045m1_
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	/people/person/profession	_/people/person/profession
+-1
+-7.99955952168
+___
+/m/043q4d	/m/010p3	/m/019x4f	/m/02nb2s
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	/people/person/profession	_/people/person/profession
+-1
+-7.99955952168
+___
+/m/043q4d	/m/0hfml	/m/0htp	/m/0htp
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	/people/person/profession	NO_OP
+-1
+-8.20165252686
+___
+/m/043q4d	/m/035wq7	/m/06hwzy	/m/0ckd1
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	/tv/tv_personality/tv_regular_appearances./tv/tv_regular_personal_appearance/program	/tv/tv_program/tv_producer./tv/tv_producer_term/producer_type
+-1
+-8.2548224926
+___
+/m/043q4d	/m/035wq7	/m/06hwzy	/m/02h40lc
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	/tv/tv_personality/tv_regular_appearances./tv/tv_regular_personal_appearance/program	/tv/tv_program/languages
+-1
+-8.31065452099
+___
+/m/043q4d	/m/035wq7	/m/035wq7	/m/04ztj
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	NO_OP	/people/person/spouse_s./people/marriage/type_of_union
+-1
+-8.54697394371
+___
+/m/043q4d	/m/035wq7	/m/035wq7	/m/02hrh1q
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	NO_OP	/people/person/profession
+-1
+-8.60264027119
+___
+/m/043q4d	/m/035wq7	/m/06hwzy	/m/09c7w0
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	/tv/tv_personality/tv_regular_appearances./tv/tv_regular_personal_appearance/program	/tv/tv_program/country_of_origin
+-1
+-8.69215965271
+___
+/m/043q4d	/m/035wq7	/m/06hwzy	/m/06ntj
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	/tv/tv_personality/tv_regular_appearances./tv/tv_regular_personal_appearance/program	/tv/tv_program/genre
+-1
+-8.79502391815
+___
+/m/043q4d	/m/035wq7	/m/02dq8f	/m/09nqf
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	_/education/educational_institution/students_graduates./education/education/student	/education/university/domestic_tuition./measurement_unit/dated_money_value/currency
+-1
+-8.96756887436
+___
+/m/043q4d	/m/035wq7	/m/06wzvr	/m/02h40lc
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	/film/actor/film./film/performance/film	/film/film/language
+-1
+-8.99611592293
+___
+/m/043q4d	/m/035wq7	/m/0gxsh4	/m/0ckd1
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	/award/award_nominee/award_nominations./award/award_nomination/nominated_for	/tv/tv_program/tv_producer./tv/tv_producer_term/producer_type
+-1
+-9.03152275085
+___
+/m/043q4d	/m/012_53	/m/06fc0b	/m/01d_h8
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	_/base/popstra/celebrity/canoodled./base/popstra/canoodled/participant	/people/person/profession
+-1
+-9.05462956429
+___
+/m/043q4d	/m/035wq7	/m/06hwzy	/m/0hm10
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	/tv/tv_personality/tv_regular_appearances./tv/tv_regular_personal_appearance/program	_/tv/tv_network/programs./tv/tv_network_duration/program
+-1
+-9.0657954216
+___
+/m/043q4d	/m/035wq7	/m/06hwzy	/m/0gsg7
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	/tv/tv_personality/tv_regular_appearances./tv/tv_regular_personal_appearance/program	_/tv/tv_network/programs./tv/tv_network_duration/program
+-1
+-9.0657954216
+___
+/m/043q4d	/m/035wq7	/m/02dq8f	/m/01l849
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	_/education/educational_institution/students_graduates./education/education/student	/education/educational_institution/colors
+-1
+-9.06816220284
+___
+/m/043q4d	/m/035wq7	/m/02dq8f	/m/09ggk
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	_/education/educational_institution/students_graduates./education/education/student	/education/educational_institution/colors
+-1
+-9.06816220284
+___
+/m/043q4d	/m/01yznp	/m/03sbb	/m/019r_1
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	/people/person/profession	_/people/person/profession
+-1
+-9.07036566734
+___
+/m/043q4d	/m/01yznp	/m/03sbb	/m/06y3r
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	/people/person/profession	_/people/person/profession
+-1
+-9.07036566734
+___
+/m/043q4d	/m/01yznp	/m/03sbb	/m/07bty
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	/people/person/profession	_/people/person/profession
+-1
+-9.07036566734
+___
+/m/043q4d	/m/01yznp	/m/03sbb	/m/05d1y
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	/people/person/profession	_/people/person/profession
+-1
+-9.07036566734
+___
+/m/043q4d	/m/01yznp	/m/03sbb	/m/071jrc
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	/people/person/profession	_/people/person/profession
+-1
+-9.07036566734
+___
+/m/043q4d	/m/01yznp	/m/03sbb	/m/06bng
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	/people/person/profession	_/people/person/profession
+-1
+-9.07036566734
+___
+/m/043q4d	/m/01yznp	/m/03sbb	/m/04lg6
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	/people/person/profession	_/people/person/profession
+-1
+-9.07036566734
+___
+/m/043q4d	/m/01yznp	/m/03sbb	/m/0klw
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	/people/person/profession	_/people/person/profession
+-1
+-9.07036566734
+___
+/m/043q4d	/m/01yznp	/m/03sbb	/m/03_gd
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	/people/person/profession	_/people/person/profession
+-1
+-9.07036566734
+___
+/m/043q4d	/m/01yznp	/m/03sbb	/m/07cbs
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	/people/person/profession	_/people/person/profession
+-1
+-9.07036566734
+___
+/m/043q4d	/m/01yznp	/m/03sbb	/m/01vsksr
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	/people/person/profession	_/people/person/profession
+-1
+-9.07036566734
+___
+/m/043q4d	/m/012_53	/m/06fc0b	/m/01pgzn_
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	_/base/popstra/celebrity/canoodled./base/popstra/canoodled/participant	_/base/popstra/celebrity/canoodled./base/popstra/canoodled/participant
+-1
+-9.14605402946
+___
+/m/043q4d	/m/012_53	/m/06fc0b	/m/04fzk
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	_/base/popstra/celebrity/canoodled./base/popstra/canoodled/participant	_/base/popstra/celebrity/canoodled./base/popstra/canoodled/participant
+-1
+-9.14605402946
+___
+/m/043q4d	/m/012_53	/m/06fc0b	/m/0227vl
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	_/base/popstra/celebrity/canoodled./base/popstra/canoodled/participant	_/base/popstra/celebrity/canoodled./base/popstra/canoodled/participant
+-1
+-9.14605402946
+___
+/m/043q4d	/m/035wq7	/m/035wq7	/m/043q4d
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	NO_OP	_/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person
+-1
+-9.15082335472
+___
+/m/043q4d	/m/035wq7	/m/035wq7	/m/02dq8f
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	NO_OP	_/education/educational_institution/students_graduates./education/education/student
+-1
+-9.20949029922
+___
+/m/043q4d	/m/0253b6	/m/0641kkh	/m/01vs_v8
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	/award/award_nominee/award_nominations./award/award_nomination/award	_/award/award_nominee/award_nominations./award/award_nomination/award
+-1
+-9.2324898243
+___
+/m/043q4d	/m/0253b6	/m/0641kkh	/m/03knl
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	/award/award_nominee/award_nominations./award/award_nomination/award	_/award/award_nominee/award_nominations./award/award_nomination/award
+-1
+-9.2324898243
+___
+/m/043q4d	/m/0253b6	/m/0641kkh	/m/0bksh
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	/award/award_nominee/award_nominations./award/award_nomination/award	_/award/award_nominee/award_nominations./award/award_nomination/award
+-1
+-9.2324898243
+___
+/m/043q4d	/m/0253b6	/m/0641kkh	/m/0btpx
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	/award/award_nominee/award_nominations./award/award_nomination/award	_/award/award_nominee/award_nominations./award/award_nomination/award
+-1
+-9.2324898243
+___
+/m/043q4d	/m/0253b6	/m/0641kkh	/m/0j5q3
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	/award/award_nominee/award_nominations./award/award_nomination/award	_/award/award_nominee/award_nominations./award/award_nomination/award
+-1
+-9.2324898243
+___
+/m/043q4d	/m/0253b6	/m/0641kkh	/m/046zh
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	/award/award_nominee/award_nominations./award/award_nomination/award	_/award/award_nominee/award_nominations./award/award_nomination/award
+-1
+-9.2324898243
+___
+/m/043q4d	/m/0253b6	/m/0641kkh	/m/01hcj2
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	/award/award_nominee/award_nominations./award/award_nomination/award	_/award/award_nominee/award_nominations./award/award_nomination/award
+-1
+-9.2324898243
+___
+/m/043q4d	/m/0253b6	/m/0641kkh	/m/0gbwp
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	/award/award_nominee/award_nominations./award/award_nomination/award	_/award/award_nominee/award_nominations./award/award_nomination/award
+-1
+-9.2324898243
+___
+/m/043q4d	/m/035wq7	/m/06wzvr	/m/07bdd_
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	/film/actor/film./film/performance/film	/award/award_winning_work/awards_won./award/award_honor/award
+-1
+-9.23680782318
+___
+/m/043q4d	/m/035wq7	/m/06wzvr	/m/09nqf
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	/film/actor/film./film/performance/film	/film/film/estimated_budget./measurement_unit/dated_money_value/currency
+-1
+-9.26750254631
+___
+/m/043q4d	/m/012_53	/m/06fc0b	/m/01d_h8
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	/base/popstra/celebrity/canoodled./base/popstra/canoodled/participant	/people/person/profession
+-1
+-9.33321619034
+___
+/m/043q4d	/m/035wq7	/m/06wzvr	/m/05b1610
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	/film/actor/film./film/performance/film	_/award/award_category/nominees./award/award_nomination/nominated_for
+-1
+-9.33763885498
+___
+/m/043q4d	/m/035wq7	/m/06wzvr	/m/07cbcy
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	/film/actor/film./film/performance/film	_/award/award_category/nominees./award/award_nomination/nominated_for
+-1
+-9.33763885498
+___
+/m/043q4d	/m/035wq7	/m/06wzvr	/m/03c7tr1
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	/film/actor/film./film/performance/film	_/award/award_category/nominees./award/award_nomination/nominated_for
+-1
+-9.33763885498
+___
+/m/043q4d	/m/035wq7	/m/06wzvr	/m/05b4l5x
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	/film/actor/film./film/performance/film	_/award/award_category/nominees./award/award_nomination/nominated_for
+-1
+-9.33763885498
+___
+/m/043q4d	/m/035wq7	/m/06wzvr	/m/05f4m9q
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	/film/actor/film./film/performance/film	_/award/award_category/nominees./award/award_nomination/nominated_for
+-1
+-9.33763885498
+___
+/m/043q4d	/m/035wq7	/m/02dq8f	/m/05jxkf
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	_/education/educational_institution/students_graduates./education/education/student	/education/educational_institution/school_type
+-1
+-9.35601878166
+___
+/m/043q4d	/m/012_53	/m/06fc0b	/m/04fzk
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	/base/popstra/celebrity/canoodled./base/popstra/canoodled/participant	_/base/popstra/celebrity/canoodled./base/popstra/canoodled/participant
+-1
+-9.35728621483
+___
+/m/043q4d	/m/012_53	/m/06fc0b	/m/01pgzn_
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	/base/popstra/celebrity/canoodled./base/popstra/canoodled/participant	_/base/popstra/celebrity/canoodled./base/popstra/canoodled/participant
+-1
+-9.35728621483
+___
+/m/043q4d	/m/012_53	/m/06fc0b	/m/0227vl
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	/base/popstra/celebrity/canoodled./base/popstra/canoodled/participant	_/base/popstra/celebrity/canoodled./base/popstra/canoodled/participant
+-1
+-9.35728621483
+___
+/m/043q4d	/m/012_53	/m/06fc0b	/m/01pgzn_
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	_/base/popstra/celebrity/canoodled./base/popstra/canoodled/participant	/base/popstra/celebrity/canoodled./base/popstra/canoodled/participant
+-1
+-9.38268518448
+___
+/m/043q4d	/m/012_53	/m/06fc0b	/m/04fzk
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	_/base/popstra/celebrity/canoodled./base/popstra/canoodled/participant	/base/popstra/celebrity/canoodled./base/popstra/canoodled/participant
+-1
+-9.38268518448
+___
+/m/043q4d	/m/035wq7	/m/035wq7	/m/0cr3d
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	NO_OP	/people/person/places_lived./people/place_lived/location
+-1
+-9.39606308937
+___
+/m/043q4d	/m/035wq7	/m/06wzvr	/m/026z9
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	/film/actor/film./film/performance/film	_/media_common/netflix_genre/titles
+-1
+-9.41711139679
+___
+/m/043q4d	/m/035wq7	/m/06wzvr	/m/04t36
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	/film/actor/film./film/performance/film	_/media_common/netflix_genre/titles
+-1
+-9.41711139679
+___
+/m/043q4d	/m/035wq7	/m/035wq7	/m/06hwzy
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	NO_OP	/tv/tv_personality/tv_regular_appearances./tv/tv_regular_personal_appearance/program
+-1
+-9.42693448067
+___
+/m/043q4d	/m/012_53	/m/06fc0b	/m/09nqf
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	_/base/popstra/celebrity/canoodled./base/popstra/canoodled/participant	/base/schemastaging/person_extra/net_worth./measurement_unit/dated_money_value/currency
+-1
+-9.43743348122
+___
+/m/043q4d	/m/012_53	/m/06fc0b	/m/04fzk
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	/base/popstra/celebrity/canoodled./base/popstra/canoodled/participant	/base/popstra/celebrity/canoodled./base/popstra/canoodled/participant
+-1
+-9.46073317528
+___
+/m/043q4d	/m/012_53	/m/06fc0b	/m/01pgzn_
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	/base/popstra/celebrity/canoodled./base/popstra/canoodled/participant	/base/popstra/celebrity/canoodled./base/popstra/canoodled/participant
+-1
+-9.46073317528
+___
+/m/043q4d	/m/035wq7	/m/06hwzy	/m/02w5q6
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	/tv/tv_personality/tv_regular_appearances./tv/tv_regular_personal_appearance/program	_/tv/tv_personality/tv_regular_appearances./tv/tv_regular_personal_appearance/program
+1
+-9.46111297607
+___
+/m/043q4d	/m/035wq7	/m/035wq7	/m/09c7w0
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	NO_OP	/people/person/nationality
+-1
+-9.46284604073
+___
+/m/043q4d	/m/035wq7	/m/0gxsh4	/m/0pr6f
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	/award/award_nominee/award_nominations./award/award_nomination/nominated_for	/tv/tv_program/genre
+-1
+-9.47616624832
+___
+/m/043q4d	/m/035wq7	/m/02dq8f	/m/09nqf
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	_/education/educational_institution/students_graduates./education/education/student	/education/university/local_tuition./measurement_unit/dated_money_value/currency
+-1
+-9.4807035923
+___
+/m/043q4d	/m/035wq7	/m/02dq8f	/m/09nqf
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	_/education/educational_institution/students_graduates./education/education/student	/organization/endowed_organization/endowment./measurement_unit/dated_money_value/currency
+-1
+-9.49207401276
+___
+/m/043q4d	/m/035wq7	/m/0gxsh4	/m/09c7w0
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	/award/award_nominee/award_nominations./award/award_nomination/nominated_for	/tv/tv_program/country_of_origin
+-1
+-9.49481391907
+___
+/m/043q4d	/m/03xx9l	/m/09lvl1	/m/01vb403
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	/award/award_nominee/award_nominations./award/award_nomination/award	_/award/award_nominee/award_nominations./award/award_nomination/award
+-1
+-9.51351714134
+___
+/m/043q4d	/m/03xx9l	/m/09lvl1	/m/05dbyt
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	/award/award_nominee/award_nominations./award/award_nomination/award	_/award/award_nominee/award_nominations./award/award_nomination/award
+-1
+-9.51351714134
+___
+/m/043q4d	/m/03xx9l	/m/09lvl1	/m/02gyl0
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	/award/award_nominee/award_nominations./award/award_nomination/award	_/award/award_nominee/award_nominations./award/award_nomination/award
+-1
+-9.51351714134
+___
+/m/043q4d	/m/03xx9l	/m/09lvl1	/m/02t__l
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	/award/award_nominee/award_nominations./award/award_nomination/award	_/award/award_nominee/award_nominations./award/award_nomination/award
+-1
+-9.51351714134
+___
+/m/043q4d	/m/03xx9l	/m/09lvl1	/m/01vh18t
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	/award/award_nominee/award_nominations./award/award_nomination/award	_/award/award_nominee/award_nominations./award/award_nomination/award
+-1
+-9.51351714134
+___
+/m/043q4d	/m/03xx9l	/m/09lvl1	/m/01v6480
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	/award/award_nominee/award_nominations./award/award_nomination/award	_/award/award_nominee/award_nominations./award/award_nomination/award
+-1
+-9.51351714134
+___
+/m/043q4d	/m/03xx9l	/m/09lvl1	/m/01nvmd_
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	/award/award_nominee/award_nominations./award/award_nomination/award	_/award/award_nominee/award_nominations./award/award_nomination/award
+-1
+-9.51351714134
+___
+/m/043q4d	/m/03xx9l	/m/09lvl1	/m/01gbn6
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	/award/award_nominee/award_nominations./award/award_nomination/award	_/award/award_nominee/award_nominations./award/award_nomination/award
+-1
+-9.51351714134
+___
+/m/043q4d	/m/03xx9l	/m/09lvl1	/m/04twmk
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	/award/award_nominee/award_nominations./award/award_nomination/award	_/award/award_nominee/award_nominations./award/award_nomination/award
+-1
+-9.51351714134
+___
+/m/043q4d	/m/03xx9l	/m/09lvl1	/m/01wb8bs
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	/award/award_nominee/award_nominations./award/award_nomination/award	_/award/award_nominee/award_nominations./award/award_nomination/award
+-1
+-9.51351714134
+___
+/m/043q4d	/m/03xx9l	/m/09lvl1	/m/01d0b1
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	/award/award_nominee/award_nominations./award/award_nomination/award	_/award/award_nominee/award_nominations./award/award_nomination/award
+-1
+-9.51351714134
+___
+/m/043q4d	/m/03xx9l	/m/09lvl1	/m/03pmzt
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	/award/award_nominee/award_nominations./award/award_nomination/award	_/award/award_nominee/award_nominations./award/award_nomination/award
+-1
+-9.51351714134
+___
+/m/043q4d	/m/03xx9l	/m/09lvl1	/m/02sjf5
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	/award/award_nominee/award_nominations./award/award_nomination/award	_/award/award_nominee/award_nominations./award/award_nomination/award
+-1
+-9.51351714134
+___
+/m/043q4d	/m/035wq7	/m/02dq8f	/m/0dq16
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	_/education/educational_institution/students_graduates./education/education/student	/organization/organization/headquarters./location/mailing_address/citytown
+-1
+-9.52662062645
+___
+/m/043q4d	/m/035wq7	/m/06wzvr	/m/05p553
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	/film/actor/film./film/performance/film	/film/film/genre
+-1
+-9.54060173035
+___
+/m/043q4d	/m/035wq7	/m/06wzvr	/m/01q03
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	/film/actor/film./film/performance/film	/film/film/genre
+-1
+-9.54060173035
+___
+/m/043q4d	/m/035wq7	/m/06wzvr	/m/09c7w0
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	/film/actor/film./film/performance/film	/film/film/country
+-1
+-9.56245017052
+___
+/m/043q4d	/m/035wq7	/m/035wq7	/m/05zppz
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	NO_OP	/people/person/gender
+-1
+-9.56485438347
+___
+/m/043q4d	/m/035wq7	/m/035wq7	/m/06wzvr
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	NO_OP	/film/actor/film./film/performance/film
+-1
+-9.56520390511
+___
+/m/043q4d	/m/012_53	/m/06fc0b	/m/01d34b
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	_/base/popstra/celebrity/canoodled./base/popstra/canoodled/participant	_/education/educational_institution/students_graduates./education/education/student
+-1
+-9.58201122284
+___
+/m/043q4d	/m/035wq7	/m/035wq7	/m/048z7l
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	NO_OP	_/people/ethnicity/people
+-1
+-9.60715675354
+___
+/m/043q4d	/m/035wq7	/m/02dq8f	/m/04rjg
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	_/education/educational_institution/students_graduates./education/education/student	/education/educational_institution/students_graduates./education/education/major_field_of_study
+-1
+-9.61980891228
+___
+/m/043q4d	/m/035wq7	/m/02dq8f	/m/01lhf
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	_/education/educational_institution/students_graduates./education/education/student	/education/educational_institution/students_graduates./education/education/major_field_of_study
+-1
+-9.61980891228
+___
+/m/043q4d	/m/035wq7	/m/02dq8f	/m/01mkq
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	_/education/educational_institution/students_graduates./education/education/student	/education/educational_institution/students_graduates./education/education/major_field_of_study
+-1
+-9.61980891228
+___
+/m/043q4d	/m/035wq7	/m/02dq8f	/m/02jfc
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	_/education/educational_institution/students_graduates./education/education/student	/education/educational_institution/students_graduates./education/education/major_field_of_study
+-1
+-9.61980891228
+___
+#####################
+/m/0c5lg	/m/07rn0z
+Reward:0
+/m/0c5lg	/m/0163t3	/m/02r_5vd	/m/02r_5vd
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	/people/person/profession	NO_OP
+-1
+-5.44900870323
+___
+/m/0c5lg	/m/0163t3	/m/05s9tm	/m/01my_c
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	/people/person/profession	_/people/person/profession
+-1
+-5.6770747155
+___
+/m/0c5lg	/m/0rlz	/m/0c5lg	/m/083pr
+_/people/person/profession	/people/person/profession	_/people/person/profession
+-1
+-5.73843789101
+___
+/m/0c5lg	/m/0rlz	/m/0c5lg	/m/0rlz
+_/people/person/profession	/people/person/profession	_/people/person/profession
+-1
+-5.73843789101
+___
+/m/0c5lg	/m/083pr	/m/0dl08	/m/063vn
+_/people/person/profession	/people/person/profession	_/people/person/profession
+-1
+-5.77268511057
+___
+/m/0c5lg	/m/083pr	/m/0dl08	/m/083pr
+_/people/person/profession	/people/person/profession	_/people/person/profession
+-1
+-5.77268511057
+___
+/m/0c5lg	/m/083pr	/m/0c5lg	/m/0rlz
+_/people/person/profession	/people/person/profession	_/people/person/profession
+-1
+-5.78518772125
+___
+/m/0c5lg	/m/083pr	/m/0c5lg	/m/083pr
+_/people/person/profession	/people/person/profession	_/people/person/profession
+-1
+-5.78518772125
+___
+/m/0c5lg	/m/08y7b9	/m/0c5lg	/m/0rlz
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	_/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	_/people/person/profession
+-1
+-6.00398755074
+___
+/m/0c5lg	/m/08y7b9	/m/0c5lg	/m/083pr
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	_/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	_/people/person/profession
+-1
+-6.00398755074
+___
+/m/0c5lg	/m/01jb26	/m/0c5lg	/m/0rlz
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	_/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	_/people/person/profession
+-1
+-6.18023371696
+___
+/m/0c5lg	/m/01jb26	/m/0c5lg	/m/083pr
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	_/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	_/people/person/profession
+-1
+-6.18023371696
+___
+/m/0c5lg	/m/035y33	/m/0c5lg	/m/083pr
+/people/profession/specialization_of	_/people/profession/specialization_of	_/people/person/profession
+-1
+-6.19905507565
+___
+/m/0c5lg	/m/035y33	/m/0c5lg	/m/0rlz
+/people/profession/specialization_of	_/people/profession/specialization_of	_/people/person/profession
+-1
+-6.19905507565
+___
+/m/0c5lg	/m/083pr	/m/07wbk	/m/0rh6k
+_/people/person/profession	_/government/political_party/politicians_in_this_party./government/political_party_tenure/politician	/organization/organization/headquarters./location/mailing_address/citytown
+-1
+-6.22139048576
+___
+/m/0c5lg	/m/083pr	/m/07x21	/m/03_nq
+_/people/person/profession	/people/person/religion	_/people/person/religion
+-1
+-6.4352003336
+___
+/m/0c5lg	/m/083pr	/m/07x21	/m/07cbs
+_/people/person/profession	/people/person/religion	_/people/person/religion
+-1
+-6.4352003336
+___
+/m/0c5lg	/m/083pr	/m/07x21	/m/083pr
+_/people/person/profession	/people/person/religion	_/people/person/religion
+-1
+-6.4352003336
+___
+/m/0c5lg	/m/083pr	/m/07x21	/m/0dq2k
+_/people/person/profession	/people/person/religion	_/people/person/religion
+-1
+-6.4352003336
+___
+/m/0c5lg	/m/083pr	/m/07w8f	/m/085gk
+_/people/person/profession	/people/person/religion	_/people/person/religion
+-1
+-6.66332888603
+___
+/m/0c5lg	/m/083pr	/m/07w8f	/m/02wlk
+_/people/person/profession	/people/person/religion	_/people/person/religion
+-1
+-6.66332888603
+___
+/m/0c5lg	/m/083pr	/m/07w8f	/m/099p5
+_/people/person/profession	/people/person/religion	_/people/person/religion
+-1
+-6.66332888603
+___
+/m/0c5lg	/m/083pr	/m/07w8f	/m/06jcc
+_/people/person/profession	/people/person/religion	_/people/person/religion
+-1
+-6.66332888603
+___
+/m/0c5lg	/m/083pr	/m/07w8f	/m/083pr
+_/people/person/profession	/people/person/religion	_/people/person/religion
+-1
+-6.66332888603
+___
+/m/0c5lg	/m/035y33	/m/0d06m5	/m/04ztj
+/people/profession/specialization_of	_/people/person/profession	/people/person/spouse_s./people/marriage/type_of_union
+-1
+-6.98699867725
+___
+/m/0c5lg	/m/08y7b9	/m/0c5lg	/m/035y33
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	_/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	/people/profession/specialization_of
+-1
+-7.03036856651
+___
+/m/0c5lg	/m/0rlz	/m/07wf9	/m/042d1
+_/people/person/profession	_/government/political_party/politicians_in_this_party./government/political_party_tenure/politician	/government/political_party/politicians_in_this_party./government/political_party_tenure/politician
+-1
+-7.04369878769
+___
+/m/0c5lg	/m/0rlz	/m/07wf9	/m/0dq2k
+_/people/person/profession	_/government/political_party/politicians_in_this_party./government/political_party_tenure/politician	/government/political_party/politicians_in_this_party./government/political_party_tenure/politician
+-1
+-7.04369878769
+___
+/m/0c5lg	/m/0rlz	/m/07wf9	/m/0424m
+_/people/person/profession	_/government/political_party/politicians_in_this_party./government/political_party_tenure/politician	/government/political_party/politicians_in_this_party./government/political_party_tenure/politician
+-1
+-7.04369878769
+___
+/m/0c5lg	/m/0rlz	/m/07wf9	/m/0rlz
+_/people/person/profession	_/government/political_party/politicians_in_this_party./government/political_party_tenure/politician	/government/political_party/politicians_in_this_party./government/political_party_tenure/politician
+-1
+-7.04369878769
+___
+/m/0c5lg	/m/0rlz	/m/07wf9	/m/07cbs
+_/people/person/profession	_/government/political_party/politicians_in_this_party./government/political_party_tenure/politician	/government/political_party/politicians_in_this_party./government/political_party_tenure/politician
+-1
+-7.04369878769
+___
+/m/0c5lg	/m/0rlz	/m/07wf9	/m/03_nq
+_/people/person/profession	_/government/political_party/politicians_in_this_party./government/political_party_tenure/politician	/government/political_party/politicians_in_this_party./government/political_party_tenure/politician
+-1
+-7.04369878769
+___
+/m/0c5lg	/m/0rlz	/m/07wf9	/m/0fd_1
+_/people/person/profession	_/government/political_party/politicians_in_this_party./government/political_party_tenure/politician	/government/political_party/politicians_in_this_party./government/political_party_tenure/politician
+-1
+-7.04369878769
+___
+/m/0c5lg	/m/083pr	/m/01fpvz	/m/0f2nf
+_/people/person/profession	_/education/educational_institution/students_graduates./education/education/student	/organization/organization/headquarters./location/mailing_address/citytown
+-1
+-7.08900344372
+___
+/m/0c5lg	/m/083pr	/m/0d04z6	/m/0hzc9wc
+_/people/person/profession	/government/politician/government_positions_held./government/government_position_held/jurisdiction_of_office	/base/aareas/schema/administrative_area/administrative_area_type
+-1
+-7.09220719337
+___
+/m/0c5lg	/m/083pr	/m/0d04z6	/m/0d6hn
+_/people/person/profession	/government/politician/government_positions_held./government/government_position_held/jurisdiction_of_office	_/location/administrative_division/first_level_division_of
+-1
+-7.1624622345
+___
+/m/0c5lg	/m/08y7b9	/m/08y7b9	/m/02hrh1q
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	NO_OP	/people/person/profession
+-1
+-7.18103051186
+___
+/m/0c5lg	/m/08y7b9	/m/08y7b9	/m/018gz8
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	NO_OP	/people/person/profession
+-1
+-7.18103051186
+___
+/m/0c5lg	/m/01jb26	/m/0c5lg	/m/035y33
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	_/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	/people/profession/specialization_of
+-1
+-7.20661473274
+___
+/m/0c5lg	/m/08y7b9	/m/0c5lg	/m/0c5lg
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	_/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	NO_OP
+-1
+-7.2330634594
+___
+/m/0c5lg	/m/0rlz	/m/07wf9	/m/07cbs
+_/people/person/profession	_/government/political_party/politicians_in_this_party./government/political_party_tenure/politician	_/organization/organization_founder/organizations_founded
+-1
+-7.25394392014
+___
+/m/0c5lg	/m/035y33	/m/0d06m5	/m/05sfs
+/people/profession/specialization_of	_/people/person/profession	/people/person/religion
+-1
+-7.35872423649
+___
+/m/0c5lg	/m/035y33	/m/0d06m5	/m/051kv
+/people/profession/specialization_of	_/people/person/profession	/people/person/religion
+-1
+-7.35872423649
+___
+/m/0c5lg	/m/035y33	/m/0d06m5	/m/07y1z
+/people/profession/specialization_of	_/people/person/profession	/people/person/religion
+-1
+-7.35872423649
+___
+/m/0c5lg	/m/0rlz	/m/01gkgk	/m/0vmt
+_/people/person/profession	/government/politician/government_positions_held./government/government_position_held/basic_title	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office
+-1
+-7.40399932861
+___
+/m/0c5lg	/m/0rlz	/m/01gkgk	/m/0f8l9c
+_/people/person/profession	/government/politician/government_positions_held./government/government_position_held/basic_title	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office
+-1
+-7.40399932861
+___
+/m/0c5lg	/m/0rlz	/m/01gkgk	/m/03v1s
+_/people/person/profession	/government/politician/government_positions_held./government/government_position_held/basic_title	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office
+-1
+-7.40399932861
+___
+/m/0c5lg	/m/0rlz	/m/01gkgk	/m/09c7w0
+_/people/person/profession	/government/politician/government_positions_held./government/government_position_held/basic_title	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office
+-1
+-7.40399932861
+___
+/m/0c5lg	/m/0rlz	/m/01gkgk	/m/015fr
+_/people/person/profession	/government/politician/government_positions_held./government/government_position_held/basic_title	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office
+-1
+-7.40399932861
+___
+/m/0c5lg	/m/0rlz	/m/01gkgk	/m/01n7q
+_/people/person/profession	/government/politician/government_positions_held./government/government_position_held/basic_title	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office
+-1
+-7.40399932861
+___
+/m/0c5lg	/m/01jb26	/m/0c5lg	/m/0c5lg
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	_/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	NO_OP
+-1
+-7.40930962563
+___
+/m/0c5lg	/m/083pr	/m/01prf3	/m/07cbs
+_/people/person/profession	/organization/organization_member/member_of./organization/organization_membership/organization	_/organization/organization_member/member_of./organization/organization_membership/organization
+-1
+-7.41068732738
+___
+/m/0c5lg	/m/083pr	/m/01prf3	/m/083pr
+_/people/person/profession	/organization/organization_member/member_of./organization/organization_membership/organization	_/organization/organization_member/member_of./organization/organization_membership/organization
+-1
+-7.41068732738
+___
+/m/0c5lg	/m/083pr	/m/01prf3	/m/06449
+_/people/person/profession	/organization/organization_member/member_of./organization/organization_membership/organization	_/organization/organization_member/member_of./organization/organization_membership/organization
+-1
+-7.41068732738
+___
+/m/0c5lg	/m/083pr	/m/01prf3	/m/0d05fv
+_/people/person/profession	/organization/organization_member/member_of./organization/organization_membership/organization	_/organization/organization_member/member_of./organization/organization_membership/organization
+-1
+-7.41068732738
+___
+/m/0c5lg	/m/083pr	/m/01prf3	/m/0dclg
+_/people/person/profession	/organization/organization_member/member_of./organization/organization_membership/organization	/organization/organization/headquarters./location/mailing_address/citytown
+-1
+-7.46328830719
+___
+/m/0c5lg	/m/083pr	/m/01fpvz	/m/037mh8
+_/people/person/profession	_/education/educational_institution/students_graduates./education/education/student	/education/educational_institution/students_graduates./education/education/major_field_of_study
+-1
+-7.47962427139
+___
+/m/0c5lg	/m/083pr	/m/01snm	/m/060ppp
+_/people/person/profession	/people/person/place_of_birth	_/organization/organization/headquarters./location/mailing_address/citytown
+-1
+-7.5026576519
+___
+/m/0c5lg	/m/083pr	/m/01snm	/m/01pf21
+_/people/person/profession	/people/person/place_of_birth	_/organization/organization/headquarters./location/mailing_address/citytown
+-1
+-7.5026576519
+___
+/m/0c5lg	/m/083pr	/m/01snm	/m/01qygl
+_/people/person/profession	/people/person/place_of_birth	_/organization/organization/headquarters./location/mailing_address/citytown
+-1
+-7.5026576519
+___
+/m/0c5lg	/m/083pr	/m/01snm	/m/02ln0f
+_/people/person/profession	/people/person/place_of_birth	_/organization/organization/headquarters./location/mailing_address/citytown
+-1
+-7.5026576519
+___
+/m/0c5lg	/m/083pr	/m/01snm	/m/02l424
+_/people/person/profession	/people/person/place_of_birth	_/organization/organization/headquarters./location/mailing_address/citytown
+-1
+-7.5026576519
+___
+/m/0c5lg	/m/035y33	/m/0d06m5	/m/0d075m
+/people/profession/specialization_of	_/people/person/profession	_/government/political_party/politicians_in_this_party./government/political_party_tenure/politician
+-1
+-7.53012931347
+___
+/m/0c5lg	/m/035y33	/m/0d06m5	/m/07wbk
+/people/profession/specialization_of	_/people/person/profession	_/government/political_party/politicians_in_this_party./government/political_party_tenure/politician
+-1
+-7.53012931347
+___
+/m/0c5lg	/m/01jb26	/m/0jdx	/m/0hzc9wc
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	/people/person/nationality	/base/aareas/schema/administrative_area/administrative_area_type
+-1
+-7.59356188774
+___
+/m/0c5lg	/m/0163t3	/m/05s9tm	/m/04_tv
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	/people/person/profession	/people/profession/specialization_of
+-1
+-7.61077642441
+___
+/m/0c5lg	/m/083pr	/m/0fj45	/m/03rk0
+_/people/person/profession	/government/politician/government_positions_held./government/government_position_held/basic_title	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office
+-1
+-7.646443367
+___
+/m/0c5lg	/m/083pr	/m/0fj45	/m/06ryl
+_/people/person/profession	/government/politician/government_positions_held./government/government_position_held/basic_title	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office
+-1
+-7.646443367
+___
+/m/0c5lg	/m/083pr	/m/0fj45	/m/0chghy
+_/people/person/profession	/government/politician/government_positions_held./government/government_position_held/basic_title	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office
+-1
+-7.646443367
+___
+/m/0c5lg	/m/083pr	/m/0fj45	/m/07fsv
+_/people/person/profession	/government/politician/government_positions_held./government/government_position_held/basic_title	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office
+-1
+-7.646443367
+___
+/m/0c5lg	/m/083pr	/m/0fj45	/m/0164b
+_/people/person/profession	/government/politician/government_positions_held./government/government_position_held/basic_title	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office
+-1
+-7.646443367
+___
+/m/0c5lg	/m/083pr	/m/0fj45	/m/05v8c
+_/people/person/profession	/government/politician/government_positions_held./government/government_position_held/basic_title	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office
+-1
+-7.646443367
+___
+/m/0c5lg	/m/083pr	/m/0fj45	/m/03_r3
+_/people/person/profession	/government/politician/government_positions_held./government/government_position_held/basic_title	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office
+-1
+-7.646443367
+___
+/m/0c5lg	/m/083pr	/m/0fj45	/m/0162v
+_/people/person/profession	/government/politician/government_positions_held./government/government_position_held/basic_title	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office
+-1
+-7.646443367
+___
+/m/0c5lg	/m/083pr	/m/0fj45	/m/06s6l
+_/people/person/profession	/government/politician/government_positions_held./government/government_position_held/basic_title	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office
+-1
+-7.646443367
+___
+/m/0c5lg	/m/083pr	/m/0fj45	/m/05qkp
+_/people/person/profession	/government/politician/government_positions_held./government/government_position_held/basic_title	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office
+-1
+-7.646443367
+___
+/m/0c5lg	/m/083pr	/m/0fj45	/m/0160w
+_/people/person/profession	/government/politician/government_positions_held./government/government_position_held/basic_title	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office
+-1
+-7.646443367
+___
+/m/0c5lg	/m/083pr	/m/0fj45	/m/0d060g
+_/people/person/profession	/government/politician/government_positions_held./government/government_position_held/basic_title	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office
+-1
+-7.646443367
+___
+/m/0c5lg	/m/08y7b9	/m/08y7b9	/m/0c5lg
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	NO_OP	_/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person
+-1
+-7.7292137146
+___
+/m/0c5lg	/m/0rlz	/m/0631_	/m/01kgg9
+_/people/person/profession	/people/person/religion	_/people/person/religion
+-1
+-7.78599214554
+___
+/m/0c5lg	/m/0rlz	/m/0631_	/m/083q7
+_/people/person/profession	/people/person/religion	_/people/person/religion
+-1
+-7.78599214554
+___
+/m/0c5lg	/m/0rlz	/m/0631_	/m/028rk
+_/people/person/profession	/people/person/religion	_/people/person/religion
+-1
+-7.78599214554
+___
+/m/0c5lg	/m/0rlz	/m/0631_	/m/044qx
+_/people/person/profession	/people/person/religion	_/people/person/religion
+-1
+-7.78599214554
+___
+/m/0c5lg	/m/0rlz	/m/0631_	/m/014vk4
+_/people/person/profession	/people/person/religion	_/people/person/religion
+-1
+-7.78599214554
+___
+/m/0c5lg	/m/0rlz	/m/0631_	/m/0cqt90
+_/people/person/profession	/people/person/religion	_/people/person/religion
+-1
+-7.78599214554
+___
+/m/0c5lg	/m/0rlz	/m/0631_	/m/0rlz
+_/people/person/profession	/people/person/religion	_/people/person/religion
+-1
+-7.78599214554
+___
+/m/0c5lg	/m/0rlz	/m/0631_	/m/043gj
+_/people/person/profession	/people/person/religion	_/people/person/religion
+-1
+-7.78599214554
+___
+/m/0c5lg	/m/0rlz	/m/0631_	/m/0fd_1
+_/people/person/profession	/people/person/religion	_/people/person/religion
+-1
+-7.78599214554
+___
+/m/0c5lg	/m/0rlz	/m/0631_	/m/038w8
+_/people/person/profession	/people/person/religion	_/people/person/religion
+-1
+-7.78599214554
+___
+/m/0c5lg	/m/0rlz	/m/0631_	/m/042f1
+_/people/person/profession	/people/person/religion	_/people/person/religion
+-1
+-7.78599214554
+___
+/m/0c5lg	/m/0rlz	/m/0631_	/m/042fk
+_/people/person/profession	/people/person/religion	_/people/person/religion
+-1
+-7.78599214554
+___
+/m/0c5lg	/m/0rlz	/m/0631_	/m/03f77
+_/people/person/profession	/people/person/religion	_/people/person/religion
+-1
+-7.78599214554
+___
+/m/0c5lg	/m/0rlz	/m/0631_	/m/0444x
+_/people/person/profession	/people/person/religion	_/people/person/religion
+-1
+-7.78599214554
+___
+/m/0c5lg	/m/0rlz	/m/0631_	/m/01vb403
+_/people/person/profession	/people/person/religion	_/people/person/religion
+-1
+-7.78599214554
+___
+/m/0c5lg	/m/083pr	/m/0lbp_	/m/06hx2
+_/people/person/profession	/people/deceased_person/place_of_burial	_/people/deceased_person/place_of_burial
+-1
+-7.79712891579
+___
+/m/0c5lg	/m/083pr	/m/0lbp_	/m/0c8br
+_/people/person/profession	/people/deceased_person/place_of_burial	_/people/deceased_person/place_of_burial
+-1
+-7.79712891579
+___
+/m/0c5lg	/m/083pr	/m/0lbp_	/m/0d3k14
+_/people/person/profession	/people/deceased_person/place_of_burial	_/people/deceased_person/place_of_burial
+-1
+-7.79712891579
+___
+/m/0c5lg	/m/083pr	/m/0lbp_	/m/083pr
+_/people/person/profession	/people/deceased_person/place_of_burial	_/people/deceased_person/place_of_burial
+-1
+-7.79712891579
+___
+/m/0c5lg	/m/083pr	/m/0lbp_	/m/02zfg3
+_/people/person/profession	/people/deceased_person/place_of_burial	_/people/deceased_person/place_of_burial
+-1
+-7.79712891579
+___
+/m/0c5lg	/m/083pr	/m/0lbp_	/m/012c6x
+_/people/person/profession	/people/deceased_person/place_of_burial	_/people/deceased_person/place_of_burial
+-1
+-7.79712891579
+___
+#####################
+/m/043q4d	/m/0gps0z
+Reward:0
+/m/043q4d	/m/035wq7	/m/043q4d	/m/043q4d
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	_/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	NO_OP
+-1
+-6.38460063934
+___
+/m/043q4d	/m/0hfml	/m/0htp	/m/0sxgv
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	/people/person/profession	/film/film_subject/films
+-1
+-6.72247189283
+___
+/m/043q4d	/m/0hfml	/m/04qy5	/m/012vct
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	_/award/award_category/winners./award/award_honor/award_winner	/award/award_category/winners./award/award_honor/award_winner
+-1
+-7.91176629066
+___
+/m/043q4d	/m/0hfml	/m/04qy5	/m/0bymv
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	_/award/award_category/winners./award/award_honor/award_winner	/award/award_category/winners./award/award_honor/award_winner
+-1
+-7.91176629066
+___
+/m/043q4d	/m/0hfml	/m/04qy5	/m/08_hns
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	_/award/award_category/winners./award/award_honor/award_winner	/award/award_category/winners./award/award_honor/award_winner
+-1
+-7.91176629066
+___
+/m/043q4d	/m/010p3	/m/019x4f	/m/0c0k1
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	/people/person/profession	_/people/person/profession
+-1
+-7.99955952168
+___
+/m/043q4d	/m/010p3	/m/019x4f	/m/04n7gc6
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	/people/person/profession	_/people/person/profession
+-1
+-7.99955952168
+___
+/m/043q4d	/m/010p3	/m/019x4f	/m/045m1_
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	/people/person/profession	_/people/person/profession
+-1
+-7.99955952168
+___
+/m/043q4d	/m/010p3	/m/019x4f	/m/02nb2s
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	/people/person/profession	_/people/person/profession
+-1
+-7.99955952168
+___
+/m/043q4d	/m/0hfml	/m/0htp	/m/0htp
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	/people/person/profession	NO_OP
+-1
+-8.20165252686
+___
+/m/043q4d	/m/035wq7	/m/06hwzy	/m/0ckd1
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	/tv/tv_personality/tv_regular_appearances./tv/tv_regular_personal_appearance/program	/tv/tv_program/tv_producer./tv/tv_producer_term/producer_type
+-1
+-8.2548224926
+___
+/m/043q4d	/m/035wq7	/m/06hwzy	/m/02h40lc
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	/tv/tv_personality/tv_regular_appearances./tv/tv_regular_personal_appearance/program	/tv/tv_program/languages
+-1
+-8.31065452099
+___
+/m/043q4d	/m/035wq7	/m/035wq7	/m/04ztj
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	NO_OP	/people/person/spouse_s./people/marriage/type_of_union
+-1
+-8.54697394371
+___
+/m/043q4d	/m/035wq7	/m/035wq7	/m/02hrh1q
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	NO_OP	/people/person/profession
+-1
+-8.60264027119
+___
+/m/043q4d	/m/035wq7	/m/06hwzy	/m/09c7w0
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	/tv/tv_personality/tv_regular_appearances./tv/tv_regular_personal_appearance/program	/tv/tv_program/country_of_origin
+-1
+-8.69215965271
+___
+/m/043q4d	/m/035wq7	/m/06hwzy	/m/06ntj
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	/tv/tv_personality/tv_regular_appearances./tv/tv_regular_personal_appearance/program	/tv/tv_program/genre
+-1
+-8.79502391815
+___
+/m/043q4d	/m/035wq7	/m/02dq8f	/m/09nqf
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	_/education/educational_institution/students_graduates./education/education/student	/education/university/domestic_tuition./measurement_unit/dated_money_value/currency
+-1
+-8.96756887436
+___
+/m/043q4d	/m/035wq7	/m/06wzvr	/m/02h40lc
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	/film/actor/film./film/performance/film	/film/film/language
+-1
+-8.99611592293
+___
+/m/043q4d	/m/035wq7	/m/0gxsh4	/m/0ckd1
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	/award/award_nominee/award_nominations./award/award_nomination/nominated_for	/tv/tv_program/tv_producer./tv/tv_producer_term/producer_type
+-1
+-9.03152275085
+___
+/m/043q4d	/m/012_53	/m/06fc0b	/m/01d_h8
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	_/base/popstra/celebrity/canoodled./base/popstra/canoodled/participant	/people/person/profession
+-1
+-9.05462956429
+___
+/m/043q4d	/m/035wq7	/m/06hwzy	/m/0gsg7
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	/tv/tv_personality/tv_regular_appearances./tv/tv_regular_personal_appearance/program	_/tv/tv_network/programs./tv/tv_network_duration/program
+-1
+-9.0657954216
+___
+/m/043q4d	/m/035wq7	/m/06hwzy	/m/0hm10
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	/tv/tv_personality/tv_regular_appearances./tv/tv_regular_personal_appearance/program	_/tv/tv_network/programs./tv/tv_network_duration/program
+-1
+-9.0657954216
+___
+/m/043q4d	/m/035wq7	/m/02dq8f	/m/01l849
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	_/education/educational_institution/students_graduates./education/education/student	/education/educational_institution/colors
+-1
+-9.06816220284
+___
+/m/043q4d	/m/035wq7	/m/02dq8f	/m/09ggk
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	_/education/educational_institution/students_graduates./education/education/student	/education/educational_institution/colors
+-1
+-9.06816220284
+___
+/m/043q4d	/m/01yznp	/m/03sbb	/m/05d1y
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	/people/person/profession	_/people/person/profession
+-1
+-9.07036566734
+___
+/m/043q4d	/m/01yznp	/m/03sbb	/m/071jrc
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	/people/person/profession	_/people/person/profession
+-1
+-9.07036566734
+___
+/m/043q4d	/m/01yznp	/m/03sbb	/m/01vsksr
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	/people/person/profession	_/people/person/profession
+-1
+-9.07036566734
+___
+/m/043q4d	/m/01yznp	/m/03sbb	/m/06bng
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	/people/person/profession	_/people/person/profession
+-1
+-9.07036566734
+___
+/m/043q4d	/m/01yznp	/m/03sbb	/m/019r_1
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	/people/person/profession	_/people/person/profession
+-1
+-9.07036566734
+___
+/m/043q4d	/m/01yznp	/m/03sbb	/m/06y3r
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	/people/person/profession	_/people/person/profession
+-1
+-9.07036566734
+___
+/m/043q4d	/m/01yznp	/m/03sbb	/m/0klw
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	/people/person/profession	_/people/person/profession
+-1
+-9.07036566734
+___
+/m/043q4d	/m/01yznp	/m/03sbb	/m/04lg6
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	/people/person/profession	_/people/person/profession
+-1
+-9.07036566734
+___
+/m/043q4d	/m/01yznp	/m/03sbb	/m/03_gd
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	/people/person/profession	_/people/person/profession
+-1
+-9.07036566734
+___
+/m/043q4d	/m/01yznp	/m/03sbb	/m/07cbs
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	/people/person/profession	_/people/person/profession
+-1
+-9.07036566734
+___
+/m/043q4d	/m/01yznp	/m/03sbb	/m/07bty
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	/people/person/profession	_/people/person/profession
+-1
+-9.07036566734
+___
+/m/043q4d	/m/012_53	/m/06fc0b	/m/01pgzn_
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	_/base/popstra/celebrity/canoodled./base/popstra/canoodled/participant	_/base/popstra/celebrity/canoodled./base/popstra/canoodled/participant
+-1
+-9.14605402946
+___
+/m/043q4d	/m/012_53	/m/06fc0b	/m/0227vl
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	_/base/popstra/celebrity/canoodled./base/popstra/canoodled/participant	_/base/popstra/celebrity/canoodled./base/popstra/canoodled/participant
+-1
+-9.14605402946
+___
+/m/043q4d	/m/012_53	/m/06fc0b	/m/04fzk
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	_/base/popstra/celebrity/canoodled./base/popstra/canoodled/participant	_/base/popstra/celebrity/canoodled./base/popstra/canoodled/participant
+-1
+-9.14605402946
+___
+/m/043q4d	/m/035wq7	/m/035wq7	/m/043q4d
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	NO_OP	_/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person
+-1
+-9.15082335472
+___
+/m/043q4d	/m/035wq7	/m/035wq7	/m/02dq8f
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	NO_OP	_/education/educational_institution/students_graduates./education/education/student
+-1
+-9.20949029922
+___
+/m/043q4d	/m/0253b6	/m/0641kkh	/m/0bksh
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	/award/award_nominee/award_nominations./award/award_nomination/award	_/award/award_nominee/award_nominations./award/award_nomination/award
+-1
+-9.2324898243
+___
+/m/043q4d	/m/0253b6	/m/0641kkh	/m/03knl
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	/award/award_nominee/award_nominations./award/award_nomination/award	_/award/award_nominee/award_nominations./award/award_nomination/award
+-1
+-9.2324898243
+___
+/m/043q4d	/m/0253b6	/m/0641kkh	/m/01vs_v8
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	/award/award_nominee/award_nominations./award/award_nomination/award	_/award/award_nominee/award_nominations./award/award_nomination/award
+-1
+-9.2324898243
+___
+/m/043q4d	/m/0253b6	/m/0641kkh	/m/01hcj2
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	/award/award_nominee/award_nominations./award/award_nomination/award	_/award/award_nominee/award_nominations./award/award_nomination/award
+-1
+-9.2324898243
+___
+/m/043q4d	/m/0253b6	/m/0641kkh	/m/0btpx
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	/award/award_nominee/award_nominations./award/award_nomination/award	_/award/award_nominee/award_nominations./award/award_nomination/award
+-1
+-9.2324898243
+___
+/m/043q4d	/m/0253b6	/m/0641kkh	/m/046zh
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	/award/award_nominee/award_nominations./award/award_nomination/award	_/award/award_nominee/award_nominations./award/award_nomination/award
+-1
+-9.2324898243
+___
+/m/043q4d	/m/0253b6	/m/0641kkh	/m/0j5q3
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	/award/award_nominee/award_nominations./award/award_nomination/award	_/award/award_nominee/award_nominations./award/award_nomination/award
+-1
+-9.2324898243
+___
+/m/043q4d	/m/0253b6	/m/0641kkh	/m/0gbwp
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	/award/award_nominee/award_nominations./award/award_nomination/award	_/award/award_nominee/award_nominations./award/award_nomination/award
+-1
+-9.2324898243
+___
+/m/043q4d	/m/035wq7	/m/06wzvr	/m/07bdd_
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	/film/actor/film./film/performance/film	/award/award_winning_work/awards_won./award/award_honor/award
+-1
+-9.23680782318
+___
+/m/043q4d	/m/035wq7	/m/06wzvr	/m/09nqf
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	/film/actor/film./film/performance/film	/film/film/estimated_budget./measurement_unit/dated_money_value/currency
+-1
+-9.26750254631
+___
+/m/043q4d	/m/012_53	/m/06fc0b	/m/01d_h8
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	/base/popstra/celebrity/canoodled./base/popstra/canoodled/participant	/people/person/profession
+-1
+-9.33321619034
+___
+/m/043q4d	/m/035wq7	/m/06wzvr	/m/03c7tr1
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	/film/actor/film./film/performance/film	_/award/award_category/nominees./award/award_nomination/nominated_for
+-1
+-9.33763885498
+___
+/m/043q4d	/m/035wq7	/m/06wzvr	/m/05b4l5x
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	/film/actor/film./film/performance/film	_/award/award_category/nominees./award/award_nomination/nominated_for
+-1
+-9.33763885498
+___
+/m/043q4d	/m/035wq7	/m/06wzvr	/m/05f4m9q
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	/film/actor/film./film/performance/film	_/award/award_category/nominees./award/award_nomination/nominated_for
+-1
+-9.33763885498
+___
+/m/043q4d	/m/035wq7	/m/06wzvr	/m/07cbcy
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	/film/actor/film./film/performance/film	_/award/award_category/nominees./award/award_nomination/nominated_for
+-1
+-9.33763885498
+___
+/m/043q4d	/m/035wq7	/m/06wzvr	/m/05b1610
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	/film/actor/film./film/performance/film	_/award/award_category/nominees./award/award_nomination/nominated_for
+-1
+-9.33763885498
+___
+/m/043q4d	/m/035wq7	/m/02dq8f	/m/05jxkf
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	_/education/educational_institution/students_graduates./education/education/student	/education/educational_institution/school_type
+-1
+-9.35601878166
+___
+/m/043q4d	/m/012_53	/m/06fc0b	/m/0227vl
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	/base/popstra/celebrity/canoodled./base/popstra/canoodled/participant	_/base/popstra/celebrity/canoodled./base/popstra/canoodled/participant
+-1
+-9.35728621483
+___
+/m/043q4d	/m/012_53	/m/06fc0b	/m/01pgzn_
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	/base/popstra/celebrity/canoodled./base/popstra/canoodled/participant	_/base/popstra/celebrity/canoodled./base/popstra/canoodled/participant
+-1
+-9.35728621483
+___
+/m/043q4d	/m/012_53	/m/06fc0b	/m/04fzk
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	/base/popstra/celebrity/canoodled./base/popstra/canoodled/participant	_/base/popstra/celebrity/canoodled./base/popstra/canoodled/participant
+-1
+-9.35728621483
+___
+/m/043q4d	/m/012_53	/m/06fc0b	/m/01pgzn_
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	_/base/popstra/celebrity/canoodled./base/popstra/canoodled/participant	/base/popstra/celebrity/canoodled./base/popstra/canoodled/participant
+-1
+-9.38268518448
+___
+/m/043q4d	/m/012_53	/m/06fc0b	/m/04fzk
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	_/base/popstra/celebrity/canoodled./base/popstra/canoodled/participant	/base/popstra/celebrity/canoodled./base/popstra/canoodled/participant
+-1
+-9.38268518448
+___
+/m/043q4d	/m/035wq7	/m/035wq7	/m/0cr3d
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	NO_OP	/people/person/places_lived./people/place_lived/location
+-1
+-9.39606308937
+___
+/m/043q4d	/m/035wq7	/m/06wzvr	/m/04t36
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	/film/actor/film./film/performance/film	_/media_common/netflix_genre/titles
+-1
+-9.41711139679
+___
+/m/043q4d	/m/035wq7	/m/06wzvr	/m/026z9
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	/film/actor/film./film/performance/film	_/media_common/netflix_genre/titles
+-1
+-9.41711139679
+___
+/m/043q4d	/m/035wq7	/m/035wq7	/m/06hwzy
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	NO_OP	/tv/tv_personality/tv_regular_appearances./tv/tv_regular_personal_appearance/program
+-1
+-9.42693448067
+___
+/m/043q4d	/m/012_53	/m/06fc0b	/m/09nqf
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	_/base/popstra/celebrity/canoodled./base/popstra/canoodled/participant	/base/schemastaging/person_extra/net_worth./measurement_unit/dated_money_value/currency
+-1
+-9.43743348122
+___
+/m/043q4d	/m/012_53	/m/06fc0b	/m/04fzk
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	/base/popstra/celebrity/canoodled./base/popstra/canoodled/participant	/base/popstra/celebrity/canoodled./base/popstra/canoodled/participant
+-1
+-9.46073317528
+___
+/m/043q4d	/m/012_53	/m/06fc0b	/m/01pgzn_
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	/base/popstra/celebrity/canoodled./base/popstra/canoodled/participant	/base/popstra/celebrity/canoodled./base/popstra/canoodled/participant
+-1
+-9.46073317528
+___
+/m/043q4d	/m/035wq7	/m/06hwzy	/m/0gps0z
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	/tv/tv_personality/tv_regular_appearances./tv/tv_regular_personal_appearance/program	_/tv/tv_personality/tv_regular_appearances./tv/tv_regular_personal_appearance/program
+1
+-9.46111297607
+___
+/m/043q4d	/m/035wq7	/m/035wq7	/m/09c7w0
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	NO_OP	/people/person/nationality
+-1
+-9.46284604073
+___
+/m/043q4d	/m/035wq7	/m/0gxsh4	/m/0pr6f
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	/award/award_nominee/award_nominations./award/award_nomination/nominated_for	/tv/tv_program/genre
+-1
+-9.47616624832
+___
+/m/043q4d	/m/035wq7	/m/02dq8f	/m/09nqf
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	_/education/educational_institution/students_graduates./education/education/student	/education/university/local_tuition./measurement_unit/dated_money_value/currency
+-1
+-9.4807035923
+___
+/m/043q4d	/m/035wq7	/m/02dq8f	/m/09nqf
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	_/education/educational_institution/students_graduates./education/education/student	/organization/endowed_organization/endowment./measurement_unit/dated_money_value/currency
+-1
+-9.49207401276
+___
+/m/043q4d	/m/035wq7	/m/0gxsh4	/m/09c7w0
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	/award/award_nominee/award_nominations./award/award_nomination/nominated_for	/tv/tv_program/country_of_origin
+-1
+-9.49481391907
+___
+/m/043q4d	/m/03xx9l	/m/09lvl1	/m/01v6480
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	/award/award_nominee/award_nominations./award/award_nomination/award	_/award/award_nominee/award_nominations./award/award_nomination/award
+-1
+-9.51351714134
+___
+/m/043q4d	/m/03xx9l	/m/09lvl1	/m/01vb403
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	/award/award_nominee/award_nominations./award/award_nomination/award	_/award/award_nominee/award_nominations./award/award_nomination/award
+-1
+-9.51351714134
+___
+/m/043q4d	/m/03xx9l	/m/09lvl1	/m/02t__l
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	/award/award_nominee/award_nominations./award/award_nomination/award	_/award/award_nominee/award_nominations./award/award_nomination/award
+-1
+-9.51351714134
+___
+/m/043q4d	/m/03xx9l	/m/09lvl1	/m/03pmzt
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	/award/award_nominee/award_nominations./award/award_nomination/award	_/award/award_nominee/award_nominations./award/award_nomination/award
+-1
+-9.51351714134
+___
+/m/043q4d	/m/03xx9l	/m/09lvl1	/m/05dbyt
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	/award/award_nominee/award_nominations./award/award_nomination/award	_/award/award_nominee/award_nominations./award/award_nomination/award
+-1
+-9.51351714134
+___
+/m/043q4d	/m/03xx9l	/m/09lvl1	/m/01wb8bs
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	/award/award_nominee/award_nominations./award/award_nomination/award	_/award/award_nominee/award_nominations./award/award_nomination/award
+-1
+-9.51351714134
+___
+/m/043q4d	/m/03xx9l	/m/09lvl1	/m/04twmk
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	/award/award_nominee/award_nominations./award/award_nomination/award	_/award/award_nominee/award_nominations./award/award_nomination/award
+-1
+-9.51351714134
+___
+/m/043q4d	/m/03xx9l	/m/09lvl1	/m/01vh18t
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	/award/award_nominee/award_nominations./award/award_nomination/award	_/award/award_nominee/award_nominations./award/award_nomination/award
+-1
+-9.51351714134
+___
+/m/043q4d	/m/03xx9l	/m/09lvl1	/m/02sjf5
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	/award/award_nominee/award_nominations./award/award_nomination/award	_/award/award_nominee/award_nominations./award/award_nomination/award
+-1
+-9.51351714134
+___
+/m/043q4d	/m/03xx9l	/m/09lvl1	/m/01d0b1
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	/award/award_nominee/award_nominations./award/award_nomination/award	_/award/award_nominee/award_nominations./award/award_nomination/award
+-1
+-9.51351714134
+___
+/m/043q4d	/m/03xx9l	/m/09lvl1	/m/01nvmd_
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	/award/award_nominee/award_nominations./award/award_nomination/award	_/award/award_nominee/award_nominations./award/award_nomination/award
+-1
+-9.51351714134
+___
+/m/043q4d	/m/03xx9l	/m/09lvl1	/m/02gyl0
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	/award/award_nominee/award_nominations./award/award_nomination/award	_/award/award_nominee/award_nominations./award/award_nomination/award
+-1
+-9.51351714134
+___
+/m/043q4d	/m/03xx9l	/m/09lvl1	/m/01gbn6
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	/award/award_nominee/award_nominations./award/award_nomination/award	_/award/award_nominee/award_nominations./award/award_nomination/award
+-1
+-9.51351714134
+___
+/m/043q4d	/m/035wq7	/m/02dq8f	/m/0dq16
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	_/education/educational_institution/students_graduates./education/education/student	/organization/organization/headquarters./location/mailing_address/citytown
+-1
+-9.52662062645
+___
+/m/043q4d	/m/035wq7	/m/06wzvr	/m/05p553
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	/film/actor/film./film/performance/film	/film/film/genre
+-1
+-9.54060173035
+___
+/m/043q4d	/m/035wq7	/m/06wzvr	/m/01q03
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	/film/actor/film./film/performance/film	/film/film/genre
+-1
+-9.54060173035
+___
+/m/043q4d	/m/035wq7	/m/06wzvr	/m/09c7w0
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	/film/actor/film./film/performance/film	/film/film/country
+-1
+-9.56245017052
+___
+/m/043q4d	/m/035wq7	/m/035wq7	/m/05zppz
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	NO_OP	/people/person/gender
+-1
+-9.56485438347
+___
+/m/043q4d	/m/035wq7	/m/035wq7	/m/06wzvr
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	NO_OP	/film/actor/film./film/performance/film
+-1
+-9.56520390511
+___
+/m/043q4d	/m/012_53	/m/06fc0b	/m/01d34b
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	_/base/popstra/celebrity/canoodled./base/popstra/canoodled/participant	_/education/educational_institution/students_graduates./education/education/student
+-1
+-9.58201122284
+___
+/m/043q4d	/m/035wq7	/m/035wq7	/m/048z7l
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	NO_OP	_/people/ethnicity/people
+-1
+-9.60715675354
+___
+/m/043q4d	/m/035wq7	/m/02dq8f	/m/02jfc
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	_/education/educational_institution/students_graduates./education/education/student	/education/educational_institution/students_graduates./education/education/major_field_of_study
+-1
+-9.61980891228
+___
+/m/043q4d	/m/035wq7	/m/02dq8f	/m/04rjg
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	_/education/educational_institution/students_graduates./education/education/student	/education/educational_institution/students_graduates./education/education/major_field_of_study
+-1
+-9.61980891228
+___
+/m/043q4d	/m/035wq7	/m/02dq8f	/m/06ms6
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	_/education/educational_institution/students_graduates./education/education/student	/education/educational_institution/students_graduates./education/education/major_field_of_study
+-1
+-9.61980891228
+___
+/m/043q4d	/m/035wq7	/m/02dq8f	/m/01lhf
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	_/education/educational_institution/students_graduates./education/education/student	/education/educational_institution/students_graduates./education/education/major_field_of_study
+-1
+-9.61980891228
+___
+#####################
