@@ -1,0 +1,4 @@
+Begin train
+Train graph contains 544230 triples
+Train data contains 544230 triples
+reward: 0.008984375

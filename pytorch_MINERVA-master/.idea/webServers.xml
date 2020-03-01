@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="f3514335-c446-4a9b-b211-0d653ef310f6" name="chao" url="http://dmserv.cc.gatech.edu">
+        <fileTransfer host="dmserv.cc.gatech.edu" port="22" rootFolder="/localscratch/Chao_lab/wren44" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

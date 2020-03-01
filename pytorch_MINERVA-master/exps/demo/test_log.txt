@@ -1,0 +1,9 @@
+Begin test
+Test graph contains 544230 triples
+Test graph contains 40932 triples
+all_final_reward_1: 0.0045196911951529365
+all_final_reward_3: 0.01448744258770644
+all_final_reward_5: 0.023453532688361183
+all_final_reward_10: 0.04539235805726571
+all_final_reward_20: 0.08272256425290726
+all_r_rank: 0.018906574954738922
