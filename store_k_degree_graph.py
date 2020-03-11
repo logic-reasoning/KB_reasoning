@@ -7,9 +7,11 @@ import csv
 #
 # # TEST MAIN
 
-data_input_dir = "../datasets/data_preprocessed/FB15K-237"
-vocab_dir = "../datasets/data_preprocessed/FB15K-237/vocab"
-triple_store = '../datasets/data_preprocessed/FB15K-237/graph.txt'
+DATASET = "grid-world/problem_16_4_2"
+
+data_input_dir = "../datasets/data_preprocessed/" + DATASET
+vocab_dir = "../datasets/data_preprocessed/" + DATASET + "/vocab"
+triple_store = "../datasets/data_preprocessed/" + DATASET + "/graph.txt"
 
 entity_vocab = json.load(open(vocab_dir + '/entity_vocab.json'))
 relation_vocab = json.load(open(vocab_dir + '/relation_vocab.json'))
@@ -53,6 +55,9 @@ def fine_one_node_neighbor(current_entity, store):
 Vertices = []
 Adjs = []
 
+Vertices_list = []
+Adjs_list = []
+
 k_degree = 3
 
 test_count = 0
@@ -85,6 +90,10 @@ for e1 in store:
 
     Vertices.append(vertices_array)
     Adjs.append(adjs_array)
+
+    Vertices_list.append(vertices)
+    Adjs_list.append(adjs)
+
     #
     # if test_count>2:
     #     break
@@ -92,12 +101,43 @@ for e1 in store:
 # print(Vertices)
 # print(Adjs)
 
-with open(data_input_dir + 'Vertices.txt', 'w') as f:
+E1s = []
+for e1 in store:
+    E1s.append(e1)
+
+
+k_neighbor_dict = {
+    'Current_node': E1s,
+    'Vertices_list': Vertices_list,
+    'Adjs_list': Adjs_list
+}
+
+json_dict = json.dumps(k_neighbor_dict)
+f = open(data_input_dir + "/k_neighbor_dict.json", "w")
+f.write(json_dict)
+f.close()
+
+from collections import defaultdict
+k_neighbor_dd = defaultdict(list)
+
+for i in range(len(E1s)):
+    k_neighbor_dd[E1s[i]].append(Vertices_list[i])
+    k_neighbor_dd[E1s[i]].append(Adjs_list[i])
+
+json_dd = json.dumps(k_neighbor_dd)
+f = open(data_input_dir + "/k_neighbor_dd.json", "w")
+f.write(json_dd)
+f.close()
+# read as k_neighbor_dd[current_entity_id][0] for Vertices and k_neighbor_dd[current_entity_id][1]
+
+with open(data_input_dir + '/Vertices.txt', 'w') as f:
     for item in Vertices:
         f.write("%s\n" % item)
 
-with open(data_input_dir + 'Adjs.txt', 'w') as f:
+with open(data_input_dir + '/Adjs.txt', 'w') as f:
     for item in Adjs:
         f.write("%s\n" % item)
+
+
 
 # del store
